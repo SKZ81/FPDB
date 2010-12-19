@@ -1,0 +1,65 @@
+Full Tilt Poker Game #26190500040: Table Mart - $0.10/$0.20 Ante $0.02 - Limit Razz - 17:19:00 CCT - 2010/12/07 [04:19:00 ET - 2010/12/07]
+Seat 1: Hero ($5.74)
+Seat 2: Player2 ($6.50)
+Seat 3: Player3 ($6.90)
+Seat 4: Player4 ($1.68)
+Seat 5: Player5 ($8.02)
+Seat 6: Player6 ($0.54)
+Seat 7: Player7 ($2.81)
+Seat 8: Player8 ($1.87)
+Player5 antes $0.02
+Player3 antes $0.02
+Player4 antes $0.02
+Player2 antes $0.02
+Player8 antes $0.02
+Hero antes $0.02
+Player7 antes $0.02
+Player6 is sitting out
+*** 3RD STREET ***
+Dealt to Hero [Jc 2d] [6s]
+Dealt to Player2 [Jd]
+Dealt to Player3 [Ad]
+Dealt to Player4 [3s]
+Dealt to Player5 [7h]
+Dealt to Player7 [As]
+Dealt to Player8 [Qc]
+Player8 is high with [Qc]
+Player6 stands up
+Player8 brings in for $0.03
+Hero calls $0.03
+Player2 has 15 seconds left to act
+Player2 folds
+Player3 calls $0.03
+Player4 folds
+Player5 folds
+Player7 folds
+*** 4TH STREET ***
+Dealt to Hero [Jc 2d 6s] [9h]
+Dealt to Player3 [Ad] [Jh]
+Dealt to Player8 [Qc] [8s]
+Hero bets $0.10
+Player3 has 15 seconds left to act
+Player3 folds
+Player8 calls $0.10
+*** 5TH STREET ***
+Dealt to Hero [Jc 2d 6s 9h] [9c]
+Dealt to Player8 [Qc 8s] [6d]
+Player8 bets $0.20
+Hero has 15 seconds left to act
+Hero folds
+Uncalled bet of $0.20 returned to Player8
+Player8 mucks
+Player8 wins the pot ($0.41)
+*** SUMMARY ***
+Total pot $0.43 | Rake $0.02
+Seat 1: Hero folded on 5th St.
+Seat 2: Player2 folded on 3rd St.
+Seat 3: Player3 folded on 4th St.
+Seat 4: Player4 folded on 3rd St.
+Seat 5: Player5 folded on 3rd St.
+Seat 6: Player6 is sitting out
+Seat 7: Player7 folded on 3rd St.
+Seat 8: Player8 collected ($0.41), mucked
+
+
+

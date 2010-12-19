@@ -1,5 +1,5 @@
 Full Tilt Poker Game #18932478237: Table Gaines (6 max) - $0.01/$0.02 - Pot Limit Omaha Hi - 11:37:56 ET - 2010/03/03
-Seat 1: Sorrowful ($2.09)
+Seat 1: Hero ($2.09)
 Seat 2: B_Isreal22 ($2.41)
 Seat 3: ShaDiv ($2.77)
 Seat 4: rockinalex ($2)
@@ -9,11 +9,11 @@ B_Isreal22 posts the small blind of $0.01
 ShaDiv posts the big blind of $0.02
 The button is in seat #1
 *** HOLE CARDS ***
-Dealt to Sorrowful [3d Jh 4s Kd]
+Dealt to Hero [3d Jh 4s Kd]
 rockinalex calls $0.02
 Timoha777 calls $0.02
 DrZartinger folds
-Sorrowful folds
+Hero folds
 B_Isreal22 calls $0.01
 ShaDiv checks
 *** FLOP *** [Qc 8d 9h]
@@ -42,7 +42,7 @@ Timoha777 wins the pot ($0.94) with three of a kind, Queens
 *** SUMMARY ***
 Total pot $1 | Rake $0.06
 Board: [Qc 8d 9h Ks 6h]
-Seat 1: Sorrowful (button) didn't bet (folded)
+Seat 1: Hero (button) didn't bet (folded)
 Seat 2: B_Isreal22 (small blind) folded on the Flop
 Seat 3: ShaDiv (big blind) folded on the River
 Seat 4: rockinalex showed [Js 6c 7d Ac] and lost with a pair of Sixes

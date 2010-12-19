@@ -1,7 +1,7 @@
 Full Tilt Poker Game #20000900001: Table Mach 10 - $0.05/$0.10 - No Limit Hold'em - 14:20:00 ET - 2010/06/01
 Seat 1: Player1 ($6.90)
 Seat 2: Player2 ($7.95)
-Seat 3: Player3 ($5.87)
+Seat 3: Hero ($5.87)
 Seat 4: Player4 ($3.25)
 Seat 5: Player5 ($18.66)
 Seat 6: Player9 ($6.70)
@@ -12,14 +12,14 @@ Player4 posts the small blind of $0.05
 Player5 posts the big blind of $0.10
 The button is in seat #3
 *** HOLE CARDS ***
-Dealt to Player3 [5h 6c]
+Dealt to Hero [5h 6c]
 Player9 raises to $0.30
 Player6 folds
 Player7 folds
 Player8 calls $0.30
 Player1 folds
 Player2 folds
-Player3 folds
+Hero folds
 Player4 folds
 Player5 folds
 *** FLOP *** [Jd Ks 9d]
@@ -41,7 +41,7 @@ Total pot $0.95 | Rake $0.06
 Board: [Jd Ks 9d 7h 4c]
 Seat 1: Player1 didn't bet (folded)
 Seat 2: Player2 didn't bet (folded)
-Seat 3: Player3 (button) didn't bet (folded)
+Seat 3: Hero (button) didn't bet (folded)
 Seat 4: Player4 (small blind) folded before the Flop
 Seat 5: Player5 (big blind) folded before the Flop
 Seat 6: Player9 folded on the River
