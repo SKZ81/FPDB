@@ -1,0 +1,56 @@
+Full Tilt Poker Game #25325990000: Table David's Draw (6 max) - $150/$300 - Limit 2-7 Triple Draw - 10:00:00 ET - 2010/12/20
+Seat 1: Player1 ($6,411)
+Seat 2: Hero ($1,747)
+Seat 3: Player3 ($4,941), is sitting out
+Seat 4: Player4 ($9,883)
+Seat 5: Player5 ($4,247)
+Seat 6: Player6 ($3,686)
+Hero posts the small blind of $75
+Player4 posts the big blind of $150
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [2h Qd 4s Tc 2c]
+Player5 raises to $300
+Player6 raises to $450
+Player1 folds
+Hero folds
+Player4 folds
+Player5 raises to $600
+Player6 calls $150
+*** FIRST DRAW *** (Pot: $1,425)
+Player5 discards 1 card
+Player6 discards 2 cards
+Player5 is dealt 1 card
+Player6 is dealt 2 cards
+Player5 bets $150
+Player6 calls $150
+*** SECOND DRAW *** (Pot: $1,725)
+Player5 discards 1 card
+Player6 discards 2 cards
+Player5 is dealt 1 card
+Player6 is dealt 2 cards
+Player5 bets $300
+Player6 raises to $600
+Player5 calls $300
+*** THIRD DRAW *** (Pot: $2,925)
+Player5 discards 1 card
+Player6 stands pat
+Player5 is dealt 1 card
+Player5 checks
+Player6 checks
+*** SHOW DOWN ***
+Player6 shows [Js 7d 5c 3c 2d] J,7,5,3,2
+Player5 mucks
+Player6 wins the pot ($2,922) with J,7,5,3,2
+*** SUMMARY ***
+Total pot $2,925 | Rake $3
+Seat 1: Player1 (button) folded before the Draw (didn't bet)
+Seat 2: Hero (small blind) folded before the Draw
+Seat 3: Player3 is sitting out
+Seat 4: Player4 (big blind) folded before the Draw
+Seat 5: Player5 mucked [7h 7c 8c 5d 3d] - a pair of Sevens
+Seat 6: Player6 showed [Js 7d 5c 3c 2d] and won ($2,922) with J,7,5,3,2
+
+
+
+
