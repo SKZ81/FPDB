@@ -1,0 +1,56 @@
+Full Tilt Poker Game #26321049583: Table Slaw - $1/$2 - Limit Hold'em - 20:26:12 ET - 2010/12/11
+Seat 1: Player1 ($21)
+Seat 2: Player2 ($31.50)
+Seat 3: Player3 ($19.50)
+Seat 4: Player4 ($66.50), is sitting out
+Seat 5: Player5 ($23)
+Seat 6: Player6 ($20)
+Seat 7: Player7 ($40.50)
+Seat 8: Player8 ($70.50)
+Seat 9: Hero ($78.75)
+Player6 posts the small blind of $0.50
+Player7 posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [9s Th]
+Player8 raises to $2
+Hero folds
+Player1 calls $2
+Player2 folds
+Player3 calls $2
+Player6 has 15 seconds left to act
+Player6 folds
+Player6 adds $0.50
+Player7 folds
+*** FLOP *** [Tc 3s As]
+Player8 checks
+Player1 bets $1
+Player3 raises to $2
+Player8 folds
+Player1 calls $1
+*** TURN *** [Tc 3s As] [5d]
+Player1 checks
+Player3 bets $2
+Player1 calls $2
+*** RIVER *** [Tc 3s As 5d] [4c]
+Player1 checks
+Player3 bets $2
+Player1 folds
+Uncalled bet of $2 returned to Player3
+Player3 mucks
+Player3 wins the pot ($14.75)
+*** SUMMARY ***
+Total pot $15.50 | Rake $0.75
+Board: [Tc 3s As 5d 4c]
+Seat 1: Player1 folded on the River
+Seat 2: Player2 didn't bet (folded)
+Seat 3: Player3 collected ($14.75), mucked
+Seat 4: Player4 is sitting out
+Seat 5: Player5 (button) is sitting out
+Seat 6: Player6 (small blind) folded before the Flop
+Seat 7: Player7 (big blind) folded before the Flop
+Seat 8: Player8 folded on the Flop
+Seat 9: Hero didn't bet (folded)
+
+
+
