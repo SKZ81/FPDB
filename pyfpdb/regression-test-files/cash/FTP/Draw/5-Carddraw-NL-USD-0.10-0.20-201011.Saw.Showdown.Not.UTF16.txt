@@ -1,0 +1,51 @@
+Full Tilt Poker Game #25340557279: Table Calla Lily (6 max) - $0.25/$0.50 - No Limit 5 Card Draw - 03:00:26 ET - 2010/11/07
+Seat 1: Player1 ($58.80)
+Seat 2: Player2 ($60.10)
+Seat 3: Player3 ($18.60)
+Seat 4: Player4 ($34.50)
+Seat 5: Hero ($50)
+Seat 6: Player6 ($18.15)
+Player2 posts the small blind of $0.25
+Player3 posts the big blind of $0.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [8h 7h 7c Qs Jh]
+Player4 folds
+Hero folds
+Player6 calls $0.50
+Player1 raises to $1
+Player2 calls $0.75
+Player3 calls $0.50
+Player6 calls $0.50
+*** DRAW *** (Pot: $4)
+Player2 discards 1 card
+Player3 discards 2 cards
+Player6 discards 2 cards
+Player1 has 15 seconds left to act
+Player1 discards 1 card
+Player2 is dealt 1 card
+Player3 is dealt 2 cards
+Player6 is dealt 2 cards
+Player1 is dealt 1 card
+Player2 checks
+Player3 checks
+Player6 checks
+Player1 bets $4
+Player2 calls $4
+Player3 folds
+Player6 folds
+*** SHOW DOWN ***
+Player1 shows [Kc Qc 5c 4c 3c] a flush, King high
+Player2 mucks
+Player1 wins the pot ($11.40) with a flush, King high
+*** SUMMARY ***
+Total pot $12 | Rake $0.60
+Seat 1: Player1 (button) showed [Kc Qc 5c 4c 3c] and won ($11.40) with a flush, King high
+Seat 2: Player2 (small blind) mucked [Js Jc 9d 9s 5s] - two pair, Jacks and Nines
+Seat 3: Player3 (big blind) folded after the Draw
+Seat 4: Player4 folded before the Draw (didn't bet)
+Seat 5: Hero folded before the Draw (didn't bet)
+Seat 6: Player6 folded after the Draw
+
+
+
