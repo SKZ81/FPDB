@@ -1,0 +1,36 @@
+Full Tilt Poker Game #25340539000: Table Axe Handle (6 max) - $0.10/$0.25 - Pot Limit 5 Card Draw - 02:58:00 ET - 2010/11/07
+Seat 2: Player2 ($14.70)
+Seat 3: Hero ($27.13)
+Seat 4: Player4 ($8)
+Seat 6: Player6 ($26.93)
+Player2 posts the small blind of $0.10
+Hero posts the big blind of $0.25
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Qd Jh Kc Qh 3s]
+Player4 calls $0.25
+Player6 folds
+Player2 folds
+Hero checks
+*** DRAW *** (Pot: $0.60)
+Hero discards 3 cards [Jh Kc 3s]
+Player4 has 15 seconds left to act
+Player4 discards 2 cards
+Dealt to Hero [Qd Qh] [7c Ad 3c]
+Player4 is dealt 2 cards
+Hero checks
+Player4 bets $0.25
+Hero calls $0.25
+*** SHOW DOWN ***
+Player4 shows [9c 9s 9d Ac 2s] three of a kind, Nines
+Hero mucks
+Player4 wins the pot ($1.05) with three of a kind, Nines
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05
+Seat 2: Player2 (small blind) folded before the Draw
+Seat 3: Hero (big blind) mucked [Qd Qh Ad 7c 3c] - a pair of Queens
+Seat 4: Player4 showed [9c 9s 9d Ac 2s] and won ($1.05) with three of a kind, Nines
+Seat 6: Player6 (button) folded before the Draw (didn't bet)
+
+
+
