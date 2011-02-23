@@ -1,0 +1,87 @@
+Full Tilt Poker Game #25340585274: Table Laurelvale - $0.05/$0.10 - Limit Badugi - 03:02:56 ET - 2010/11/07
+Seat 1: Hero ($1)
+Seat 2: Player2 ($2.75)
+Seat 3: Player3 ($3.45)
+Seat 4: Player4 ($0.90)
+Seat 5: Player5 ($1.65)
+Seat 6: Player6 ($2.36)
+Seat 7: Player7 ($2.20)
+Seat 8: Player8 ($10.35)
+Player7 posts the small blind of $0.02
+Player8 is sitting out
+Hero posts the big blind of $0.05
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Ah Qs 3s Jc]
+Player8 stands up
+Player2 folds
+Player3 folds
+Player4 calls $0.05
+Player2 has been disconnected
+Player5 calls $0.05
+Player6 folds
+paulmeoff sits down
+Player2 has reconnected
+Player7 calls $0.03
+Hero checks
+*** FIRST DRAW *** (Pot: $0.20)
+paulmeoff adds $1
+Player7 discards 2 cards
+Hero discards 2 cards [Qs Jc]
+Player4 discards 2 cards
+Player5 discards 2 cards
+Player7 is dealt 2 cards
+Dealt to Hero [Ah 3s] [Jh 8c]
+Player4 is dealt 2 cards
+Player5 is dealt 2 cards
+Player7 checks
+Hero checks
+Player4 bets $0.05
+Player5 calls $0.05
+Player7 calls $0.05
+Hero calls $0.05
+*** SECOND DRAW *** (Pot: $0.40)
+Player7 discards 1 card
+Hero discards 1 card [Jh]
+Player4 stands pat
+Player5 discards 1 card
+Player7 is dealt 1 card
+Dealt to Hero [Ah 3s 8c] [8s]
+Player5 is dealt 1 card
+Player7 checks
+Hero checks
+Player4 checks
+Player5 bets $0.10
+Player7 calls $0.10
+Hero folds
+Hero adds $0.10
+Player4 calls $0.10
+*** THIRD DRAW *** (Pot: $0.70)
+Player7 discards 1 card
+Player4 discards 1 card
+Player5 discards 1 card
+Player7 is dealt 1 card
+Player4 is dealt 1 card
+Player5 is dealt 1 card
+Player7 checks
+Player4 bets $0.10
+Player5 calls $0.10
+Player7 calls $0.10
+*** SHOW DOWN ***
+Player4 shows [Qd 4s 3h 2c] a Badugi: Q, 4, 3, 2
+Player5 mucks
+Player7 mucks
+Player4 wins the pot ($0.95) with a Badugi: Q, 4, 3, 2
+*** SUMMARY ***
+Total pot $1 | Rake $0.05
+Seat 1: Hero (big blind) folded after the 2nd Draw
+Seat 2: Player2 folded before the Draw (didn't bet)
+Seat 3: Player3 folded before the Draw (didn't bet)
+Seat 4: Player4 showed [Qd 4s 3h 2c] and won ($0.95) with a Badugi: Q, 4, 3, 2
+Seat 5: Player5 mucked [5s 4h Ad Js] - a 3-Card: 5, 4, A
+Seat 6: Player6 (button) folded before the Draw (didn't bet)
+Seat 7: Player7 (small blind) mucked [4c 3d 2s 6d] - a 3-Card: 4, 3, 2
+Seat 8: Player8 is sitting out
+
+
+
