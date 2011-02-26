@@ -1,0 +1,35 @@
+Full Tilt Poker Game #28333847000: $2 + $0.10 Heads Up Sit & Go (220338000), Table 1 - 80/160 Ante 15 - Limit Razz - 05:46:00 ET - 2011/02/19
+Seat 1: Villain (24), is sitting out
+Seat 2: Hero (976)
+Villain antes 15
+Hero antes 15
+*** 3RD STREET ***
+Dealt to Villain [Kc]
+Dealt to Hero [5d 6s] [2s]
+Villain is high with [Kc]
+Villain brings in for 9, and is all in
+Hero calls 9
+Villain shows [As 7c Kc]
+Hero shows [5d 6s 2s]
+*** 4TH STREET ***
+Dealt to Villain [As 7c Kc] [Js]
+Dealt to Hero [5d 6s 2s] [Td]
+*** 5TH STREET ***
+Dealt to Villain [As 7c Kc Js] [4s]
+Dealt to Hero [5d 6s 2s Td] [Jh]
+*** 6TH STREET ***
+Dealt to Villain [As 7c Kc Js 4s] [7d]
+Dealt to Hero [5d 6s 2s Td Jh] [2h]
+*** 7TH STREET ***
+Dealt to Villain [As 7c Kc Js 4s 7d] [Tc]
+Dealt to Hero [5d 6s 2s Td Jh 2h] [Qc]
+Villain shows [As 7c Kc Js 4s 7d Tc] J,T,7,4,A
+Hero shows [5d 6s 2s Td Jh 2h Qc] J,T,6,5,2
+Hero wins the pot (48) with J,T,6,5,2
+*** SUMMARY ***
+Total pot 48 | Rake 0
+Seat 1: Villain showed [As 7c Kc Js 4s 7d Tc] and lost with J,T,7,4,A
+Seat 2: Hero showed [5d 6s 2s Td Jh 2h Qc] and won (48) with J,T,6,5,2
+
+
+
