@@ -1,0 +1,21 @@
+Full Tilt Poker Game #29885220000: Table Butterfield (6 max) - $0.05/$0.10 - Limit A-5 Triple Draw - 22:28:00 ET - 2011/04/10
+Seat 2: Hero ($1)
+Seat 3: Villain ($50.85)
+Hero posts the small blind of $0.02
+Villain posts the big blind of $0.05
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [5s 5h Tc 8h 5c]
+Hero raises to $0.10
+Villain folds
+Villain is sitting out
+Uncalled bet of $0.05 returned to Hero
+Hero mucks
+Hero wins the pot ($0.10)
+*** SUMMARY ***
+Total pot $0.10 | Rake $0
+Seat 2: Hero (small blind) collected ($0.10), mucked
+Seat 3: Villain (big blind) folded before the Draw
+
+
+
