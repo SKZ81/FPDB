@@ -32,11 +32,9 @@
         <col col_name="conbet"     disp_all="True"  disp_posn="True"  col_title="ContBet"  xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="rfi"        disp_all="True"  disp_posn="True"  col_title="RFI"      xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="steals"     disp_all="True"  disp_posn="True"  col_title="Steals"   xalignment="1.0" field_format="%3.1f" field_type="str" />
-        <col col_name="car0"       disp_all="True"  disp_posn="True"  col_title="CARpre"   xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="saw_f"      disp_all="True"  disp_posn="True"  col_title="Saw_F"    xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="sawsd"      disp_all="True"  disp_posn="True"  col_title="SawSD"    xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="wtsdwsf"    disp_all="True"  disp_posn="True"  col_title="WtSDwsF"  xalignment="1.0" field_format="%3.1f" field_type="str" />
-        <col col_name="wmsf"       disp_all="True"  disp_posn="True"  col_title="W$wsF"    xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="wmsd"       disp_all="True"  disp_posn="True"  col_title="W$SD"     xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="flafq"      disp_all="True"  disp_posn="True"  col_title="FlAFq"    xalignment="1.0" field_format="%3.1f" field_type="str" />
         <col col_name="tuafq"      disp_all="True"  disp_posn="True"  col_title="TuAFq"    xalignment="1.0" field_format="%3.1f" field_type="str" />
@@ -148,7 +146,7 @@ Left-Drag to Move"
         <site enabled="True"
               site_name="PokerStars"
               table_finder="PokerStars.exe"
-              screen_name="YOUR SCREEN NAME HERE"
+              screen_name="0.26config"
               site_path="C:/Program Files/PokerStars/"
               HH_path="C:/Program Files/PokerStars/HandHistory/YOUR SCREEN NAME HERE/"
               decoder="pokerstars_decode_table"
@@ -338,13 +336,13 @@ Left-Drag to Move"
         </site>
 
         <site enabled="True"
-              site_name="Boss"
-              table_finder="Boss.exe"
+              site_name="Win2day"
+              table_finder="Win2day.exe"
               screen_name="YOUR SCREEN NAME HERE"
               site_path=""
               HH_path=""
               decoder="everleaf_decode_table"
-              converter="BossToFpdb"
+              converter="Win2dayToFpdb"
               supported_games="holdem">
             <layout fav_seat="0" height="547" max="8" width="794">
                 <location seat="1" x="640" y="64">  </location>
@@ -941,72 +939,6 @@ Left-Drag to Move"
                 <location seat="10" x="46"  y="30">  </location>
             </layout>
         </site>
-        
-        <site enabled="True"
-              site_name="BetOnline"
-              table_finder="BetOnline.exe"
-              screen_name="Hero"
-              site_path="C:/Program Files/BetOnline/"
-              HH_path="C:/Program Files/BetOnline/HandHistory/Hero/"
-              decoder="betonline_decode_table"
-              converter="BetOnlineToFpdb"
-              bgcolor="#000000"
-              fgcolor="#FFFFFF"
-              hudopacity="1.0"
-              font="Sans"
-              font_size="8"
-              xpad="1"
-              ypad="0"
-              xshift="0"
-              yshift="0"
-              supported_games="holdem,razz,omahahi,omahahilo,studhi,studhilo">
-            <email fetchType="request-summary" host="YOUR_EMAIL_SERVER" username="YOUR_EMAIL_USERNAME" password="YOUR_EMAIL_PASSWORD" useSsl="True" folder="INBOX"/>
-            <layout max="8" width="792" height="546" fav_seat="0">
-                <location seat="1" x="684" y="61">  </location>
-                <location seat="2" x="689" y="239"> </location>
-                <location seat="3" x="692" y="346"> </location>
-                <location seat="4" x="525" y="402"> </location>
-                <location seat="5" x="259" y="402"> </location>
-                <location seat="6" x="0"   y="348"> </location>
-                <location seat="7" x="0"   y="240"> </location>
-                <location seat="8" x="0"   y="35">  </location>
-            </layout>
-            <layout max="6" width="792" height="546" fav_seat="0">
-                <location seat="1" x="681" y="119"> </location>
-                <location seat="2" x="681" y="301"> </location>
-                <location seat="3" x="487" y="369"> </location>
-                <location seat="4" x="226" y="369"> </location>
-                <location seat="5" x="0"   y="301"> </location>
-                <location seat="6" x="0"   y="119"> </location>
-            </layout>
-            <layout max="10" width="792" height="546" fav_seat="0">
-                <location seat="1" x="684" y="61">  </location>
-                <location seat="2" x="689" y="239"> </location>
-                <location seat="3" x="692" y="346"> </location>
-                <location seat="4" x="586" y="393"> </location>
-                <location seat="5" x="421" y="440"> </location>
-                <location seat="6" x="267" y="440"> </location>
-                <location seat="7" x="0"   y="361"> </location>
-                <location seat="8" x="0"   y="280">  </location>
-                <location seat="9" x="121" y="280">  </location>
-                <location seat="10" x="46"  y="30">  </location>
-            </layout>
-            <layout max="9" width="792" height="546" fav_seat="0">
-                <location seat="1" x="560" y="0">  </location>
-                <location seat="2" x="679" y="123"> </location>
-                <location seat="3" x="688" y="309"> </location>
-                <location seat="4" x="483" y="370"> </location>
-                <location seat="5" x="444" y="413"> </location>
-                <location seat="6" x="224" y="372"> </location>
-                <location seat="7" x="0"   y="307"> </location>
-                <location seat="8" x="0"   y="121">  </location>
-                <location seat="9" x="140" y="0">  </location>
-            </layout>
-            <layout fav_seat="0" height="546" max="2" width="792">
-                <location seat="1" x="651" y="288"> </location>
-                <location seat="2" x="10"  y="288"> </location>
-            </layout>
-        </site>
     </supported_sites>
 
     <supported_games>
@@ -1191,7 +1123,6 @@ Left-Drag to Move"
             <pu_stat pu_stat_name="f_steal"> </pu_stat>
             <pu_stat pu_stat_name="f_BB_steal"> </pu_stat>
             <pu_stat pu_stat_name="f_SB_steal"> </pu_stat>
-            <pu_stat pu_stat_name="car0"> </pu_stat>
             <pu_stat pu_stat_name="wmsd"> </pu_stat>
             <pu_stat pu_stat_name="wtsd"> </pu_stat>
             <pu_stat pu_stat_name="WMsF"> </pu_stat>
@@ -1270,11 +1201,11 @@ Left-Drag to Move"
         <hhc site="PokerStars" converter="PokerStarsToFpdb" summaryImporter="PokerStarsSummary"/>
         <hhc site="Full Tilt Poker" converter="FulltiltToFpdb" summaryImporter="FullTiltPokerSummary"/>
         <hhc site="Everleaf" converter="EverleafToFpdb"/>
-        <hhc site="Boss" converter="BossToFpdb"/>
+        <hhc site="Win2day" converter="Win2dayToFpdb"/>
         <hhc site="Absolute" converter="AbsoluteToFpdb"/>
         <hhc site="PartyPoker" converter="PartyPokerToFpdb"/>
         <hhc site="Betfair" converter="BetfairToFpdb"/>
-        <hhc site="Carbon" converter="CarbonToFpdb" summaryImporter="CarbonSummary"/>
+        <hhc site="Carbon" converter="CarbonToFpdb"/>
         <hhc site="OnGame" converter="OnGameToFpdb"/>
         <hhc site="PKR" converter="PkrToFpdb"/>
         <hhc site="iPoker" converter="iPokerToFpdb"/>
@@ -1283,7 +1214,6 @@ Left-Drag to Move"
         <hhc site="PacificPoker" converter="PacificPokerToFpdb"/>
         <hhc site="Cake" converter="CakeToFpdb"/>
         <hhc site="Entraction" converter="EntractionToFpdb"/>
-        <hhc site="BetOnline" converter="BetOnlineToFpdb"/>
     </hhcs>
 
     <raw_hands save="none" compression="none"/>
