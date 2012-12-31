@@ -1,0 +1,3952 @@
+Full Tilt Poker Game #29704107511: Table Jackrabbit (6 max) - $2.50/$5 - Limit Omaha H/L - 19:36:43 CET - 2011/04/07 [13:36:43 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($99.40)
+Seat 3: TreeVegas ($114)
+Seat 4: CutUrHeadOff ($170.90)
+Seat 5: allie3911 ($98.05)
+Seat 6: Hero ($100)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [4d As Jc Jd]
+grimyreaper1 calls $2.50
+TreeVegas folds
+CutUrHeadOff folds
+allie3911 calls $1.25
+Hero checks
+*** FLOP *** [Tc Th 7h]
+allie3911 checks
+Hero checks
+grimyreaper1 bets $2.50
+allie3911 folds
+Hero calls $2.50
+*** TURN *** [Tc Th 7h] [4c]
+Hero checks
+grimyreaper1 bets $5
+Hero has 15 seconds left to act
+Hero folds
+Hero adds $5
+Uncalled bet of $5 returned to grimyreaper1
+TreeVegas stands up
+TreeVegas sits down
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($12.50)
+TreeVegas adds $114
+*** SUMMARY ***
+Total pot $12.50 | Rake $0
+Board: [Tc Th 7h 4c]
+Seat 2: grimyreaper1 collected ($12.50), mucked
+Seat 3: TreeVegas didn't bet (folded)
+Seat 4: CutUrHeadOff (button) didn't bet (folded)
+Seat 5: allie3911 (small blind) folded on the Flop
+Seat 6: Hero (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #29704127410: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:37:32 CET - 2011/04/07 [13:37:32 ET - 2011/04/07]
+Seat 1: TreeVegas ($114)
+Seat 2: grimyreaper1 ($106.90)
+Seat 4: CutUrHeadOff ($170.90)
+Seat 5: allie3911 ($95.55)
+Seat 6: Hero ($100)
+CutUrHeadOff antes $0.40
+grimyreaper1 antes $0.40
+TreeVegas antes $0.40
+Hero antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [9c]
+Dealt to Hero [7d Kh] [6d]
+Dealt to TreeVegas [5s]
+Dealt to grimyreaper1 [Qs]
+Dealt to CutUrHeadOff [5d]
+CutUrHeadOff is low with [5d]
+CutUrHeadOff brings in for $0.75
+allie3911 calls $0.75
+Hero folds
+Hero adds $0.40
+TreeVegas calls $0.75
+grimyreaper1 completes it to $2.50
+CutUrHeadOff folds
+allie3911 calls $1.75
+TreeVegas calls $1.75
+*** 4TH STREET ***
+Dealt to allie3911 [9c] [8h]
+Dealt to TreeVegas [5s] [Kd]
+Dealt to grimyreaper1 [Qs] [2s]
+TreeVegas checks
+grimyreaper1 bets $2.50
+allie3911 calls $2.50
+TreeVegas has 15 seconds left to act
+TreeVegas folds
+*** 5TH STREET ***
+Dealt to allie3911 [9c 8h] [Jh]
+Dealt to grimyreaper1 [Qs 2s] [5c]
+grimyreaper1 bets $5
+allie3911 calls $5
+*** 6TH STREET ***
+Dealt to allie3911 [9c 8h Jh] [2d]
+Dealt to grimyreaper1 [Qs 2s 5c] [7c]
+grimyreaper1 bets $5
+allie3911 calls $5
+*** 7TH STREET ***
+grimyreaper1 checks
+allie3911 bets $5
+grimyreaper1 calls $5
+*** SHOW DOWN ***
+allie3911 shows [Ad 9h 9c 8h Jh 2d 9d] three of a kind, Nines
+grimyreaper1 mucks
+allie3911 wins the pot ($43.25) with three of a kind, Nines
+*** SUMMARY ***
+Total pot $45.25 | Rake $2
+Seat 1: TreeVegas folded on 4th St.
+Seat 2: grimyreaper1 mucked [Ac Qc Qs 2s 5c 7c Th] - a pair of Queens
+Seat 4: CutUrHeadOff folded on 3rd St.
+Seat 5: allie3911 showed [Ad 9h 9c 8h Jh 2d 9d] and won ($43.25) with three of a kind, Nines
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29704159886: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:38:54 CET - 2011/04/07 [13:38:54 ET - 2011/04/07]
+Seat 1: TreeVegas ($111.10)
+Seat 2: grimyreaper1 ($86.50)
+Seat 4: CutUrHeadOff ($169.75)
+Seat 5: allie3911 ($118.40)
+Seat 6: Hero ($100)
+Hero antes $0.40
+CutUrHeadOff antes $0.40
+allie3911 antes $0.40
+grimyreaper1 antes $0.40
+TreeVegas antes $0.40
+grimyreaper1: lol
+*** 3RD STREET ***
+Dealt to allie3911 [2d]
+Dealt to Hero [Qd 5h] [5c]
+Dealt to TreeVegas [Ks]
+Dealt to grimyreaper1 [Ah]
+Dealt to CutUrHeadOff [9h]
+allie3911 is low with [2d]
+grimyreaper1: nh
+allie3911 brings in for $0.75
+Hero completes it to $2.50
+TreeVegas folds
+grimyreaper1 folds
+CutUrHeadOff folds
+allie3911 folds
+Uncalled bet of $1.75 returned to Hero
+Hero mucks
+Hero wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 4: CutUrHeadOff folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero collected ($3.50), mucked
+
+
+
+Full Tilt Poker Game #29704166465: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:39:11 CET - 2011/04/07 [13:39:11 ET - 2011/04/07]
+Seat 1: TreeVegas ($110.70)
+Seat 2: grimyreaper1 ($86.10)
+Seat 4: CutUrHeadOff ($169.35)
+Seat 5: allie3911 ($117.25)
+Seat 6: Hero ($102.35)
+TreeVegas antes $0.40
+CutUrHeadOff antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+Hero antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [Ts]
+Dealt to Hero [Kd Th] [2s]
+Dealt to TreeVegas [3h]
+Dealt to grimyreaper1 [Qs]
+Dealt to CutUrHeadOff [Tc]
+Hero is low with [2s]
+allie3911: lucked out
+Hero brings in for $0.75
+TreeVegas folds
+grimyreaper1 folds
+CutUrHeadOff folds
+allie3911 folds
+Uncalled bet of $0.75 returned to Hero
+Hero mucks
+Hero wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 4: CutUrHeadOff folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero collected ($2), mucked
+
+
+
+Full Tilt Poker Game #29704173010: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:39:27 CET - 2011/04/07 [13:39:27 ET - 2011/04/07]
+Seat 1: TreeVegas ($110.30)
+Seat 2: grimyreaper1 ($85.70)
+Seat 4: CutUrHeadOff ($168.95)
+Seat 5: allie3911 ($116.85)
+Seat 6: Hero ($103.95)
+Hero antes $0.40
+CutUrHeadOff antes $0.40
+grimyreaper1 antes $0.40
+TreeVegas antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [7s]
+Dealt to Hero [Jc Ts] [3s]
+Dealt to TreeVegas [7c]
+Dealt to grimyreaper1 [5d]
+Dealt to CutUrHeadOff [As]
+Hero is low with [3s]
+Hero brings in for $0.75
+grimyreaper1: im running badd this week
+TreeVegas has 15 seconds left to act
+TreeVegas calls $0.75
+grimyreaper1: its fine ;o
+Hero: allie, grim: we have one more table running
+grimyreaper1 calls $0.75
+CutUrHeadOff folds
+allie3911 has 15 seconds left to act
+allie3911 folds
+*** 4TH STREET ***
+Dealt to Hero [Jc Ts 3s] [3h]
+Dealt to TreeVegas [7c] [Td]
+Dealt to grimyreaper1 [5d] [Qc]
+grimyreaper1: im in 5 10
+Hero checks
+grimyreaper1: any wanna?
+TreeVegas bets $2.50
+grimyreaper1 folds
+Hero folds
+Uncalled bet of $2.50 returned to TreeVegas
+TreeVegas mucks
+TreeVegas wins the pot ($4.25)
+*** SUMMARY ***
+Total pot $4.25 | Rake $0
+Seat 1: TreeVegas collected ($4.25), mucked
+Seat 2: grimyreaper1 folded on 4th St.
+Seat 4: CutUrHeadOff folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 4th St.
+
+
+
+Full Tilt Poker Game #29704198917: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:40:31 CET - 2011/04/07 [13:40:31 ET - 2011/04/07]
+Seat 1: TreeVegas ($113.40)
+Seat 2: grimyreaper1 ($84.55)
+Seat 4: CutUrHeadOff ($168.55)
+Seat 5: allie3911 ($116.45)
+Seat 6: Hero ($102.80)
+CutUrHeadOff antes $0.40
+Hero antes $0.40
+allie3911 antes $0.40
+grimyreaper1 antes $0.40
+TreeVegas antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [5s]
+Dealt to Hero [Jc 2c] [2s]
+Dealt to TreeVegas [3s]
+Dealt to grimyreaper1 [As]
+Dealt to CutUrHeadOff [Ad]
+Hero is low with [2s]
+grimyreaper1: 2 seats left
+Hero: not today, thanks
+Hero brings in for $0.75
+TreeVegas folds
+grimyreaper1 folds
+CutUrHeadOff completes it to $2.50
+allie3911 folds
+Hero calls $1.75
+*** 4TH STREET ***
+Dealt to Hero [Jc 2c 2s] [Ac]
+Dealt to CutUrHeadOff [Ad] [6s]
+CutUrHeadOff bets $2.50
+grimyreaper1: np
+Hero calls $2.50
+*** 5TH STREET ***
+Dealt to Hero [Jc 2c 2s Ac] [2h]
+Dealt to CutUrHeadOff [Ad 6s] [7s]
+Hero bets $5
+CutUrHeadOff has 15 seconds left to act
+CutUrHeadOff folds
+Uncalled bet of $5 returned to Hero
+Hero mucks
+Hero wins the pot ($12)
+*** SUMMARY ***
+Total pot $12 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 4: CutUrHeadOff folded on 5th St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero collected ($12), mucked
+
+
+
+Full Tilt Poker Game #29704221155: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:41:26 CET - 2011/04/07 [13:41:26 ET - 2011/04/07]
+Seat 1: TreeVegas ($113)
+Seat 2: grimyreaper1 ($84.15)
+Seat 4: CutUrHeadOff ($163.15)
+Seat 5: allie3911 ($116.05)
+Seat 6: Hero ($109.40)
+CutUrHeadOff antes $0.40
+Hero antes $0.40
+allie3911 antes $0.40
+grimyreaper1 antes $0.40
+TreeVegas antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [Th]
+Dealt to Hero [6s 7c] [Ad]
+Dealt to TreeVegas [9h]
+Dealt to grimyreaper1 [As]
+Dealt to CutUrHeadOff [9d]
+CutUrHeadOff is low with [9d]
+CutUrHeadOff brings in for $0.75
+allie3911 folds
+Hero folds
+TreeVegas has 15 seconds left to act
+CutUrHeadOff has been disconnected
+TreeVegas folds
+Hero has been disconnected
+Hero has reconnected
+CutUrHeadOff has reconnected
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 has timed out
+grimyreaper1 folds
+grimyreaper1 is sitting out
+Uncalled bet of $0.75 returned to CutUrHeadOff
+CutUrHeadOff mucks
+CutUrHeadOff wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 4: CutUrHeadOff collected ($2), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29704242671: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:42:22 CET - 2011/04/07 [13:42:22 ET - 2011/04/07]
+Seat 1: TreeVegas ($112.60)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 4: CutUrHeadOff ($164.75)
+Seat 5: allie3911 ($115.65)
+Seat 6: Hero ($109)
+Hero antes $0.40
+CutUrHeadOff antes $0.40
+TreeVegas antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [Td]
+Dealt to Hero [3h 9h] [Qh]
+Dealt to TreeVegas [6d]
+Dealt to CutUrHeadOff [Ts]
+TreeVegas is low with [6d]
+TreeVegas brings in for $0.75
+CutUrHeadOff folds
+allie3911 folds
+Hero completes it to $2.50
+TreeVegas calls $1.75
+*** 4TH STREET ***
+Dealt to Hero [3h 9h Qh] [Tc]
+Dealt to TreeVegas [6d] [8s]
+Hero bets $2.50
+TreeVegas calls $2.50
+*** 5TH STREET ***
+Dealt to Hero [3h 9h Qh Tc] [Ad]
+Dealt to TreeVegas [6d 8s] [Kc]
+Hero bets $5
+TreeVegas calls $5
+*** 6TH STREET ***
+Dealt to Hero [3h 9h Qh Tc Ad] [Th]
+Dealt to TreeVegas [6d 8s Kc] [9c]
+Hero bets $5
+TreeVegas folds
+Uncalled bet of $5 returned to Hero
+Hero mucks
+Hero wins the pot ($20.60)
+*** SUMMARY ***
+Total pot $21.60 | Rake $1
+Seat 1: TreeVegas folded on 6th St.
+Seat 2: grimyreaper1 is sitting out
+Seat 4: CutUrHeadOff folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero collected ($20.60), mucked
+
+
+
+Full Tilt Poker Game #29704256621: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:42:56 CET - 2011/04/07 [13:42:56 ET - 2011/04/07]
+Seat 1: TreeVegas ($102.20)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 4: CutUrHeadOff ($164.35)
+Seat 5: allie3911 ($115.25)
+Seat 6: Hero ($119.20)
+Hero antes $0.40
+CutUrHeadOff antes $0.40
+TreeVegas antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [Jd]
+Dealt to Hero [Jh 9h] [7c]
+Dealt to TreeVegas [5h]
+Dealt to CutUrHeadOff [3s]
+CutUrHeadOff is low with [3s]
+CutUrHeadOff brings in for $0.75
+allie3911 calls $0.75
+Hero folds
+TreeVegas folds
+*** 4TH STREET ***
+Dealt to allie3911 [Jd] [3h]
+Dealt to CutUrHeadOff [3s] [Ac]
+CutUrHeadOff checks
+allie3911 checks
+*** 5TH STREET ***
+Dealt to allie3911 [Jd 3h] [7d]
+Dealt to CutUrHeadOff [3s Ac] [Td]
+CutUrHeadOff checks
+allie3911 has 15 seconds left to act
+allie3911 checks
+*** 6TH STREET ***
+Dealt to allie3911 [Jd 3h 7d] [4c]
+Dealt to CutUrHeadOff [3s Ac Td] [6s]
+CutUrHeadOff checks
+allie3911 checks
+*** 7TH STREET ***
+CutUrHeadOff checks
+allie3911 checks
+*** SHOW DOWN ***
+CutUrHeadOff shows [7h 5s 3s Ac Td 6s 2c] Ace Ten high
+allie3911 shows [Ah Qd Jd 3h 7d 4c 2h] Ace Queen high
+allie3911 wins the pot ($3.10) with Ace Queen high
+*** SUMMARY ***
+Total pot $3.10 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 is sitting out
+Seat 4: CutUrHeadOff showed [7h 5s 3s Ac Td 6s 2c] and lost with Ace Ten high
+Seat 5: allie3911 showed [Ah Qd Jd 3h 7d 4c 2h] and won ($3.10) with Ace Queen high
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29704271683: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:43:32 CET - 2011/04/07 [13:43:32 ET - 2011/04/07]
+Seat 1: TreeVegas ($101.80)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($117.20)
+Seat 6: Hero ($118.80)
+Hero antes $0.40
+TreeVegas antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [6d]
+Dealt to Hero [5c 6s] [Kd]
+Dealt to TreeVegas [6c]
+TreeVegas is low with [6c]
+TreeVegas brings in for $0.75
+allie3911 folds
+Hero completes it to $2.50
+TreeVegas folds
+Uncalled bet of $1.75 returned to Hero
+Hero mucks
+Hero wins the pot ($2.70)
+*** SUMMARY ***
+Total pot $2.70 | Rake $0
+Seat 1: TreeVegas folded on 3rd St.
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero collected ($2.70), mucked
+
+
+
+Full Tilt Poker Game #29704277591: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud Hi - 19:43:47 CET - 2011/04/07 [13:43:47 ET - 2011/04/07]
+Seat 1: TreeVegas ($100.65)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($116.80)
+Seat 6: Hero ($120.35)
+Hero antes $0.40
+TreeVegas antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to allie3911 [5h]
+Dealt to Hero [8d 2c] [5s]
+Dealt to TreeVegas [4s]
+TreeVegas is low with [4s]
+TreeVegas brings in for $0.75
+allie3911 completes it to $2.50
+Hero folds
+TreeVegas calls $1.75
+*** 4TH STREET ***
+Dealt to allie3911 [5h] [Qh]
+Dealt to TreeVegas [4s] [3h]
+allie3911 bets $2.50
+TreeVegas calls $2.50
+*** 5TH STREET ***
+Dealt to allie3911 [5h Qh] [3d]
+Dealt to TreeVegas [4s 3h] [Jc]
+allie3911 bets $5
+TreeVegas raises to $10
+allie3911 has 15 seconds left to act
+allie3911 folds
+Uncalled bet of $5 returned to TreeVegas
+TreeVegas mucks
+TreeVegas wins the pot ($20.20)
+*** SUMMARY ***
+Total pot $21.20 | Rake $1
+Seat 1: TreeVegas collected ($20.20), mucked
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 folded on 5th St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29704292700: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:44:24 CET - 2011/04/07 [13:44:24 ET - 2011/04/07]
+Seat 1: TreeVegas ($110.45)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($106.40)
+Seat 6: Hero ($119.95)
+Hero antes $0.25
+TreeVegas antes $0.25
+allie3911 antes $0.25
+Hero posts the small blind of $0.50
+allie3911 is feeling confused
+TreeVegas posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [5h Ks 7h 9c Td]
+allie3911 calls $1
+Hero folds
+TreeVegas checks
+*** DRAW *** (Pot: $3.25)
+TreeVegas discards 2 cards
+allie3911 discards 1 card
+TreeVegas is dealt 2 cards
+allie3911 is dealt 1 card
+TreeVegas checks
+allie3911 checks
+*** SHOW DOWN ***
+TreeVegas shows [4h 4s Tc 5c 2c] a pair of Fours
+allie3911 shows [2s 2h Ts 7c 4c] a pair of Twos
+allie3911 wins the pot ($3.10) with a pair of Twos
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15
+Seat 1: TreeVegas (big blind) showed [4h 4s Tc 5c 2c] and lost with a pair of Fours
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 (button) showed [2s 2h Ts 7c 4c] and won ($3.10) with a pair of Twos
+Seat 6: Hero (small blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704303876: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:44:52 CET - 2011/04/07 [13:44:52 ET - 2011/04/07]
+Seat 1: TreeVegas ($109.20)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($108.25)
+Seat 6: Hero ($119.20)
+TreeVegas antes $0.25
+Hero antes $0.25
+allie3911 antes $0.25
+TreeVegas posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [8d 3s 9h Ts 4s]
+Hero raises to $4
+TreeVegas folds
+allie3911 folds
+Uncalled bet of $3 returned to Hero
+Hero mucks
+Hero wins the pot ($3.25)
+*** SUMMARY ***
+Total pot $3.25 | Rake $0
+Seat 1: TreeVegas (small blind) folded before the Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 (big blind) folded before the Draw
+Seat 6: Hero (button) collected ($3.25), mucked
+
+
+
+Full Tilt Poker Game #29704309125: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:45:05 CET - 2011/04/07 [13:45:05 ET - 2011/04/07]
+Seat 1: TreeVegas ($108.45)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($107)
+Seat 6: Hero ($121.20)
+Hero antes $0.25
+allie3911 antes $0.25
+TreeVegas antes $0.25
+allie3911 posts the small blind of $0.50
+Hero posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [4h As 3c 7d Kh]
+TreeVegas raises to $4
+allie3911 calls $3.50
+Hero folds
+*** DRAW *** (Pot: $9.75)
+allie3911 discards 1 card
+TreeVegas discards 2 cards
+allie3911 is dealt 1 card
+TreeVegas is dealt 2 cards
+allie3911 bets $9.75
+TreeVegas folds
+Uncalled bet of $9.75 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($9.30)
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45
+Seat 1: TreeVegas (button) folded after the Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 (small blind) collected ($9.30), mucked
+Seat 6: Hero (big blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704320647: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:45:34 CET - 2011/04/07 [13:45:34 ET - 2011/04/07]
+Seat 1: TreeVegas ($104.20)
+Seat 2: grimyreaper1 ($83.75), is sitting out
+Seat 5: allie3911 ($112.05)
+Seat 6: Hero ($119.95)
+TreeVegas is sitting out
+Hero antes $0.25
+allie3911 antes $0.25
+Hero posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [As 5s 7s 7d 6h]
+Hero raises to $4
+allie3911 folds
+Uncalled bet of $3 returned to Hero
+Hero mucks
+grimyreaper1 has returned
+Hero wins the pot ($2.50)
+TreeVegas stands up
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: TreeVegas is sitting out
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 (big blind) folded before the Draw
+Seat 6: Hero (small blind) collected ($2.50), mucked
+
+
+
+Full Tilt Poker Game #29704325713: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:45:46 CET - 2011/04/07 [13:45:46 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($83.75)
+Seat 5: allie3911 ($110.80)
+Seat 6: Hero ($121.20)
+Hero antes $0.25
+allie3911 antes $0.25
+allie3911 posts the small blind of $0.50
+Hero posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [4h 9c 2h Th 5h]
+allie3911 calls $0.50
+Hero raises to $4
+allie3911 calls $3
+*** DRAW *** (Pot: $8.50)
+grimyreaper1 adds $16.25
+Hero stands pat on [4h 9c 2h Th 5h]
+allie3911 discards 2 cards
+allie3911 is dealt 2 cards
+Hero checks
+allie3911 checks
+*** SHOW DOWN ***
+Hero shows [Th 9c 5h 4h 2h] T,9,5,4,2
+allie3911 mucks
+Hero wins the pot ($8.10) with T,9,5,4,2
+*** SUMMARY ***
+Total pot $8.50 | Rake $0.40
+Seat 2: grimyreaper1 is sitting out
+Seat 5: allie3911 (small blind) mucked [Qd Jh 9h 4d 3c] - Q,J,9,4,3
+Seat 6: Hero (big blind) showed [Th 9c 5h 4h 2h] and won ($8.10) with T,9,5,4,2
+
+
+
+Full Tilt Poker Game #29704338927: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:46:18 CET - 2011/04/07 [13:46:18 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($100)
+Seat 5: allie3911 ($106.55)
+Seat 6: Hero ($125.05)
+Hero antes $0.25
+grimyreaper1 antes $0.25
+allie3911 antes $0.25
+Hero posts the small blind of $0.50
+grimyreaper1 posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [Qd 6h 7h 6c 9h]
+allie3911 calls $1
+Hero folds
+grimyreaper1 checks
+*** DRAW *** (Pot: $3.25)
+grimyreaper1 discards 2 cards
+allie3911 discards 3 cards
+grimyreaper1 is dealt 2 cards
+allie3911 is dealt 3 cards
+grimyreaper1 bets $1
+allie3911 folds
+Uncalled bet of $1 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($3.10)
+*** SUMMARY ***
+Total pot $3.25 | Rake $0.15
+Seat 2: grimyreaper1 (big blind) collected ($3.10), mucked
+Seat 5: allie3911 (button) folded after the Draw
+Seat 6: Hero (small blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704351090: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:46:47 CET - 2011/04/07 [13:46:47 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($101.85)
+Seat 5: allie3911 ($105.30)
+Seat 6: Hero ($124.30)
+Hero antes $0.25
+grimyreaper1 antes $0.25
+allie3911 antes $0.25
+grimyreaper1 posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Jc 3h 9c Ks 6d]
+Hero has 15 seconds left to act
+Hero folds
+grimyreaper1 folds
+Uncalled bet of $0.50 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($1.75)
+*** SUMMARY ***
+Total pot $1.75 | Rake $0
+Seat 2: grimyreaper1 (small blind) folded before the Draw
+Seat 5: allie3911 (big blind) collected ($1.75), mucked
+Seat 6: Hero (button) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704358757: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:47:06 CET - 2011/04/07 [13:47:06 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($101.10)
+Seat 5: allie3911 ($106.30)
+Seat 6: Hero ($124.05)
+Hero antes $0.25
+grimyreaper1 antes $0.25
+allie3911 antes $0.25
+allie3911 posts the small blind of $0.50
+Hero posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [Ah 3h 5d 2h 4s]
+grimyreaper1 folds
+allie3911 calls $0.50
+Hero raises to $4
+allie3911 folds
+Uncalled bet of $3 returned to Hero
+Hero mucks
+Hero wins the pot ($2.75)
+*** SUMMARY ***
+Total pot $2.75 | Rake $0
+Seat 2: grimyreaper1 (button) folded before the Draw
+Seat 5: allie3911 (small blind) folded before the Draw
+Seat 6: Hero (big blind) collected ($2.75), mucked
+
+
+
+Full Tilt Poker Game #29704365706: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:47:23 CET - 2011/04/07 [13:47:23 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($100.85)
+Seat 5: allie3911 ($105.05)
+Seat 6: Hero ($125.55)
+Hero antes $0.25
+grimyreaper1 antes $0.25
+allie3911 antes $0.25
+Hero posts the small blind of $0.50
+grimyreaper1 posts the big blind of $1
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [3c Ks 5d 5c 7d]
+allie3911 folds
+Hero calls $0.50
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 raises to $4
+Hero folds
+Uncalled bet of $3 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($2.75)
+*** SUMMARY ***
+Total pot $2.75 | Rake $0
+Seat 2: grimyreaper1 (big blind) collected ($2.75), mucked
+Seat 5: allie3911 (button) folded before the Draw
+Seat 6: Hero (small blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704377787: Table Jackrabbit (6 max) - $0.50/$1 Ante $0.25 - No Limit 2-7 Single Draw - 19:47:52 CET - 2011/04/07 [13:47:52 ET - 2011/04/07]
+Seat 2: grimyreaper1 ($102.35)
+Seat 5: allie3911 ($104.80)
+Seat 6: Hero ($124.30)
+Hero antes $0.25
+grimyreaper1 antes $0.25
+allie3911 antes $0.25
+grimyreaper1 posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [3c Qc 8h 6s 3h]
+Hero raises to $4
+grimyreaper1 calls $3.50
+allie3911 folds
+*** DRAW *** (Pot: $9.75)
+grimyreaper1 stands pat
+Hero has 15 seconds left to act
+Hero discards 1 card [Qc]
+Dealt to Hero [3c 8h 6s 3h] [5s]
+grimyreaper1 checks
+1Incubator1 sits down
+1Incubator1 adds $70
+Hero bets $18
+Kilij sits down
+Kilij adds $100
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 has requested TIME
+grimyreaper1: okok only 109 ... ;p
+grimyreaper1 folds
+Uncalled bet of $18 returned to Hero
+Hero mucks
+Hero wins the pot ($9.30)
+*** SUMMARY ***
+Total pot $9.75 | Rake $0.45
+Seat 2: grimyreaper1 (small blind) folded after the Draw
+Seat 5: allie3911 (big blind) folded before the Draw
+Seat 6: Hero (button) collected ($9.30), mucked
+
+
+
+Full Tilt Poker Game #29704409780: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:49:08 CET - 2011/04/07 [13:49:08 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($70)
+Seat 2: grimyreaper1 ($98.10)
+Seat 3: Kilij ($100)
+Seat 5: allie3911 ($103.55)
+Seat 6: Hero ($129.35)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+5 seconds left to act
+1Incubator1 posts $2.50
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [Td Th 2d Qd]
+1Incubator1 has 15 seconds left to act
+1Incubator1 raises to $5
+grimyreaper1 folds
+allie3911 folds
+Hero folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($6.25)
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Seat 1: 1Incubator1 collected ($6.25), mucked
+Seat 2: grimyreaper1 (button) folded before the Draw (didn't bet)
+Seat 3: Kilij is sitting out
+Seat 5: allie3911 (small blind) folded before the Draw
+Seat 6: Hero (big blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29704423116: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:49:41 CET - 2011/04/07 [13:49:41 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($73.75)
+Seat 2: grimyreaper1 ($98.10)
+Seat 3: Kilij ($100)
+Seat 5: allie3911 ($102.30)
+Seat 6: Hero ($126.85)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+5 seconds left to act
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [4h 7h Qs Ad]
+grimyreaper1 folds
+allie3911 calls $2.50
+Hero has 15 seconds left to act
+Hero calls $1.25
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+*** FIRST DRAW *** (Pot: $7.50)
+Sirocko sits down
+Hero discards 2 cards [7h Qs]
+Sirocko adds $100
+1Incubator1 discards 2 cards
+allie3911 discards 2 cards
+Dealt to Hero [4h Ad] [5h Ts]
+1Incubator1 is dealt 2 cards
+allie3911 is dealt 2 cards
+Hero checks
+1Incubator1 checks
+allie3911 checks
+*** SECOND DRAW *** (Pot: $7.50)
+Hero discards 1 card [5h]
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 discards 2 cards
+allie3911 discards 2 cards
+Dealt to Hero [4h Ad Ts] [Qd]
+1Incubator1 is dealt 2 cards
+allie3911 is dealt 2 cards
+Hero checks
+1Incubator1 checks
+allie3911 checks
+*** THIRD DRAW *** (Pot: $7.50)
+Hero discards 1 card [Qd]
+1Incubator1 has 15 seconds left to act
+1Incubator1 discards 2 cards
+allie3911 discards 1 card
+Dealt to Hero [4h Ad Ts] [8h]
+1Incubator1 is dealt 2 cards
+allie3911 is dealt 1 card
+Hero checks
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+allie3911 checks
+*** SHOW DOWN ***
+Hero shows [Ts 4h Ad 8h] a 3-Card: T, 4, A
+1Incubator1 mucks
+allie3911 shows [9d 5c As Jd] a 3-Card: 9, 5, A
+allie3911 wins the pot ($7.50) with a 3-Card: 9, 5, A
+*** SUMMARY ***
+Total pot $7.50 | Rake $0
+Seat 1: 1Incubator1 (big blind) mucked [5d 2c 2d 6d] - a 2-Card: 5, 2
+Seat 2: grimyreaper1 folded before the Draw (didn't bet)
+Seat 3: Kilij is sitting out
+Seat 5: allie3911 (button) showed [9d 5c As Jd] and won ($7.50) with a 3-Card: 9, 5, A
+Seat 6: Hero (small blind) showed [Ts 4h Ad 8h] and lost with a 3-Card: T, 4, A
+
+
+
+Full Tilt Poker Game #29704471106: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:51:35 CET - 2011/04/07 [13:51:35 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($71.25)
+Seat 2: grimyreaper1 ($98.10)
+Seat 3: Kilij ($100)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($107.30)
+Seat 6: Hero ($124.35)
+1Incubator1 posts the small blind of $1.25
+grimyreaper1 posts the big blind of $2.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Qs Jh 6s Kd]
+allie3911 folds
+Hero folds
+1Incubator1 calls $1.25
+grimyreaper1 checks
+allie3911: OMG
+*** FIRST DRAW *** (Pot: $5)
+1Incubator1 has 15 seconds left to act
+1Incubator1 stands pat
+grimyreaper1 discards 1 card
+grimyreaper1 is dealt 1 card
+1Incubator1 bets $2.50
+grimyreaper1 folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($5)
+*** SUMMARY ***
+Total pot $5 | Rake $0
+Seat 1: 1Incubator1 (small blind) collected ($5), mucked
+Seat 2: grimyreaper1 (big blind) folded after the 1st Draw
+Seat 3: Kilij is sitting out
+Seat 4: Sirocko is sitting out
+Seat 5: allie3911 folded before the Draw (didn't bet)
+Seat 6: Hero (button) folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704488693: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:52:17 CET - 2011/04/07 [13:52:17 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($73.75)
+Seat 2: grimyreaper1 ($95.60)
+Seat 3: Kilij ($100)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($107.30)
+Seat 6: Hero ($124.35)
+grimyreaper1 posts the small blind of $1.25
+Kilij posts the big blind of $2.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [Ks 2h 3h 4d]
+allie3911 calls $2.50
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+grimyreaper1 raises to $5
+Kilij calls $2.50
+allie3911 calls $2.50
+*** FIRST DRAW *** (Pot: $15)
+grimyreaper1 stands pat
+Kilij discards 2 cards
+allie3911 discards 2 cards
+Kilij is dealt 2 cards
+allie3911 is dealt 2 cards
+grimyreaper1 bets $2.50
+Kilij folds
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $20)
+grimyreaper1 stands pat
+allie3911 discards 2 cards
+allie3911 is dealt 2 cards
+grimyreaper1 bets $5
+allie3911 folds
+Uncalled bet of $5 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($19)
+*** SUMMARY ***
+Total pot $20 | Rake $1
+Seat 1: 1Incubator1 (button) folded before the Draw (didn't bet)
+Seat 2: grimyreaper1 (small blind) collected ($19), mucked
+Seat 3: Kilij (big blind) folded after the 1st Draw
+Seat 4: Sirocko is sitting out
+Seat 5: allie3911 folded after the 2nd Draw
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704512429: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:53:14 CET - 2011/04/07 [13:53:14 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($73.75)
+Seat 2: grimyreaper1 ($107.10)
+Seat 3: Kilij ($95)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($99.80)
+Seat 6: Hero ($124.35)
+Kilij posts the small blind of $1.25
+Sirocko posts the big blind of $2.50
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [3h 7h 8d Qc]
+allie3911 folds
+Hero folds
+1Incubator1 folds
+grimyreaper1 raises to $5
+Kilij calls $3.75
+Sirocko calls $2.50
+*** FIRST DRAW *** (Pot: $15)
+Kilij discards 2 cards
+Sirocko discards 1 card
+grimyreaper1 discards 1 card
+Kilij is dealt 2 cards
+Sirocko is dealt 1 card
+grimyreaper1 is dealt 1 card
+Kilij checks
+Sirocko bets $2.50
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 calls $2.50
+Kilij calls $2.50
+*** SECOND DRAW *** (Pot: $22.50)
+Kilij discards 1 card
+Sirocko stands pat
+grimyreaper1 discards 1 card
+Kilij is dealt 1 card
+grimyreaper1 is dealt 1 card
+Kilij checks
+Sirocko bets $5
+grimyreaper1 calls $5
+Kilij calls $5
+*** THIRD DRAW *** (Pot: $37.50)
+Kilij discards 1 card
+Sirocko stands pat
+grimyreaper1 stands pat
+Kilij is dealt 1 card
+Kilij checks
+Sirocko bets $5
+grimyreaper1 raises to $10
+Kilij folds
+Sirocko calls $5
+*** SHOW DOWN ***
+grimyreaper1 shows [6d 4s 2h Ac] a Badugi: 6, 4, 2, A
+Sirocko mucks
+grimyreaper1 wins the pot ($55.50) with a Badugi: 6, 4, 2, A
+*** SUMMARY ***
+Total pot $57.50 | Rake $2
+Seat 1: 1Incubator1 folded before the Draw (didn't bet)
+Seat 2: grimyreaper1 (button) showed [6d 4s 2h Ac] and won ($55.50) with a Badugi: 6, 4, 2, A
+Seat 3: Kilij (small blind) folded after the 3rd Draw
+Seat 4: Sirocko (big blind) mucked [9c 6s 4h 3d] - a Badugi: 9, 6, 4, 3
+Seat 5: allie3911 folded before the Draw (didn't bet)
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704563387: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:55:20 CET - 2011/04/07 [13:55:20 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($73.75)
+Seat 2: grimyreaper1 ($140.10)
+Seat 3: Kilij ($82.50)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($99.80)
+Seat 6: Hero ($124.35)
+Sirocko posts the small blind of $1.25
+allie3911 posts the big blind of $2.50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [7d 5h Qh 6c]
+Hero folds
+1Incubator1 calls $2.50
+grimyreaper1 folds
+Kilij folds
+Sirocko calls $1.25
+allie3911 checks
+*** FIRST DRAW *** (Pot: $7.50)
+Sirocko discards 1 card
+allie3911 discards 1 card
+1Incubator1 discards 1 card
+Sirocko is dealt 1 card
+allie3911 is dealt 1 card
+1Incubator1 is dealt 1 card
+Sirocko bets $2.50
+allie3911 calls $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $2.50
+*** SECOND DRAW *** (Pot: $15)
+Sirocko stands pat
+allie3911 discards 1 card
+1Incubator1 discards 1 card
+allie3911 is dealt 1 card
+1Incubator1 is dealt 1 card
+Sirocko bets $5
+allie3911 calls $5
+1Incubator1 folds
+*** THIRD DRAW *** (Pot: $25)
+Sirocko stands pat
+allie3911 discards 1 card
+allie3911 is dealt 1 card
+Sirocko checks
+allie3911 checks
+*** SHOW DOWN ***
+Sirocko shows [Qc 8d 6h 4s] a Badugi: Q, 8, 6, 4
+allie3911 shows [Ts 7h 4d Ac] a Badugi: T, 7, 4, A
+allie3911 wins the pot ($24) with a Badugi: T, 7, 4, A
+*** SUMMARY ***
+Total pot $25 | Rake $1
+Seat 1: 1Incubator1 folded after the 2nd Draw
+Seat 2: grimyreaper1 folded before the Draw (didn't bet)
+Seat 3: Kilij (button) folded before the Draw (didn't bet)
+Seat 4: Sirocko (small blind) showed [Qc 8d 6h 4s] and lost with a Badugi: Q, 8, 6, 4
+Seat 5: allie3911 (big blind) showed [Ts 7h 4d Ac] and won ($24) with a Badugi: T, 7, 4, A
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704583328: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:56:22 CET - 2011/04/07 [13:56:22 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($68.75)
+Seat 2: grimyreaper1 ($140.10)
+Seat 3: Kilij ($82.50)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($113.80)
+Seat 6: Hero ($124.35)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [Jc 4c 5s Qs]
+1Incubator1 raises to $5
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 calls $5
+Kilij folds
+Sirocko folds
+allie3911 folds
+Hero calls $2.50
+*** FIRST DRAW *** (Pot: $16.25)
+Hero discards 2 cards [Jc Qs]
+1Incubator1 discards 1 card
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 discards 1 card
+Dealt to Hero [4c 5s] [6s Kh]
+1Incubator1 is dealt 1 card
+grimyreaper1 is dealt 1 card
+Hero checks
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+grimyreaper1 checks
+*** SECOND DRAW *** (Pot: $16.25)
+Hero discards 2 cards [6s Kh]
+allie3911 is feeling happy
+1Incubator1 has 15 seconds left to act
+1Incubator1 discards 1 card
+grimyreaper1 discards 1 card
+Dealt to Hero [4c 5s] [8c Qh]
+1Incubator1 is dealt 1 card
+grimyreaper1 is dealt 1 card
+Hero checks
+1Incubator1 checks
+grimyreaper1 bets $5
+Hero folds
+1Incubator1 calls $5
+*** THIRD DRAW *** (Pot: $26.25)
+1Incubator1 discards 1 card
+grimyreaper1 stands pat
+1Incubator1 is dealt 1 card
+1Incubator1 checks
+grimyreaper1 bets $5
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+Uncalled bet of $5 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($25.25)
+*** SUMMARY ***
+Total pot $26.25 | Rake $1
+Seat 1: 1Incubator1 folded after the 3rd Draw
+Seat 2: grimyreaper1 collected ($25.25), mucked
+Seat 3: Kilij folded before the Draw (didn't bet)
+Seat 4: Sirocko (button) folded before the Draw (didn't bet)
+Seat 5: allie3911 (small blind) folded before the Draw
+Seat 6: Hero (big blind) folded after the 2nd Draw
+
+
+
+Full Tilt Poker Game #29704630490: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 19:58:47 CET - 2011/04/07 [13:58:47 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($58.75)
+Seat 2: grimyreaper1 ($155.35)
+Seat 3: Kilij ($82.50)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($112.55)
+Seat 6: Hero ($119.35)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [Ts Ks 4h 7d]
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+allie3911 calls $2.50
+Hero calls $1.25
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+*** FIRST DRAW *** (Pot: $7.50)
+Hero discards 1 card [Ks]
+1Incubator1 discards 2 cards
+allie3911 discards 1 card
+Dealt to Hero [Ts 4h 7d] [2s]
+1Incubator1 is dealt 2 cards
+allie3911 is dealt 1 card
+Hero bets $2.50
+1Incubator1 folds
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $12.50)
+Hero discards 1 card [Ts]
+allie3911 discards 1 card
+Dealt to Hero [4h 7d 2s] [Ad]
+allie3911 is dealt 1 card
+Hero bets $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $22.50)
+Hero discards 1 card [7d]
+allie3911 discards 1 card
+Dealt to Hero [4h 2s Ad] [3h]
+allie3911 is dealt 1 card
+Hero checks
+allie3911 checks
+*** SHOW DOWN ***
+Hero shows [3h 2s Ad 4h] a 3-Card: 3, 2, A
+allie3911 mucks
+Hero wins the pot ($21.50) with a 3-Card: 3, 2, A
+*** SUMMARY ***
+Total pot $22.50 | Rake $1
+Seat 1: 1Incubator1 (big blind) folded after the 1st Draw
+Seat 2: grimyreaper1 folded before the Draw (didn't bet)
+Seat 3: Kilij folded before the Draw (didn't bet)
+Seat 4: Sirocko folded before the Draw (didn't bet)
+Seat 5: allie3911 (button) mucked [9d 7s Ah 5h] - a 3-Card: 9, 7, A
+Seat 6: Hero (small blind) showed [3h 2s Ad 4h] and won ($21.50) with a 3-Card: 3, 2, A
+
+
+
+Full Tilt Poker Game #29704655699: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 20:00:04 CET - 2011/04/07 [14:00:04 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($56.25)
+Seat 2: grimyreaper1 ($155.35)
+Seat 3: Kilij ($82.50)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($102.55)
+Seat 6: Hero ($130.85)
+1Incubator1 posts the small blind of $1.25
+grimyreaper1 posts the big blind of $2.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [7c Jh Th Qh]
+Kilij raises to $5
+Sirocko folds
+allie3911 calls $5
+Hero folds
+1Incubator1 folds
+grimyreaper1 folds
+*** FIRST DRAW *** (Pot: $13.75)
+Kilij stands pat
+allie3911 discards 2 cards
+allie3911 is dealt 2 cards
+Kilij bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $18.75)
+Kilij stands pat
+allie3911 discards 1 card
+allie3911 is dealt 1 card
+Kilij bets $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $28.75)
+Kilij stands pat
+allie3911 discards 1 card
+allie3911 is dealt 1 card
+Kilij checks
+allie3911 checks
+*** SHOW DOWN ***
+Kilij shows [Kh 7s 3d 2c] a Badugi: K, 7, 3, 2
+allie3911 mucks
+Kilij wins the pot ($27.75) with a Badugi: K, 7, 3, 2
+*** SUMMARY ***
+Total pot $28.75 | Rake $1
+Seat 1: 1Incubator1 (small blind) folded before the Draw
+Seat 2: grimyreaper1 (big blind) folded before the Draw
+Seat 3: Kilij showed [Kh 7s 3d 2c] and won ($27.75) with a Badugi: K, 7, 3, 2
+Seat 4: Sirocko folded before the Draw (didn't bet)
+Seat 5: allie3911 mucked [5h 3s Ad 6h] - a 3-Card: 5, 3, A
+Seat 6: Hero (button) folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704674290: Table Jackrabbit (6 max) - $2.50/$5 - Limit Badugi - 20:00:58 CET - 2011/04/07 [14:00:58 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($55)
+Seat 2: grimyreaper1 ($152.85)
+Seat 3: Kilij ($97.75)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($90.05)
+Seat 6: Hero ($130.85)
+grimyreaper1 posts the small blind of $1.25
+Kilij posts the big blind of $2.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [2c 6c 4s Js]
+Sirocko folds
+allie3911 raises to $5
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 raises to $7.50
+grimyreaper1 folds
+Kilij folds
+allie3911 calls $2.50
+*** FIRST DRAW *** (Pot: $18.75)
+1Incubator1 has been disconnected
+allie3911 discards 1 card
+1Incubator1 has reconnected
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 discards 1 card
+allie3911 is dealt 1 card
+1Incubator1 is dealt 1 card
+allie3911 checks
+1Incubator1 bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $23.75)
+allie3911 discards 1 card
+1Incubator1 discards 1 card
+allie3911 is dealt 1 card
+1Incubator1 is dealt 1 card
+allie3911 checks
+1Incubator1 bets $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $33.75)
+allie3911 discards 1 card
+1Incubator1 stands pat
+allie3911 is dealt 1 card
+allie3911 checks
+1Incubator1 bets $5
+allie3911 folds
+Uncalled bet of $5 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($32.75)
+*** SUMMARY ***
+Total pot $33.75 | Rake $1
+Seat 1: 1Incubator1 (button) collected ($32.75), mucked
+Seat 2: grimyreaper1 (small blind) folded before the Draw
+Seat 3: Kilij (big blind) folded before the Draw
+Seat 4: Sirocko folded before the Draw (didn't bet)
+Seat 5: allie3911 folded after the 3rd Draw
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29704707299: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:02:20 CET - 2011/04/07 [14:02:20 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($72.75)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($95.25)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($75.05)
+Seat 6: Hero ($130.85)
+Kilij posts the small blind of $1.25
+Sirocko posts the big blind of $2.50
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [8h 7c]
+allie3911 calls $2.50
+Hero folds
+1Incubator1 raises to $5
+grimyreaper1 folds
+Kilij raises to $7.50
+Sirocko folds
+Sirocko adds $2.50
+allie3911 calls $5
+allie3911 is feeling angry
+1Incubator1 raises to $10
+Kilij calls $2.50
+allie3911 calls $2.50
+*** FLOP *** [3s 3d 2d]
+Kilij checks
+allie3911 checks
+1Incubator1 checks
+*** TURN *** [3s 3d 2d] [Ts]
+Kilij bets $5
+allie3911 calls $5
+1Incubator1 calls $5
+*** RIVER *** [3s 3d 2d Ts] [Kc]
+Kilij bets $5
+allie3911 raises to $10
+1Incubator1 folds
+Kilij calls $5
+*** SHOW DOWN ***
+allie3911 shows [Tc Ks] two pair, Kings and Tens
+Kilij mucks
+allie3911 wins the pot ($64.50) with two pair, Kings and Tens
+*** SUMMARY ***
+Total pot $67.50 | Rake $3
+Board: [3s 3d 2d Ts Kc]
+Seat 1: 1Incubator1 folded on the River
+Seat 2: grimyreaper1 (button) didn't bet (folded)
+Seat 3: Kilij (small blind) mucked [Kd Ah] - two pair, Kings and Threes
+Seat 4: Sirocko (big blind) folded before the Flop
+Seat 5: allie3911 showed [Tc Ks] and won ($64.50) with two pair, Kings and Tens
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29704735320: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:03:25 CET - 2011/04/07 [14:03:25 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($57.75)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($70.25)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($114.55)
+Seat 6: Hero ($130.85)
+Sirocko posts the small blind of $1.25
+allie3911 posts the big blind of $2.50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [Ad Td]
+Hero raises to $5
+1Incubator1 folds
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+Sirocko adds $1.25
+allie3911 folds
+Uncalled bet of $2.50 returned to Hero
+Hero mucks
+Hero wins the pot ($6.25)
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij (button) didn't bet (folded)
+Seat 4: Sirocko (small blind) folded before the Flop
+Seat 5: allie3911 (big blind) folded before the Flop
+Seat 6: Hero collected ($6.25), mucked
+
+
+
+Full Tilt Poker Game #29704743613: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:03:44 CET - 2011/04/07 [14:03:44 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($57.75)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($70.25)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($112.05)
+Seat 6: Hero ($134.60)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [3c 5s]
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $2.50
+grimyreaper1 folds
+Kilij has 15 seconds left to act
+Kilij raises to $5
+Sirocko folds
+allie3911 folds
+1Incubator1 has been disconnected
+Hero folds
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $2.50
+*** FLOP *** [7s 8h Js]
+1Incubator1 has 15 seconds left to act
+1Incubator1 bets $2.50
+Kilij raises to $5
+1Incubator1 calls $2.50
+*** TURN *** [7s 8h Js] [2c]
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+Kilij checks
+*** RIVER *** [7s 8h Js 2c] [8c]
+1Incubator1 bets $5
+Kilij folds
+Uncalled bet of $5 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($22.75)
+*** SUMMARY ***
+Total pot $23.75 | Rake $1
+Board: [7s 8h Js 2c 8c]
+Seat 1: 1Incubator1 collected ($22.75), mucked
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij folded on the River
+Seat 4: Sirocko (button) didn't bet (folded)
+Seat 5: allie3911 (small blind) folded before the Flop
+Seat 6: Hero (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #29704786698: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:05:23 CET - 2011/04/07 [14:05:23 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($70.50)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($60.25)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($110.80)
+Seat 6: Hero ($132.10)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [8h 4c]
+grimyreaper1 folds
+Kilij raises to $5
+Sirocko raises to $7.50
+allie3911 folds
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+Kilij calls $2.50
+*** FLOP *** [Qd Ks 9h]
+Kilij checks
+Sirocko bets $2.50
+Kilij folds
+Uncalled bet of $2.50 returned to Sirocko
+Sirocko mucks
+Sirocko wins the pot ($18.75)
+*** SUMMARY ***
+Total pot $18.75 | Rake $0
+Board: [Qd Ks 9h]
+Seat 1: 1Incubator1 (big blind) folded before the Flop
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij folded on the Flop
+Seat 4: Sirocko collected ($18.75), mucked
+Seat 5: allie3911 (button) didn't bet (folded)
+Seat 6: Hero (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #29704801314: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:05:56 CET - 2011/04/07 [14:05:56 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($68)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($52.75)
+Seat 4: Sirocko ($111.25)
+Seat 5: allie3911 ($110.80)
+Seat 6: Hero ($130.85)
+1Incubator1 posts the small blind of $1.25
+grimyreaper1 posts the big blind of $2.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [3h Js]
+Kilij raises to $5
+Sirocko folds
+allie3911 folds
+Hero folds
+1Incubator1 has been disconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $3.75
+grimyreaper1 calls $2.50
+*** FLOP *** [3s 8c 6h]
+1Incubator1 checks
+grimyreaper1 checks
+Kilij bets $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $2.50
+grimyreaper1 calls $2.50
+*** TURN *** [3s 8c 6h] [Kc]
+1Incubator1 has 15 seconds left to act
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 bets $5
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 raises to $10
+Kilij folds
+Kilij adds $4.75
+1Incubator1 calls $5
+*** RIVER *** [3s 8c 6h Kc] [Ah]
+1Incubator1 checks
+Kilij adds $50
+grimyreaper1 bets $5
+1Incubator1 calls $5
+*** SHOW DOWN ***
+grimyreaper1 shows [Kd 3d] two pair, Kings and Threes
+1Incubator1 mucks
+grimyreaper1 wins the pot ($50.50) with two pair, Kings and Threes
+*** SUMMARY ***
+Total pot $52.50 | Rake $2
+Board: [3s 8c 6h Kc Ah]
+Seat 1: 1Incubator1 (small blind) mucked [Qc Ks] - a pair of Kings
+Seat 2: grimyreaper1 (big blind) showed [Kd 3d] and won ($50.50) with two pair, Kings and Threes
+Seat 3: Kilij folded on the Turn
+Seat 4: Sirocko didn't bet (folded)
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29704847443: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:07:40 CET - 2011/04/07 [14:07:40 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($45.50)
+Seat 2: grimyreaper1 ($179.60)
+Seat 3: Kilij ($100)
+Seat 4: Sirocko ($111.25)
+Seat 5: allie3911 ($110.80)
+Seat 6: Hero ($130.85)
+grimyreaper1 posts the small blind of $1.25
+Kilij posts the big blind of $2.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [4h Qc]
+Sirocko raises to $5
+allie3911 folds
+Hero folds
+1Incubator1 folds
+grimyreaper1 folds
+Kilij folds
+Uncalled bet of $2.50 returned to Sirocko
+Sirocko mucks
+Sirocko wins the pot ($6.25)
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Seat 1: 1Incubator1 (button) didn't bet (folded)
+Seat 2: grimyreaper1 (small blind) folded before the Flop
+Seat 3: Kilij (big blind) folded before the Flop
+Seat 4: Sirocko collected ($6.25), mucked
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29704854726: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:07:56 CET - 2011/04/07 [14:07:56 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($45.50)
+Seat 2: grimyreaper1 ($178.35)
+Seat 3: Kilij ($97.50)
+Seat 4: Sirocko ($115)
+Seat 5: allie3911 ($110.80)
+Seat 6: Hero ($130.85)
+Kilij posts the small blind of $1.25
+Sirocko posts the big blind of $2.50
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [6h 5s]
+allie3911 raises to $5
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+grimyreaper1 calls $5
+Kilij raises to $7.50
+Sirocko folds
+allie3911 calls $2.50
+grimyreaper1 calls $2.50
+*** FLOP *** [3c Qc Td]
+Kilij bets $2.50
+allie3911 calls $2.50
+grimyreaper1 raises to $5
+Kilij raises to $7.50
+allie3911 calls $5
+grimyreaper1 calls $2.50
+*** TURN *** [3c Qc Td] [Qs]
+Kilij bets $5
+allie3911 raises to $10
+grimyreaper1 folds
+Kilij raises to $15
+allie3911 raises to $20
+Kilij calls $5
+*** RIVER *** [3c Qc Td Qs] [Jc]
+Kilij bets $5
+allie3911 calls $5
+*** SHOW DOWN ***
+Kilij shows [3s 3d] a full house, Threes full of Queens
+allie3911 mucks
+Kilij wins the pot ($94.50) with a full house, Threes full of Queens
+*** SUMMARY ***
+Total pot $97.50 | Rake $3
+Board: [3c Qc Td Qs Jc]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 (button) folded on the Turn
+Seat 3: Kilij (small blind) showed [3s 3d] and won ($94.50) with a full house, Threes full of Queens
+Seat 4: Sirocko (big blind) folded before the Flop
+Seat 5: allie3911 mucked [Qh Ad] - three of a kind, Queens
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29704885097: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:09:03 CET - 2011/04/07 [14:09:03 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($45.50)
+Seat 2: grimyreaper1 ($163.35)
+Seat 3: Kilij ($152)
+Seat 4: Sirocko ($112.50)
+Seat 5: allie3911 ($70.80)
+Seat 6: Hero ($130.85)
+Sirocko posts the small blind of $1.25
+allie3911 posts the big blind of $2.50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [Th 7h]
+Hero folds
+1Incubator1 folds
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+Uncalled bet of $1.25 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($2.50)
+*** SUMMARY ***
+Total pot $2.50 | Rake $0
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij (button) didn't bet (folded)
+Seat 4: Sirocko (small blind) folded before the Flop
+Seat 5: allie3911 (big blind) collected ($2.50), mucked
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29704891223: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:09:17 CET - 2011/04/07 [14:09:17 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($45.50)
+Seat 2: grimyreaper1 ($163.35)
+Seat 3: Kilij ($152)
+Seat 4: Sirocko ($111.25)
+Seat 5: allie3911 ($72.05)
+Seat 6: Hero ($130.85)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [Tc Kd]
+1Incubator1 calls $2.50
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+allie3911 calls $1.25
+Hero checks
+*** FLOP *** [Jd 7d Jc]
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+allie3911 checks
+Hero checks
+1Incubator1 checks
+*** TURN *** [Jd 7d Jc] [9d]
+allie3911 checks
+Hero bets $5
+1Incubator1 raises to $10
+allie3911 folds
+Hero calls $5
+*** RIVER *** [Jd 7d Jc 9d] [9c]
+Hero checks
+1Incubator1 checks
+*** SHOW DOWN ***
+1Incubator1 shows [Ad 5d] a flush, Ace high
+Hero mucks
+1Incubator1 wins the pot ($26.50) with a flush, Ace high
+*** SUMMARY ***
+Total pot $27.50 | Rake $1
+Board: [Jd 7d Jc 9d 9c]
+Seat 1: 1Incubator1 showed [Ad 5d] and won ($26.50) with a flush, Ace high
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij didn't bet (folded)
+Seat 4: Sirocko (button) didn't bet (folded)
+Seat 5: allie3911 (small blind) folded on the Turn
+Seat 6: Hero (big blind) mucked [Tc Kd] - two pair, Jacks and Nines
+
+
+
+Full Tilt Poker Game #29704918932: Table Jackrabbit (6 max) - $2.50/$5 - Limit Hold'em - 20:10:18 CET - 2011/04/07 [14:10:18 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($59.50)
+Seat 2: grimyreaper1 ($163.35)
+Seat 3: Kilij ($152)
+Seat 4: Sirocko ($111.25)
+Seat 5: allie3911 ($69.55)
+Seat 6: Hero ($118.35)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [9s 4h]
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+allie3911 raises to $5
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 raises to $7.50
+allie3911 calls $2.50
+*** FLOP *** [7h 5d Qd]
+1Incubator1 bets $2.50
+allie3911 calls $2.50
+*** TURN *** [7h 5d Qd] [8s]
+1Incubator1 has 15 seconds left to act
+1Incubator1 bets $5
+allie3911 folds
+Uncalled bet of $5 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($20.25)
+*** SUMMARY ***
+Total pot $21.25 | Rake $1
+Board: [7h 5d Qd 8s]
+Seat 1: 1Incubator1 (big blind) collected ($20.25), mucked
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij didn't bet (folded)
+Seat 4: Sirocko didn't bet (folded)
+Seat 5: allie3911 (button) folded on the Turn
+Seat 6: Hero (small blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #29704938956: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:11:01 CET - 2011/04/07 [14:11:01 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($69.75)
+Seat 2: grimyreaper1 ($163.35)
+Seat 3: Kilij ($152)
+Seat 4: Sirocko ($111.25)
+Seat 5: allie3911 ($59.55)
+Seat 6: Hero ($117.10)
+Sirocko antes $0.40
+Hero antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+Kilij antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [4d As] [7s]
+Dealt to 1Incubator1 [2h]
+Dealt to grimyreaper1 [Kh]
+Dealt to Kilij [4h]
+Dealt to Sirocko [6h]
+Dealt to allie3911 [Td]
+1Incubator1 is low with [2h]
+1Incubator1 has 15 seconds left to act
+1Incubator1 brings in for $0.75
+grimyreaper1 completes it to $2.50
+Kilij raises to $5
+Sirocko folds
+allie3911 folds
+Hero calls $5
+1Incubator1 folds
+grimyreaper1 raises to $7.50
+Kilij raises to $10
+Hero calls $5
+grimyreaper1 calls $2.50
+*** 4TH STREET ***
+Dealt to Hero [4d As 7s] [Th]
+Dealt to grimyreaper1 [Kh] [5d]
+Dealt to Kilij [4h] [Tc]
+grimyreaper1 bets $2.50
+Kilij calls $2.50
+Hero calls $2.50
+*** 5TH STREET ***
+Dealt to Hero [4d As 7s Th] [Jc]
+Dealt to grimyreaper1 [Kh 5d] [8s]
+Dealt to Kilij [4h Tc] [8c]
+grimyreaper1 bets $5
+Kilij calls $5
+Hero folds
+*** 6TH STREET ***
+Dealt to grimyreaper1 [Kh 5d 8s] [6s]
+Dealt to Kilij [4h Tc 8c] [8h]
+Kilij checks
+grimyreaper1 checks
+*** 7TH STREET ***
+Kilij checks
+grimyreaper1 checks
+*** SHOW DOWN ***
+grimyreaper1 shows [Kc Qh Kh 5d 8s 6s 9c] a pair of Kings, for high
+Kilij mucks
+grimyreaper1 wins the pot ($48.65) with a pair of Kings
+No low hand qualified
+*** SUMMARY ***
+Total pot $50.65 | Rake $2
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 showed [Kc Qh Kh 5d 8s 6s 9c] and won ($48.65) with HI: a pair of Kings
+Seat 3: Kilij mucked [Ah Ks 4h Tc 8c 8h 6d] - HI: a pair of Eights
+Seat 4: Sirocko folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 5th St.
+
+
+
+Full Tilt Poker Game #29704975022: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:12:23 CET - 2011/04/07 [14:12:23 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($68.60)
+Seat 2: grimyreaper1 ($194.10)
+Seat 3: Kilij ($134.10)
+Seat 4: Sirocko ($110.85)
+Seat 5: allie3911 ($59.15)
+Seat 6: Hero ($104.20)
+Sirocko antes $0.40
+grimyreaper1 antes $0.40
+Kilij antes $0.40
+allie3911 antes $0.40
+Hero antes $0.40
+1Incubator1 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [8s Td] [4s]
+Dealt to 1Incubator1 [5h]
+Dealt to grimyreaper1 [Js]
+Dealt to Kilij [Th]
+Dealt to Sirocko [4c]
+Dealt to allie3911 [3c]
+allie3911 is low with [3c]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 calls $0.75
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+*** 4TH STREET ***
+Dealt to 1Incubator1 [5h] [Tc]
+Dealt to allie3911 [3c] [Kd]
+allie3911 bets $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+Uncalled bet of $2.50 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($3.90)
+*** SUMMARY ***
+Total pot $3.90 | Rake $0
+Seat 1: 1Incubator1 folded on 4th St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij folded on 3rd St.
+Seat 4: Sirocko folded on 3rd St.
+Seat 5: allie3911 collected ($3.90), mucked
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29704991505: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:13:00 CET - 2011/04/07 [14:13:00 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($67.45)
+Seat 2: grimyreaper1 ($193.70)
+Seat 3: Kilij ($133.70)
+Seat 4: Sirocko ($110.45)
+Seat 5: allie3911 ($61.90)
+Seat 6: Hero ($103.80)
+1Incubator1 antes $0.40
+Sirocko antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+Kilij antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [4s Tc] [5d]
+Dealt to 1Incubator1 [3c]
+Dealt to grimyreaper1 [Ac]
+Dealt to Kilij [4d]
+Dealt to Sirocko [9d]
+Dealt to allie3911 [Js]
+1Incubator1 is low with [3c]
+1Incubator1 has 15 seconds left to act
+1Incubator1 completes it to $2.50
+grimyreaper1 folds
+Kilij folds
+Sirocko folds
+allie3911 folds
+Hero folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($2.40)
+*** SUMMARY ***
+Total pot $2.40 | Rake $0
+Seat 1: 1Incubator1 collected ($2.40), mucked
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij folded on 3rd St.
+Seat 4: Sirocko folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705002586: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:13:24 CET - 2011/04/07 [14:13:24 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($69.45)
+Seat 2: grimyreaper1 ($193.30)
+Seat 3: Kilij ($133.30)
+Seat 4: Sirocko ($110.05)
+Seat 5: allie3911 ($61.50)
+Seat 6: Hero ($103.40)
+Sirocko antes $0.40
+1Incubator1 antes $0.40
+allie3911 antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+Kilij antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Kh 6h] [9h]
+Dealt to 1Incubator1 [2s]
+Dealt to grimyreaper1 [Ah]
+Dealt to Kilij [8h]
+Dealt to Sirocko [4d]
+Dealt to allie3911 [Qc]
+1Incubator1 is low with [2s]
+1Incubator1 completes it to $2.50
+grimyreaper1 folds
+Kilij raises to $5
+Sirocko raises to $7.50
+allie3911 raises to $10
+Hero folds
+1Incubator1 calls $7.50
+Kilij calls $5
+Sirocko calls $2.50
+*** 4TH STREET ***
+Dealt to 1Incubator1 [2s] [5c]
+Dealt to Kilij [8h] [6d]
+Dealt to Sirocko [4d] [4h]
+Dealt to allie3911 [Qc] [Ks]
+Sirocko has 15 seconds left to act
+Sirocko checks
+allie3911 bets $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 raises to $5
+Kilij raises to $7.50
+Sirocko has 15 seconds left to act
+Sirocko folds
+Sirocko adds $0.35
+allie3911 raises to $10
+1Incubator1 calls $5
+Kilij calls $2.50
+*** 5TH STREET ***
+Dealt to 1Incubator1 [2s 5c] [2h]
+Dealt to Kilij [8h 6d] [3d]
+Dealt to allie3911 [Qc Ks] [Jc]
+1Incubator1 checks
+Kilij bets $5
+allie3911 raises to $10
+1Incubator1 calls $10
+Kilij calls $5
+*** 6TH STREET ***
+Dealt to 1Incubator1 [2s 5c 2h] [5d]
+Dealt to Kilij [8h 6d 3d] [2d]
+Dealt to allie3911 [Qc Ks Jc] [2c]
+1Incubator1 checks
+Kilij bets $5
+allie3911 calls $5
+1Incubator1 calls $5
+*** 7TH STREET ***
+1Incubator1 checks
+Kilij bets $5
+allie3911 calls $5
+1Incubator1 calls $5
+*** SHOW DOWN ***
+Kilij shows [8s 7s 8h 6d 3d 2d 3h] two pair, Eights and Threes, for high and 8,7,6,3,2, for low
+allie3911 shows [Kc Js Qc Ks Jc 2c 3s] two pair, Kings and Jacks, for high
+1Incubator1 mucks
+allie3911 wins the high pot ($64.70) with two pair, Kings and Jacks
+Kilij wins the low pot ($64.70) with 8,7,6,3,2
+*** SUMMARY ***
+Total pot $132.40 | Rake $3
+Seat 1: 1Incubator1 mucked [Kd 6s 2s 5c 2h 5d 4s] - HI: two pair, Fives and Twos
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij showed [8s 7s 8h 6d 3d 2d 3h] and won ($64.70) with HI: two pair, Eights and Threes; LO: 8,7,6,3,2
+Seat 4: Sirocko folded on 4th St.
+Seat 5: allie3911 showed [Kc Js Qc Ks Jc 2c 3s] and won ($64.70) with HI: two pair, Kings and Jacks
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705049043: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:15:08 CET - 2011/04/07 [14:15:08 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($29.05)
+Seat 2: grimyreaper1 ($192.90)
+Seat 3: Kilij ($157.60)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($85.80)
+Seat 6: Hero ($103)
+Sirocko antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+Hero antes $0.40
+Kilij antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Qd 4d] [4s]
+Dealt to 1Incubator1 [5s]
+Dealt to grimyreaper1 [8c]
+Dealt to Kilij [3s]
+Dealt to Sirocko [Jc]
+Dealt to allie3911 [3h]
+allie3911 is low with [3h]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $0.75
+grimyreaper1 folds
+Kilij completes it to $2.50
+Sirocko folds
+Sirocko adds $0.40
+allie3911 folds
+1Incubator1 calls $1.75
+*** 4TH STREET ***
+Dealt to 1Incubator1 [5s] [Qc]
+Dealt to Kilij [3s] [Qs]
+1Incubator1 checks
+Kilij bets $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+Uncalled bet of $2.50 returned to Kilij
+Kilij mucks
+Kilij wins the pot ($8.15)
+*** SUMMARY ***
+Total pot $8.15 | Rake $0
+Seat 1: 1Incubator1 folded on 4th St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij collected ($8.15), mucked
+Seat 4: Sirocko folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705070631: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:15:57 CET - 2011/04/07 [14:15:57 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($26.15)
+Seat 2: grimyreaper1 ($192.50)
+Seat 3: Kilij ($162.85)
+Seat 4: Sirocko ($100)
+Seat 5: allie3911 ($84.65)
+Seat 6: Hero ($102.60)
+1Incubator1 antes $0.40
+Sirocko antes $0.40
+Kilij antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Ks 2d] [Qd]
+Dealt to 1Incubator1 [7d]
+Dealt to grimyreaper1 [Qs]
+Dealt to Kilij [8s]
+Dealt to Sirocko [Jc]
+Dealt to allie3911 [Js]
+1Incubator1 is low with [7d]
+1Incubator1 has 15 seconds left to act
+1Incubator1 brings in for $0.75
+grimyreaper1 folds
+Kilij completes it to $2.50
+Sirocko folds
+Sirocko stands up
+allie3911 folds
+Hero folds
+KiIIuminati adds $100
+1Incubator1 folds
+Uncalled bet of $1.75 returned to Kilij
+Kilij mucks
+Kilij wins the pot ($3.90)
+*** SUMMARY ***
+Total pot $3.90 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij collected ($3.90), mucked
+Seat 4: Sirocko folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705086913: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:16:34 CET - 2011/04/07 [14:16:34 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($25)
+Seat 2: grimyreaper1 ($192.10)
+Seat 3: Kilij ($165.60)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($84.25)
+Seat 6: Hero ($102.20)
+KiIIuminati antes $0.40
+grimyreaper1 antes $0.40
+Kilij antes $0.40
+allie3911 antes $0.40
+Hero antes $0.40
+1Incubator1 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Tc Ad] [7c]
+Dealt to 1Incubator1 [8d]
+Dealt to grimyreaper1 [As]
+Dealt to Kilij [Jh]
+Dealt to KiIIuminati [9h]
+Dealt to allie3911 [5h]
+allie3911 is low with [5h]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 folds
+grimyreaper1 completes it to $2.50
+Kilij folds
+KiIIuminati folds
+KiIIuminati adds $0.40
+allie3911 folds
+Uncalled bet of $1.75 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($3.90)
+*** SUMMARY ***
+Total pot $3.90 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 collected ($3.90), mucked
+Seat 3: Kilij folded on 3rd St.
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705100459: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:17:05 CET - 2011/04/07 [14:17:05 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($24.60)
+Seat 2: grimyreaper1 ($194.85)
+Seat 3: Kilij ($165.20)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($83.10)
+Seat 6: Hero ($101.80)
+KiIIuminati antes $0.40
+Kilij antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+1Incubator1 antes $0.40
+Hero antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [9d Kh] [5c]
+Dealt to 1Incubator1 [Ts]
+Dealt to grimyreaper1 [8s]
+Dealt to Kilij [Jd]
+Dealt to KiIIuminati [3d]
+Dealt to allie3911 [6d]
+KiIIuminati is low with [3d]
+KiIIuminati brings in for $0.75
+allie3911 folds
+Hero folds
+1Incubator1 folds
+grimyreaper1 folds
+Kilij folds
+Uncalled bet of $0.75 returned to KiIIuminati
+KiIIuminati mucks
+KiIIuminati wins the pot ($2.40)
+*** SUMMARY ***
+Total pot $2.40 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij folded on 3rd St.
+Seat 4: KiIIuminati collected ($2.40), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705110498: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:17:28 CET - 2011/04/07 [14:17:28 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($24.20)
+Seat 2: grimyreaper1 ($194.45)
+Seat 3: Kilij ($164.80)
+Seat 4: KiIIuminati ($102)
+Seat 5: allie3911 ($82.70)
+Seat 6: Hero ($101.40)
+1Incubator1 antes $0.40
+Hero antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+grimyreaper1 antes $0.40
+Kilij antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Kh 8d] [5h]
+Dealt to 1Incubator1 [9d]
+Dealt to grimyreaper1 [Qs]
+Dealt to Kilij [2h]
+Dealt to KiIIuminati [Qd]
+Dealt to allie3911 [5c]
+Kilij is low with [2h]
+Kilij brings in for $0.75
+KiIIuminati folds
+allie3911 calls $0.75
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 calls $0.75
+*** 4TH STREET ***
+Dealt to grimyreaper1 [Qs] [4c]
+Dealt to Kilij [2h] [5s]
+Dealt to allie3911 [5c] [9c]
+grimyreaper1 checks
+Kilij checks
+allie3911 checks
+*** 5TH STREET ***
+Dealt to grimyreaper1 [Qs 4c] [Ac]
+Dealt to Kilij [2h 5s] [Jc]
+Dealt to allie3911 [5c 9c] [Tc]
+grimyreaper1 checks
+Kilij checks
+allie3911 checks
+*** 6TH STREET ***
+Dealt to grimyreaper1 [Qs 4c Ac] [Td]
+Dealt to Kilij [2h 5s Jc] [Qc]
+Dealt to allie3911 [5c 9c Tc] [6s]
+grimyreaper1 checks
+Kilij checks
+allie3911 checks
+*** 7TH STREET ***
+grimyreaper1 checks
+Kilij checks
+allie3911 bets $5
+grimyreaper1 folds
+Kilij folds
+Uncalled bet of $5 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($4.65)
+*** SUMMARY ***
+Total pot $4.65 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 7th St.
+Seat 3: Kilij folded on 7th St.
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 collected ($4.65), mucked
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705138396: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Stud H/L - 20:18:30 CET - 2011/04/07 [14:18:30 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($23.80)
+Seat 2: grimyreaper1 ($193.30)
+Seat 3: Kilij ($163.65)
+Seat 4: KiIIuminati ($101.60)
+Seat 5: allie3911 ($86.20)
+Seat 6: Hero ($101)
+Hero antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+Kilij antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [7d 5c] [6d]
+Dealt to 1Incubator1 [6c]
+Dealt to grimyreaper1 [8s]
+Dealt to Kilij [8h]
+Dealt to KiIIuminati [Qd]
+Dealt to allie3911 [5d]
+allie3911 is low with [5d]
+allie3911 brings in for $0.75
+Hero calls $0.75
+1Incubator1 completes it to $2.50
+grimyreaper1 folds
+Kilij raises to $5
+KiIIuminati folds
+allie3911 calls $4.25
+Hero raises to $7.50
+1Incubator1 raises to $10
+Kilij calls $5
+allie3911 calls $5
+Hero calls $2.50
+*** 4TH STREET ***
+Dealt to Hero [7d 5c 6d] [Ts]
+Dealt to 1Incubator1 [6c] [9d]
+Dealt to Kilij [8h] [Qs]
+Dealt to allie3911 [5d] [7s]
+Kilij bets $2.50
+allie3911 calls $2.50
+Hero calls $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $2.50
+*** 5TH STREET ***
+Dealt to Hero [7d 5c 6d Ts] [Jd]
+Dealt to 1Incubator1 [6c 9d] [Ad]
+Dealt to Kilij [8h Qs] [Jh]
+Dealt to allie3911 [5d 7s] [9c]
+1Incubator1 bets $5
+Kilij raises to $10
+allie3911 calls $10
+Hero folds
+Hero adds $11.90
+1Incubator1 raises to $10.90, and is all in
+Kilij calls $0.90
+allie3911 calls $0.90
+*** 6TH STREET ***
+Dealt to 1Incubator1 [6c 9d Ad] [2c]
+Dealt to Kilij [8h Qs Jh] [Qh]
+Dealt to allie3911 [5d 7s 9c] [Ks]
+Kilij bets $5
+allie3911 calls $5
+*** 7TH STREET ***
+Kilij checks
+allie3911 checks
+*** SHOW DOWN ***
+Kilij shows [As Ac 8h Qs Jh Qh 7c] two pair, Aces and Queens, for high
+allie3911 shows [8d 3c 5d 7s 9c Ks 2h] King Nine high, for high and 8,7,5,3,2, for low
+Kilij wins the high side pot ($5) with two pair, Aces and Queens
+allie3911 wins the low side pot ($5) with 8,7,5,3,2
+1Incubator1 shows [Tc 4d 6c 9d Ad 2c 3h] Ace Ten high, for high and 6,4,3,2,A, for low
+Kilij wins the high main pot ($41.05) with two pair, Aces and Queens
+1Incubator1 wins the low main pot ($41.05) with 6,4,3,2,A
+*** SUMMARY ***
+Total pot $95.10 Main pot $85.10. Side pot $10. | Rake $3
+Seat 1: 1Incubator1 showed [Tc 4d 6c 9d Ad 2c 3h] and won ($41.05) with HI: Ace Ten high; LO: 6,4,3,2,A
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij showed [As Ac 8h Qs Jh Qh 7c] and won ($46.05) with HI: two pair, Aces and Queens
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 showed [8d 3c 5d 7s 9c Ks 2h] and won ($5) with HI: King Nine high; LO: 8,7,5,3,2
+Seat 6: Hero folded on 5th St.
+
+
+
+Full Tilt Poker Game #29705175401: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:19:55 CET - 2011/04/07 [14:19:55 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($41.05)
+Seat 2: grimyreaper1 ($192.90)
+Seat 3: Kilij ($180.90)
+Seat 4: KiIIuminati ($101.20)
+Seat 5: allie3911 ($62.40)
+Seat 6: Hero ($100)
+1Incubator1 posts the small blind of $0.50
+grimyreaper1 posts the big blind of $1
+Hero has been disconnected
+Hero has reconnected
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [8s 7h 6d Ah]
+Kilij raises to $2
+1Incubator1 has been disconnected
+allie3911 calls $2
+1Incubator1 has reconnected
+Hero raises to $9.50
+1Incubator1 folds
+grimyreaper1 folds
+Kilij calls $7.50
+allie3911 folds
+*** FLOP *** [Qs 8h Qc]
+Kilij checks
+Hero bets $14
+Kilij folds
+Uncalled bet of $14 returned to Hero
+Hero mucks
+Hero wins the pot ($21.40)
+*** SUMMARY ***
+Total pot $22.50 | Rake $1.10
+Board: [Qs 8h Qc]
+Seat 1: 1Incubator1 (small blind) folded before the Flop
+Seat 2: grimyreaper1 (big blind) folded before the Flop
+Seat 3: Kilij folded on the Flop
+Seat 4: KiIIuminati is sitting out
+Seat 5: allie3911 folded before the Flop
+Seat 6: Hero (button) collected ($21.40), mucked
+
+
+
+Full Tilt Poker Game #29705191140: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:20:32 CET - 2011/04/07 [14:20:32 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($40.55)
+Seat 2: grimyreaper1 ($191.90)
+Seat 3: Kilij ($171.40)
+Seat 4: KiIIuminati ($101.20)
+Seat 5: allie3911 ($60.40)
+Seat 6: Hero ($111.90)
+grimyreaper1 posts the small blind of $0.50
+Kilij posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [8c 7d Qd Ac]
+allie3911 folds
+Hero raises to $3.50
+1Incubator1 folds
+grimyreaper1 calls $3
+Kilij folds
+*** FLOP *** [Js 9d Qh]
+grimyreaper1 checks
+Hero checks
+*** TURN *** [Js 9d Qh] [6h]
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 bets $5
+Hero has 15 seconds left to act
+Hero folds
+Uncalled bet of $5 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($7.60)
+*** SUMMARY ***
+Total pot $8 | Rake $0.40
+Board: [Js 9d Qh 6h]
+Seat 1: 1Incubator1 (button) didn't bet (folded)
+Seat 2: grimyreaper1 (small blind) collected ($7.60), mucked
+Seat 3: Kilij (big blind) folded before the Flop
+Seat 4: KiIIuminati is sitting out
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero folded on the Turn
+
+
+
+Full Tilt Poker Game #29705217611: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:21:33 CET - 2011/04/07 [14:21:33 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($40.55)
+Seat 2: grimyreaper1 ($196)
+Seat 3: Kilij ($170.40)
+Seat 4: KiIIuminati ($101.20)
+Seat 5: allie3911 ($60.40)
+Seat 6: Hero ($108.40)
+Kilij posts the small blind of $0.50
+KiIIuminati posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [5d 3s 7h 3c]
+allie3911 folds
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+grimyreaper1 calls $1
+Kilij has 15 seconds left to act
+Kilij calls $0.50
+KiIIuminati raises to $4
+grimyreaper1 folds
+Kilij calls $3
+*** FLOP *** [6c Qc 6s]
+Kilij checks
+KiIIuminati has 15 seconds left to act
+KiIIuminati bets $5
+Kilij raises to $24
+KiIIuminati has 15 seconds left to act
+KiIIuminati has requested TIME
+KiIIuminati folds
+KiIIuminati adds $7.80
+Uncalled bet of $19 returned to Kilij
+Kilij mucks
+Kilij wins the pot ($18.05)
+*** SUMMARY ***
+Total pot $19 | Rake $0.95
+Board: [6c Qc 6s]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 (button) folded before the Flop
+Seat 3: Kilij (small blind) collected ($18.05), mucked
+Seat 4: KiIIuminati (big blind) folded on the Flop
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705257982: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:23:06 CET - 2011/04/07 [14:23:06 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($40.55)
+Seat 2: grimyreaper1 ($195)
+Seat 3: Kilij ($179.45)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($60.40)
+Seat 6: Hero ($108.40)
+KiIIuminati posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [Qd Jh 2s Kc]
+Hero folds
+1Incubator1 folds
+grimyreaper1 raises to $3
+Kilij folds
+KiIIuminati calls $2.50
+allie3911 calls $2
+*** FLOP *** [Th 8h 2h]
+KiIIuminati checks
+allie3911 checks
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 bets $6
+KiIIuminati has 15 seconds left to act
+KiIIuminati folds
+KiIIuminati adds $3
+allie3911 calls $6
+*** TURN *** [Th 8h 2h] [6d]
+allie3911 checks
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 bets $13
+allie3911 raises to $26
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 has requested TIME
+grimyreaper1: q high
+grimyreaper1 folds
+Uncalled bet of $13 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($44.65)
+*** SUMMARY ***
+Total pot $47 | Rake $2.35
+Board: [Th 8h 2h 6d]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 folded on the Turn
+Seat 3: Kilij (button) didn't bet (folded)
+Seat 4: KiIIuminati (small blind) folded on the Flop
+Seat 5: allie3911 (big blind) collected ($44.65), mucked
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705302683: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:24:48 CET - 2011/04/07 [14:24:48 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($40.55)
+Seat 2: grimyreaper1 ($173)
+Seat 3: Kilij ($179.45)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($83.05)
+Seat 6: Hero ($108.40)
+allie3911 posts the small blind of $0.50
+Hero posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [Td 7s 5s Qh]
+1Incubator1 has 15 seconds left to act
+allie3911: HMMMM
+1Incubator1 has been disconnected
+1Incubator1 folds
+1Incubator1 has reconnected
+grimyreaper1 folds
+Kilij calls $1
+grimyreaper1: g fold?
+KiIIuminati calls $1
+allie3911 calls $0.50
+Hero checks
+*** FLOP *** [6s 2d Kd]
+allie3911 checks
+Hero checks
+Kilij checks
+KiIIuminati checks
+*** TURN *** [6s 2d Kd] [Jd]
+allie3911: yes
+allie3911 checks
+grimyreaper1: ty
+Hero checks
+Kilij checks
+grimyreaper1: brb
+grimyreaper1 is sitting out
+KiIIuminati bets $3
+allie3911 folds
+Hero folds
+Kilij folds
+Uncalled bet of $3 returned to KiIIuminati
+KiIIuminati mucks
+*** SUMMARY ***
+Total pot $4 | Rake $0.20
+Board: [6s 2d Kd Jd]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 didn't bet (folded)
+Seat 3: Kilij folded on the Turn
+Seat 4: KiIIuminati (button) collected ($3.80), mucked
+Seat 5: allie3911 (small blind) folded on the Turn
+Seat 6: Hero (big blind) folded on the Turn
+
+
+
+Full Tilt Poker Game #29705330865: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:25:54 CET - 2011/04/07 [14:25:54 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($40.55)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($178.45)
+Seat 4: KiIIuminati ($102.80)
+Seat 5: allie3911 ($82.05)
+Seat 6: Hero ($107.40)
+1Incubator1 has been disconnected
+Hero has 5 seconds left to act
+Hero posts the small blind of $0.50
+1Incubator1 posts the big blind of $1
+The button is in seat #5
+1Incubator1 has reconnected
+*** HOLE CARDS ***
+Dealt to Hero [3s Ts Jc 8h]
+Kilij calls $1
+KiIIuminati folds
+allie3911 calls $1
+Hero calls $0.50
+1Incubator1 checks
+*** FLOP *** [3d 5c 7h]
+Hero checks
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+Kilij bets $3
+allie3911 calls $3
+Hero folds
+1Incubator1 calls $3
+*** TURN *** [3d 5c 7h] [6d]
+1Incubator1 bets $13
+Kilij folds
+allie3911 folds
+Uncalled bet of $13 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($12.35)
+*** SUMMARY ***
+Total pot $13 | Rake $0.65
+Board: [3d 5c 7h 6d]
+Seat 1: 1Incubator1 (big blind) collected ($12.35), mucked
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij folded on the Turn
+Seat 4: KiIIuminati didn't bet (folded)
+Seat 5: allie3911 (button) folded on the Turn
+Seat 6: Hero (small blind) folded on the Flop
+
+
+
+Full Tilt Poker Game #29705356891: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:26:56 CET - 2011/04/07 [14:26:56 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($48.90)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($174.45)
+Seat 4: KiIIuminati ($102.80)
+Seat 5: allie3911 ($78.05)
+Seat 6: Hero ($106.40)
+1Incubator1 posts the small blind of $0.50
+Kilij posts the big blind of $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [6s 2s 9h 3s]
+KiIIuminati folds
+allie3911 folds
+Hero raises to $3
+1Incubator1 folds
+Kilij has 15 seconds left to act
+Kilij calls $2
+*** FLOP *** [Ks Th 5c]
+Kilij checks
+Hero bets $5
+Kilij folds
+Uncalled bet of $5 returned to Hero
+Hero mucks
+Hero wins the pot ($6.20)
+*** SUMMARY ***
+Total pot $6.50 | Rake $0.30
+Board: [Ks Th 5c]
+Seat 1: 1Incubator1 (small blind) folded before the Flop
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij (big blind) folded on the Flop
+Seat 4: KiIIuminati didn't bet (folded)
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero (button) collected ($6.20), mucked
+
+
+
+Full Tilt Poker Game #29705373495: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:27:35 CET - 2011/04/07 [14:27:35 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($48.40)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($171.45)
+Seat 4: KiIIuminati ($102.80)
+Seat 5: allie3911 ($78.05)
+Seat 6: Hero ($109.60)
+Kilij posts the small blind of $0.50
+KiIIuminati posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [Jh 6s 2c 7s]
+allie3911 folds
+Hero folds
+allie3911 is feeling happy
+1Incubator1 has 15 seconds left to act
+1Incubator1 folds
+Kilij calls $0.50
+KiIIuminati raises to $3
+Kilij calls $2
+*** FLOP *** [2s 7d 7c]
+Kilij checks
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+KiIIuminati has 15 seconds left to act
+KiIIuminati checks
+*** TURN *** [2s 7d 7c] [5h]
+Kilij bets $4
+KiIIuminati calls $4
+*** RIVER *** [2s 7d 7c 5h] [Ad]
+Kilij checks
+KiIIuminati has 15 seconds left to act
+KiIIuminati bets $9
+Kilij folds
+Uncalled bet of $9 returned to KiIIuminati
+*** SUMMARY ***
+Total pot $14 | Rake $0.70
+Board: [2s 7d 7c 5h Ad]
+Seat 1: 1Incubator1 (button) didn't bet (folded)
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij (small blind) folded on the River
+Seat 4: KiIIuminati (big blind) collected ($13.30), mucked
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705401906: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:28:42 CET - 2011/04/07 [14:28:42 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($48.40)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($164.45)
+Seat 4: KiIIuminati ($109.10)
+Seat 5: allie3911 ($78.05)
+Seat 6: Hero ($109.60)
+KiIIuminati posts the small blind of $0.50
+allie3911 posts the big blind of $1
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [6h 9d 9h 3d]
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $1
+Kilij raises to $3
+KiIIuminati folds
+allie3911 raises to $10.50
+1Incubator1 folds
+Kilij calls $7.50
+*** FLOP *** [4s Kd 6d]
+allie3911 bets $22.50
+Kilij raises to $90
+allie3911 calls $45.05, and is all in
+Kilij shows [5d Ad Js Qc]
+allie3911 shows [Td Ah Ks As]
+Uncalled bet of $22.45 returned to Kilij
+*** TURN *** [4s Kd 6d] [Kh]
+*** RIVER *** [4s Kd 6d Kh] [2h]
+Kilij shows a pair of Kings
+allie3911 shows three of a kind, Kings
+allie3911 wins the pot ($154.60) with three of a kind, Kings
+*** SUMMARY ***
+Total pot $157.60 | Rake $3
+Board: [4s Kd 6d Kh 2h]
+Seat 1: 1Incubator1 folded before the Flop
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij (button) showed [5d Ad Js Qc] and lost with a pair of Kings
+Seat 4: KiIIuminati (small blind) folded before the Flop
+Seat 5: allie3911 (big blind) showed [Td Ah Ks As] and won ($154.60) with three of a kind, Kings
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705424464: Table Jackrabbit (6 max) - $0.50/$1 - Pot Limit Omaha Hi - 20:29:36 CET - 2011/04/07 [14:29:36 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($47.40)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($100)
+Seat 4: KiIIuminati ($108.60)
+Seat 5: allie3911 ($154.60)
+Seat 6: Hero ($109.60)
+allie3911 posts the small blind of $0.50
+Hero posts the big blind of $1
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [5c 9s 8c 2c]
+1Incubator1 folds
+Kilij raises to $3
+KiIIuminati folds
+allie3911 calls $2.50
+Hero folds
+*** FLOP *** [6d 6s 7c]
+allie3911 checks
+Kilij checks
+*** TURN *** [6d 6s 7c] [4d]
+allie3911 checks
+Kilij checks
+*** RIVER *** [6d 6s 7c 4d] [7d]
+allie3911 checks
+Kilij checks
+*** SHOW DOWN ***
+Kilij shows [3s 9h Ks Jh] a pair of Sevens
+allie3911 shows [2s As Qs 5s] a pair of Sevens
+allie3911 wins the pot ($6.65) with a pair of Sevens
+*** SUMMARY ***
+Total pot $7 | Rake $0.35
+Board: [6d 6s 7c 4d 7d]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij showed [3s 9h Ks Jh] and lost with a pair of Sevens
+Seat 4: KiIIuminati (button) didn't bet (folded)
+Seat 5: allie3911 (small blind) showed [2s As Qs 5s] and won ($6.65) with a pair of Sevens
+Seat 6: Hero (big blind) folded before the Flop
+
+
+
+Full Tilt Poker Game #29705443805: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:30:22 CET - 2011/04/07 [14:30:22 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($47.40)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($100)
+Seat 4: KiIIuminati ($108.60)
+Seat 5: allie3911 ($158.25)
+Seat 6: Hero ($108.60)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [3s 9c 5s Jh 7c]
+Kilij folds
+KiIIuminati has 15 seconds left to act
+KiIIuminati raises to $5
+allie3911 calls $5
+Hero calls $3.75
+1Incubator1 calls $2.50
+*** FIRST DRAW *** (Pot: $20)
+Hero discards 2 cards [9c Jh]
+1Incubator1 discards 3 cards
+KiIIuminati discards 1 card
+allie3911 discards 2 cards
+Dealt to Hero [3s 5s 7c] [6d 2h]
+1Incubator1 is dealt 3 cards
+KiIIuminati is dealt 1 card
+allie3911 is dealt 2 cards
+Hero bets $2.50
+1Incubator1 has 15 seconds left to act
+1Incubator1 has been disconnected
+1Incubator1 calls $2.50
+1Incubator1 has reconnected
+KiIIuminati calls $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $30)
+Hero stands pat on [3s 5s 7c 6d 2h]
+1Incubator1 has 15 seconds left to act
+1Incubator1 discards 1 card
+Hero has been disconnected
+KiIIuminati discards 1 card
+allie3911 discards 1 card
+Hero has reconnected
+1Incubator1 is dealt 1 card
+KiIIuminati is dealt 1 card
+allie3911 is dealt 1 card
+Hero bets $5
+1Incubator1 has been disconnected
+1Incubator1 folds
+1Incubator1 has reconnected
+KiIIuminati calls $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $45)
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+Hero stands pat on [3s 5s 7c 6d 2h]
+KiIIuminati discards 1 card
+allie3911 discards 1 card
+KiIIuminati is dealt 1 card
+allie3911 is dealt 1 card
+Hero bets $5
+KiIIuminati has 15 seconds left to act
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+KiIIuminati calls $5
+allie3911 folds
+*** SHOW DOWN ***
+Hero shows [7c 6d 5s 3s 2h] 7,6,5,3,2
+KiIIuminati mucks
+Hero wins the pot ($53) with 7,6,5,3,2
+*** SUMMARY ***
+Total pot $55 | Rake $2
+Seat 1: 1Incubator1 (big blind) folded after the 2nd Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij folded before the Draw (didn't bet)
+Seat 4: KiIIuminati mucked [9h 8c 6h 3c 2s] - 9,8,6,3,2
+Seat 5: allie3911 (button) folded after the 3rd Draw
+Seat 6: Hero (small blind) showed [7c 6d 5s 3s 2h] and won ($53) with 7,6,5,3,2
+
+
+
+Full Tilt Poker Game #29705493576: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:32:28 CET - 2011/04/07 [14:32:28 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($39.90)
+Seat 2: grimyreaper1 ($173), is sitting out
+Seat 3: Kilij ($100)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($145.75)
+Seat 6: Hero ($144.10)
+1Incubator1 posts the small blind of $1.25
+Kilij posts the big blind of $2.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Td Qc 5c 8h Tc]
+KiIIuminati folds
+allie3911 calls $2.50
+Hero folds
+1Incubator1 has 15 seconds left to act
+1Incubator1 has been disconnected
+1Incubator1 has reconnected
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $1.25
+Kilij checks
+*** FIRST DRAW *** (Pot: $7.50)
+1Incubator1 discards 3 cards
+Kilij discards 2 cards
+allie3911 discards 3 cards
+1Incubator1 is dealt 3 cards
+Kilij is dealt 2 cards
+allie3911 is dealt 3 cards
+1Incubator1 checks
+grimyreaper1 has returned
+Kilij bets $2.50
+allie3911 folds
+1Incubator1 folds
+Uncalled bet of $2.50 returned to Kilij
+Kilij mucks
+Kilij wins the pot ($7.50)
+*** SUMMARY ***
+Total pot $7.50 | Rake $0
+Seat 1: 1Incubator1 (small blind) folded after the 1st Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij (big blind) collected ($7.50), mucked
+Seat 4: KiIIuminati folded before the Draw (didn't bet)
+Seat 5: allie3911 folded after the 1st Draw
+Seat 6: Hero (button) folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29705510230: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:33:09 CET - 2011/04/07 [14:33:09 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($37.40)
+Seat 2: grimyreaper1 ($173)
+Seat 3: Kilij ($105)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($143.25)
+Seat 6: Hero ($144.10)
+Kilij posts the small blind of $1.25
+KiIIuminati posts the big blind of $2.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [Jh 5h 8h Ad 9c]
+allie3911 calls $2.50
+Hero folds
+1Incubator1 raises to $5
+Kilij folds
+KiIIuminati folds
+KiIIuminati adds $2.50
+allie3911 calls $2.50
+*** FIRST DRAW *** (Pot: $13.75)
+allie3911 discards 2 cards
+Hero: anyway to find out what next game is?
+1Incubator1 discards 2 cards
+allie3911 is dealt 2 cards
+1Incubator1 is dealt 2 cards
+allie3911 checks
+1Incubator1 bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $18.75)
+allie3911 discards 1 card
+1Incubator1 discards 1 card
+allie3911 is dealt 1 card
+1Incubator1 is dealt 1 card
+allie3911 checks
+1Incubator1 bets $5
+allie3911 raises to $10
+1Incubator1 has 15 seconds left to act
+1Incubator1 calls $5
+*** THIRD DRAW *** (Pot: $38.75)
+allie3911 stands pat
+1Incubator1 stands pat
+allie3911 bets $5
+1Incubator1 calls $5
+*** SHOW DOWN ***
+allie3911 shows [8d 7s 5s 4s 2h] 8,7,5,4,2
+1Incubator1 shows [8s 7c 5c 3h 2s] 8,7,5,3,2
+1Incubator1 wins the pot ($46.75) with 8,7,5,3,2
+*** SUMMARY ***
+Total pot $48.75 | Rake $2
+Seat 1: 1Incubator1 (button) showed [8s 7c 5c 3h 2s] and won ($46.75) with 8,7,5,3,2
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij (small blind) folded before the Draw
+Seat 4: KiIIuminati (big blind) folded before the Draw
+Seat 5: allie3911 showed [8d 7s 5s 4s 2h] and lost with 8,7,5,4,2
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29705537870: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:34:14 CET - 2011/04/07 [14:34:14 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($61.65)
+Seat 2: grimyreaper1 ($173)
+Seat 3: Kilij ($103.75)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($120.75)
+Seat 6: Hero ($144.10)
+KiIIuminati posts the small blind of $1.25
+allie3911 posts the big blind of $2.50
+grimyreaper1 posts a dead small blind of $1.25
+grimyreaper1 posts $2.50
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to Hero [Qd 2c 8c 3s 9h]
+Hero folds
+1Incubator1 raises to $5
+grimyreaper1 calls $2.50
+Kilij folds
+allie3911: ouch
+KiIIuminati raises to $7.50
+allie3911 calls $5
+1Incubator1 calls $2.50
+grimyreaper1 calls $2.50
+*** FIRST DRAW *** (Pot: $31.25)
+KiIIuminati discards 1 card
+allie3911 discards 2 cards
+1Incubator1 discards 1 card
+grimyreaper1 discards 2 cards
+KiIIuminati is dealt 1 card
+allie3911 is dealt 2 cards
+1Incubator1 is dealt 1 card
+grimyreaper1 is dealt 2 cards
+KiIIuminati bets $2.50
+allie3911 calls $2.50
+1Incubator1 calls $2.50
+grimyreaper1 raises to $5
+KiIIuminati calls $2.50
+allie3911 calls $2.50
+1Incubator1 calls $2.50
+*** SECOND DRAW *** (Pot: $51.25)
+KiIIuminati discards 1 card
+allie3911 discards 2 cards
+1Incubator1 discards 1 card
+grimyreaper1 stands pat
+KiIIuminati is dealt 1 card
+allie3911 is dealt 2 cards
+1Incubator1 is dealt 1 card
+KiIIuminati checks
+allie3911 checks
+1Incubator1 checks
+grimyreaper1 bets $5
+KiIIuminati calls $5
+allie3911 folds
+1Incubator1 calls $5
+*** THIRD DRAW *** (Pot: $66.25)
+KiIIuminati discards 1 card
+1Incubator1 discards 1 card
+allie3911 is feeling angry
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 stands pat
+KiIIuminati is dealt 1 card
+1Incubator1 is dealt 1 card
+KiIIuminati checks
+1Incubator1 checks
+grimyreaper1 bets $5
+KiIIuminati folds
+KiIIuminati adds $17.50
+1Incubator1 calls $5
+*** SHOW DOWN ***
+grimyreaper1 shows [8d 7c 6c 4c 2d] 8,7,6,4,2
+1Incubator1 shows [8h 6d 5s 3d 2s] 8,6,5,3,2
+1Incubator1 wins the pot ($73.25) with 8,6,5,3,2
+*** SUMMARY ***
+Total pot $76.25 | Rake $3
+Seat 1: 1Incubator1 showed [8h 6d 5s 3d 2s] and won ($73.25) with 8,6,5,3,2
+Seat 2: grimyreaper1 showed [8d 7c 6c 4c 2d] and lost with 8,7,6,4,2
+Seat 3: Kilij (button) folded before the Draw (didn't bet)
+Seat 4: KiIIuminati (small blind) folded after the 3rd Draw
+Seat 5: allie3911 (big blind) folded after the 2nd Draw
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29705584043: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:36:02 CET - 2011/04/07 [14:36:02 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($112.40)
+Seat 2: grimyreaper1 ($149.25)
+Seat 3: Kilij ($103.75)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($108.25)
+Seat 6: Hero ($144.10)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [5h Jd 3c Ks 8c]
+1Incubator1 raises to $5
+grimyreaper1 folds
+grimyreaper1 is sitting out
+Kilij folds
+KiIIuminati folds
+allie3911 folds
+Hero calls $2.50
+*** FIRST DRAW *** (Pot: $11.25)
+Hero discards 2 cards [Jd Ks]
+1Incubator1 stands pat
+Dealt to Hero [5h 3c 8c] [4c 8h]
+Hero checks
+1Incubator1 bets $2.50
+Hero folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($11.25)
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Seat 1: 1Incubator1 collected ($11.25), mucked
+Seat 2: grimyreaper1 folded before the Draw (didn't bet)
+Seat 3: Kilij folded before the Draw (didn't bet)
+Seat 4: KiIIuminati (button) folded before the Draw (didn't bet)
+Seat 5: allie3911 (small blind) folded before the Draw
+Seat 6: Hero (big blind) folded after the 1st Draw
+
+
+
+Full Tilt Poker Game #29705598125: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:36:34 CET - 2011/04/07 [14:36:34 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($118.65)
+Seat 2: grimyreaper1 ($149.25), is sitting out
+Seat 3: Kilij ($103.75)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($107)
+Seat 6: Hero ($139.10)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [Kh 6d As 3h Td]
+Kilij folds
+KiIIuminati folds
+allie3911 calls $2.50
+Hero folds
+1Incubator1 checks
+*** FIRST DRAW *** (Pot: $6.25)
+1Incubator1 discards 3 cards
+allie3911 discards 2 cards
+1Incubator1 is dealt 3 cards
+allie3911 is dealt 2 cards
+1Incubator1 checks
+allie3911 bets $2.50
+1Incubator1 calls $2.50
+*** SECOND DRAW *** (Pot: $11.25)
+1Incubator1 discards 1 card
+allie3911 discards 1 card
+1Incubator1 is dealt 1 card
+allie3911 is dealt 1 card
+1Incubator1 checks
+allie3911 bets $5
+1Incubator1 folds
+Uncalled bet of $5 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($11.25)
+*** SUMMARY ***
+Total pot $11.25 | Rake $0
+Seat 1: 1Incubator1 (big blind) folded after the 2nd Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij folded before the Draw (didn't bet)
+Seat 4: KiIIuminati folded before the Draw (didn't bet)
+Seat 5: allie3911 (button) collected ($11.25), mucked
+Seat 6: Hero (small blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29705616928: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:37:17 CET - 2011/04/07 [14:37:17 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($113.65)
+Seat 2: grimyreaper1 ($149.25), is sitting out
+Seat 3: Kilij ($103.75)
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($113.25)
+Seat 6: Hero ($137.85)
+1Incubator1 posts the small blind of $1.25
+Kilij is sitting out
+KiIIuminati posts the big blind of $2.50
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Kh Jd Ac 7s Th]
+allie3911 calls $2.50
+Hero folds
+1Incubator1 folds
+KiIIuminati raises to $5
+allie3911 calls $2.50
+*** FIRST DRAW *** (Pot: $11.25)
+KiIIuminati discards 1 card
+allie3911 discards 2 cards
+KiIIuminati is dealt 1 card
+allie3911 is dealt 2 cards
+KiIIuminati bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $16.25)
+KiIIuminati stands pat
+allie3911 discards 1 card
+allie3911 is dealt 1 card
+KiIIuminati bets $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $26.25)
+KiIIuminati stands pat
+allie3911 discards 1 card
+allie3911 is dealt 1 card
+KiIIuminati bets $5
+allie3911 calls $5
+*** SHOW DOWN ***
+KiIIuminati shows [8h 7d 4d 3s 2h] 8,7,4,3,2
+allie3911 shows [8s 6d 5h 4c 3d] 8,6,5,4,3
+allie3911 wins the pot ($35.25) with 8,6,5,4,3
+*** SUMMARY ***
+Total pot $36.25 | Rake $1
+Seat 1: 1Incubator1 (small blind) folded before the Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati (big blind) showed [8h 7d 4d 3s 2h] and lost with 8,7,4,3,2
+Seat 5: allie3911 showed [8s 6d 5h 4c 3d] and won ($35.25) with 8,6,5,4,3
+Seat 6: Hero (button) folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29705637212: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:38:03 CET - 2011/04/07 [14:38:03 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($112.40)
+Seat 2: grimyreaper1 ($149.25), is sitting out
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($131)
+Seat 6: Hero ($137.85)
+KiIIuminati posts the small blind of $1.25
+allie3911 posts the big blind of $2.50
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [8c Kh Tc Ks 7s]
+Hero folds
+1Incubator1 raises to $5
+KiIIuminati folds
+KiIIuminati adds $1.25
+allie3911 folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($6.25)
+*** SUMMARY ***
+Total pot $6.25 | Rake $0
+Seat 1: 1Incubator1 (button) collected ($6.25), mucked
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati (small blind) folded before the Draw
+Seat 5: allie3911 (big blind) folded before the Draw
+Seat 6: Hero folded before the Draw (didn't bet)
+
+
+
+Full Tilt Poker Game #29705643951: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:38:18 CET - 2011/04/07 [14:38:18 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($116.15)
+Seat 2: grimyreaper1 ($149.25), is sitting out
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($128.50)
+Seat 6: Hero ($137.85)
+allie3911 posts the small blind of $1.25
+Hero posts the big blind of $2.50
+The button is in seat #4
+*** HOLE CARDS ***
+Dealt to Hero [As Ad 5s Jc 6s]
+1Incubator1 folds
+KiIIuminati raises to $5
+allie3911 calls $3.75
+Hero folds
+*** FIRST DRAW *** (Pot: $12.50)
+allie3911 discards 2 cards
+KiIIuminati discards 2 cards
+allie3911 is dealt 2 cards
+KiIIuminati is dealt 2 cards
+allie3911 checks
+KiIIuminati bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $17.50)
+allie3911 discards 1 card
+KiIIuminati discards 1 card
+allie3911 is dealt 1 card
+KiIIuminati is dealt 1 card
+allie3911 bets $5
+KiIIuminati calls $5
+*** THIRD DRAW *** (Pot: $27.50)
+allie3911 stands pat
+KiIIuminati discards 1 card
+KiIIuminati is dealt 1 card
+allie3911 bets $5
+KiIIuminati has 15 seconds left to act
+KiIIuminati folds
+KiIIuminati adds $12.50
+Uncalled bet of $5 returned to allie3911
+allie3911 mucks
+allie3911 wins the pot ($26.50)
+*** SUMMARY ***
+Total pot $27.50 | Rake $1
+Seat 1: 1Incubator1 folded before the Draw (didn't bet)
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati (button) folded after the 3rd Draw
+Seat 5: allie3911 (small blind) collected ($26.50), mucked
+Seat 6: Hero (big blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29705667814: Table Jackrabbit (6 max) - $2.50/$5 - Limit 2-7 Triple Draw - 20:39:11 CET - 2011/04/07 [14:39:11 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($116.15)
+Seat 2: grimyreaper1 ($149.25), is sitting out
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($100)
+Seat 5: allie3911 ($142.50)
+Seat 6: Hero ($135.35)
+Hero posts the small blind of $1.25
+1Incubator1 posts the big blind of $2.50
+allie3911 is feeling happy
+The button is in seat #5
+*** HOLE CARDS ***
+Dealt to Hero [5d Ah 2c 8h Jc]
+grimyreaper1 has returned
+KiIIuminati raises to $5
+allie3911 calls $5
+Hero folds
+1Incubator1 folds
+*** FIRST DRAW *** (Pot: $13.75)
+KiIIuminati discards 2 cards
+allie3911 discards 2 cards
+KiIIuminati is dealt 2 cards
+allie3911 is dealt 2 cards
+KiIIuminati bets $2.50
+allie3911 calls $2.50
+*** SECOND DRAW *** (Pot: $18.75)
+KiIIuminati discards 1 card
+allie3911 discards 2 cards
+KiIIuminati is dealt 1 card
+allie3911 is dealt 2 cards
+KiIIuminati bets $5
+allie3911 calls $5
+*** THIRD DRAW *** (Pot: $28.75)
+KiIIuminati stands pat
+allie3911 stands pat
+KiIIuminati checks
+allie3911 checks
+*** SHOW DOWN ***
+KiIIuminati shows [9h 7s 4d 3d 2s] 9,7,4,3,2
+allie3911 mucks
+KiIIuminati wins the pot ($27.75) with 9,7,4,3,2
+*** SUMMARY ***
+Total pot $28.75 | Rake $1
+Seat 1: 1Incubator1 (big blind) folded before the Draw
+Seat 2: grimyreaper1 is sitting out
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati showed [9h 7s 4d 3d 2s] and won ($27.75) with 9,7,4,3,2
+Seat 5: allie3911 (button) mucked [6h 6c 8c 4h 3c] - a pair of Sixes
+Seat 6: Hero (small blind) folded before the Draw
+
+
+
+Full Tilt Poker Game #29705691274: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:40:04 CET - 2011/04/07 [14:40:04 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($113.65)
+Seat 2: grimyreaper1 ($149.25)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($115.25)
+Seat 5: allie3911 ($130)
+Seat 6: Hero ($134.10)
+1Incubator1 antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [3c Jd] [Kh]
+Dealt to 1Incubator1 [2c]
+Dealt to grimyreaper1 [2d]
+Dealt to KiIIuminati [Tc]
+Dealt to allie3911 [Kc]
+Hero is high with [Kh]
+Hero brings in for $0.75
+1Incubator1 folds
+grimyreaper1 completes it to $2.50
+KiIIuminati folds
+allie3911 folds
+Hero folds
+Uncalled bet of $1.75 returned to grimyreaper1
+allie3911: miss read
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 collected ($3.50), mucked
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705698182: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:40:19 CET - 2011/04/07 [14:40:19 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($113.25)
+Seat 2: grimyreaper1 ($151.60)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($114.85)
+Seat 5: allie3911 ($129.60)
+Seat 6: Hero ($132.95)
+Hero antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [2c 3s] [5s]
+Dealt to 1Incubator1 [2d]
+Dealt to grimyreaper1 [9d]
+Dealt to KiIIuminati [7h]
+Dealt to allie3911 [8s]
+grimyreaper1 is high with [9d]
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 brings in for $0.75
+KiIIuminati folds
+allie3911 folds
+Hero completes it to $2.50
+1Incubator1 raises to $5
+grimyreaper1 folds
+Hero raises to $7.50
+1Incubator1 calls $2.50
+*** 4TH STREET ***
+Dealt to Hero [2c 3s 5s] [Qh]
+Dealt to 1Incubator1 [2d] [4s]
+1Incubator1 bets $2.50
+Hero calls $2.50
+*** 5TH STREET ***
+Dealt to Hero [2c 3s 5s Qh] [Th]
+Dealt to 1Incubator1 [2d 4s] [Ah]
+1Incubator1 bets $5
+Hero folds
+Uncalled bet of $5 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($21.75)
+*** SUMMARY ***
+Total pot $22.75 | Rake $1
+Seat 1: 1Incubator1 collected ($21.75), mucked
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 5th St.
+
+
+
+Full Tilt Poker Game #29705718811: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:41:05 CET - 2011/04/07 [14:41:05 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($124.60)
+Seat 2: grimyreaper1 ($150.45)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($114.45)
+Seat 5: allie3911 ($129.20)
+Seat 6: Hero ($122.55)
+grimyreaper1 antes $0.40
+Hero antes $0.40
+allie3911 antes $0.40
+1Incubator1 antes $0.40
+KiIIuminati antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [7d 4c] [Qc]
+Dealt to 1Incubator1 [5d]
+Dealt to grimyreaper1 [Ah]
+Dealt to KiIIuminati [Jc]
+Dealt to allie3911 [Kd]
+allie3911 is high with [Kd]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 folds
+grimyreaper1 completes it to $2.50
+KiIIuminati folds
+allie3911 folds
+Uncalled bet of $1.75 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 collected ($3.50), mucked
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705726470: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:41:23 CET - 2011/04/07 [14:41:23 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($124.20)
+Seat 2: grimyreaper1 ($152.80)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($114.05)
+Seat 5: allie3911 ($128.05)
+Seat 6: Hero ($122.15)
+KiIIuminati antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+Hero antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Qh As] [9d]
+Dealt to 1Incubator1 [Kc]
+Dealt to grimyreaper1 [8s]
+Dealt to KiIIuminati [Ad]
+Dealt to allie3911 [9c]
+1Incubator1 is high with [Kc]
+1Incubator1 brings in for $0.75
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 completes it to $2.50
+KiIIuminati raises to $5
+allie3911 folds
+Hero folds
+1Incubator1 folds
+grimyreaper1 calls $2.50
+*** 4TH STREET ***
+Dealt to grimyreaper1 [8s] [8d]
+Dealt to KiIIuminati [Ad] [5d]
+KiIIuminati bets $2.50
+grimyreaper1 folds
+Uncalled bet of $2.50 returned to KiIIuminati
+KiIIuminati mucks
+KiIIuminati wins the pot ($12.75)
+*** SUMMARY ***
+Total pot $12.75 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 4th St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati collected ($12.75), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705740757: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:41:54 CET - 2011/04/07 [14:41:54 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($123.05)
+Seat 2: grimyreaper1 ($147.40)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($121.40)
+Seat 5: allie3911 ($127.65)
+Seat 6: Hero ($121.75)
+Hero antes $0.40
+1Incubator1 antes $0.40
+KiIIuminati antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [6c Qc] [5s]
+Dealt to 1Incubator1 [3d]
+Dealt to grimyreaper1 [Jc]
+Dealt to KiIIuminati [9h]
+Dealt to allie3911 [Jd]
+allie3911 is high with [Jd]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 completes it to $2.50
+grimyreaper1 folds
+KiIIuminati folds
+allie3911 folds
+Uncalled bet of $1.75 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: 1Incubator1 collected ($3.50), mucked
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705747594: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:42:10 CET - 2011/04/07 [14:42:10 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($125.40)
+Seat 2: grimyreaper1 ($147)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($121)
+Seat 5: allie3911 ($126.50)
+Seat 6: Hero ($121.35)
+1Incubator1 antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+KiIIuminati antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Qs 3h] [5c]
+Dealt to 1Incubator1 [7d]
+Dealt to grimyreaper1 [Qc]
+Dealt to KiIIuminati [9c]
+Dealt to allie3911 [5h]
+grimyreaper1 is high with [Qc]
+grimyreaper1 brings in for $0.75
+KiIIuminati folds
+allie3911 folds
+Hero completes it to $2.50
+1Incubator1 raises to $5
+grimyreaper1 folds
+Hero calls $2.50
+*** 4TH STREET ***
+Dealt to Hero [Qs 3h 5c] [Ks]
+Dealt to 1Incubator1 [7d] [3s]
+1Incubator1 bets $2.50
+Hero folds
+Uncalled bet of $2.50 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($12.75)
+*** SUMMARY ***
+Total pot $12.75 | Rake $0
+Seat 1: 1Incubator1 collected ($12.75), mucked
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 4th St.
+
+
+
+Full Tilt Poker Game #29705760763: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:42:39 CET - 2011/04/07 [14:42:39 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($132.75)
+Seat 2: grimyreaper1 ($145.85)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($120.60)
+Seat 5: allie3911 ($126.10)
+Seat 6: Hero ($115.95)
+Hero antes $0.40
+KiIIuminati antes $0.40
+1Incubator1 antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [2d 2c] [Qh]
+Dealt to 1Incubator1 [5d]
+Dealt to grimyreaper1 [6h]
+Dealt to KiIIuminati [5h]
+Dealt to allie3911 [4h]
+Hero is high with [Qh]
+Hero brings in for $0.75
+1Incubator1 completes it to $2.50
+grimyreaper1 folds
+KiIIuminati folds
+allie3911 folds
+Hero folds
+Uncalled bet of $1.75 returned to 1Incubator1
+1Incubator1 mucks
+1Incubator1 wins the pot ($3.50)
+*** SUMMARY ***
+Total pot $3.50 | Rake $0
+Seat 1: 1Incubator1 collected ($3.50), mucked
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati folded on 3rd St.
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705768910: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:42:57 CET - 2011/04/07 [14:42:57 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($135.10)
+Seat 2: grimyreaper1 ($145.45)
+Seat 3: Kilij ($103.75), is sitting out
+Seat 4: KiIIuminati ($120.20)
+Seat 5: allie3911 ($125.70)
+Seat 6: Hero ($114.80)
+1Incubator1 antes $0.40
+Hero antes $0.40
+grimyreaper1 antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+Kilij has returned
+*** 3RD STREET ***
+Dealt to Hero [9h 5h] [9d]
+Dealt to 1Incubator1 [Ts]
+Dealt to grimyreaper1 [Qh]
+Dealt to KiIIuminati [3c]
+Dealt to allie3911 [Ks]
+allie3911 is high with [Ks]
+allie3911 brings in for $0.75
+Hero has 15 seconds left to act
+Hero folds
+1Incubator1 calls $0.75
+grimyreaper1 folds
+KiIIuminati completes it to $2.50
+allie3911 folds
+1Incubator1 calls $1.75
+*** 4TH STREET ***
+Dealt to 1Incubator1 [Ts] [Js]
+Dealt to KiIIuminati [3c] [6c]
+KiIIuminati bets $2.50
+1Incubator1 folds
+Uncalled bet of $2.50 returned to KiIIuminati
+KiIIuminati mucks
+KiIIuminati wins the pot ($7.75)
+*** SUMMARY ***
+Total pot $7.75 | Rake $0
+Seat 1: 1Incubator1 folded on 4th St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij is sitting out
+Seat 4: KiIIuminati collected ($7.75), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705785966: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:43:35 CET - 2011/04/07 [14:43:35 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($132.20)
+Seat 2: grimyreaper1 ($145.05)
+Seat 3: Kilij ($103.75)
+Seat 4: KiIIuminati ($125.05)
+Seat 5: allie3911 ($124.55)
+Seat 6: Hero ($114.40)
+Hero antes $0.40
+1Incubator1 antes $0.40
+Kilij antes $0.40
+grimyreaper1 antes $0.40
+KiIIuminati antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [Tc 4d] [4c]
+Dealt to 1Incubator1 [3h]
+Dealt to grimyreaper1 [6s]
+Dealt to Kilij [5h]
+Dealt to KiIIuminati [6h]
+Dealt to allie3911 [Jc]
+allie3911 is high with [Jc]
+allie3911 brings in for $0.75
+Hero folds
+1Incubator1 folds
+grimyreaper1 folds
+Kilij folds
+KiIIuminati completes it to $2.50
+allie3911 folds
+Uncalled bet of $1.75 returned to KiIIuminati
+KiIIuminati mucks
+KiIIuminati wins the pot ($3.90)
+*** SUMMARY ***
+Total pot $3.90 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij folded on 3rd St.
+Seat 4: KiIIuminati collected ($3.90), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705794645: Table Jackrabbit (6 max) - $2.50/$5 Ante $0.40 - Limit Razz - 20:43:55 CET - 2011/04/07 [14:43:55 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($131.80)
+Seat 2: grimyreaper1 ($144.65)
+Seat 3: Kilij ($103.35)
+Seat 4: KiIIuminati ($127.80)
+Seat 5: allie3911 ($123.40)
+Seat 6: Hero ($114)
+1Incubator1 antes $0.40
+Hero antes $0.40
+Kilij antes $0.40
+KiIIuminati antes $0.40
+grimyreaper1 antes $0.40
+allie3911 antes $0.40
+*** 3RD STREET ***
+Dealt to Hero [3s 9h] [Jh]
+Dealt to 1Incubator1 [Jc]
+Dealt to grimyreaper1 [9s]
+Dealt to Kilij [2s]
+Dealt to KiIIuminati [3h]
+Dealt to allie3911 [Qd]
+allie3911 is high with [Qd]
+allie3911 brings in for $0.75
+Hero folds
+allie3911 is feeling confused
+1Incubator1 folds
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 folds
+Kilij folds
+KiIIuminati completes it to $2.50
+allie3911 folds
+Uncalled bet of $1.75 returned to KiIIuminati
+KiIIuminati mucks
+KiIIuminati wins the pot ($3.90)
+*** SUMMARY ***
+Total pot $3.90 | Rake $0
+Seat 1: 1Incubator1 folded on 3rd St.
+Seat 2: grimyreaper1 folded on 3rd St.
+Seat 3: Kilij folded on 3rd St.
+Seat 4: KiIIuminati collected ($3.90), mucked
+Seat 5: allie3911 folded on 3rd St.
+Seat 6: Hero folded on 3rd St.
+
+
+
+Full Tilt Poker Game #29705807755: Table Jackrabbit (6 max) - $0.50/$1 - No Limit Hold'em - 20:44:24 CET - 2011/04/07 [14:44:24 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($131.40)
+Seat 2: grimyreaper1 ($144.25)
+Seat 3: Kilij ($102.95)
+Seat 4: KiIIuminati ($130.55)
+Seat 5: allie3911 ($122.25)
+Seat 6: Hero ($113.60)
+1Incubator1 posts the small blind of $0.50
+grimyreaper1 posts the big blind of $1
+5 seconds left to act
+Kilij posts a dead small blind of $0.50
+Kilij posts $1
+The button is in seat #6
+*** HOLE CARDS ***
+Dealt to Hero [Ts 4d]
+Kilij checks
+KiIIuminati folds
+allie3911 folds
+Hero folds
+1Incubator1 calls $0.50
+grimyreaper1 checks
+*** FLOP *** [Qd 7d 8h]
+1Incubator1 bets $1
+grimyreaper1 folds
+Kilij calls $1
+*** TURN *** [Qd 7d 8h] [9d]
+1Incubator1 bets $3
+Kilij calls $3
+*** RIVER *** [Qd 7d 8h 9d] [Td]
+1Incubator1 has 15 seconds left to act
+1Incubator1 checks
+Kilij bets $10
+1Incubator1 folds
+Uncalled bet of $10 returned to Kilij
+Kilij mucks
+Kilij wins the pot ($10.95)
+*** SUMMARY ***
+Total pot $11.50 | Rake $0.55
+Board: [Qd 7d 8h 9d Td]
+Seat 1: 1Incubator1 (small blind) folded on the River
+Seat 2: grimyreaper1 (big blind) folded on the Flop
+Seat 3: Kilij collected ($10.95), mucked
+Seat 4: KiIIuminati didn't bet (folded)
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero (button) didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705835331: Table Jackrabbit (6 max) - $0.50/$1 - No Limit Hold'em - 20:45:23 CET - 2011/04/07 [14:45:23 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($126.40)
+Seat 2: grimyreaper1 ($143.25)
+Seat 3: Kilij ($108.40)
+Seat 4: KiIIuminati ($130.55)
+Seat 5: allie3911 ($122.25)
+Seat 6: Hero ($113.60)
+grimyreaper1 posts the small blind of $0.50
+Kilij posts the big blind of $1
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [2s Jd]
+KiIIuminati folds
+allie3911 folds
+Hero folds
+1Incubator1 folds
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 raises to $3
+Kilij folds
+Uncalled bet of $2 returned to grimyreaper1
+grimyreaper1 mucks
+grimyreaper1 wins the pot ($2)
+*** SUMMARY ***
+Total pot $2 | Rake $0
+Seat 1: 1Incubator1 (button) didn't bet (folded)
+Seat 2: grimyreaper1 (small blind) collected ($2), mucked
+Seat 3: Kilij (big blind) folded before the Flop
+Seat 4: KiIIuminati didn't bet (folded)
+Seat 5: allie3911 didn't bet (folded)
+Seat 6: Hero didn't bet (folded)
+
+
+
+Full Tilt Poker Game #29705843983: Table Jackrabbit (6 max) - $0.50/$1 - No Limit Hold'em - 20:45:42 CET - 2011/04/07 [14:45:42 ET - 2011/04/07]
+Seat 1: 1Incubator1 ($126.40)
+Seat 2: grimyreaper1 ($144.25)
+Seat 3: Kilij ($107.40)
+Seat 4: KiIIuminati ($130.55)
+Seat 5: allie3911 ($122.25)
+Seat 6: Hero ($113.60)
+Kilij posts the small blind of $0.50
+KiIIuminati posts the big blind of $1
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [3d 2s]
+allie3911 raises to $3
+Hero folds
+1Incubator1 folds
+grimyreaper1 calls $3
+Kilij has 15 seconds left to act
+Kilij calls $2.50
+KiIIuminati folds
+*** FLOP *** [9d Ah 8h]
+Kilij checks
+allie3911 bets $4
+grimyreaper1 calls $4
+Kilij calls $4
+*** TURN *** [9d Ah 8h] [8c]
+Kilij checks
+allie3911 bets $3
+grimyreaper1 raises to $7
+Kilij folds
+allie3911 calls $4
+*** RIVER *** [9d Ah 8h 8c] [Jd]
+allie3911 checks
+grimyreaper1 has 15 seconds left to act
+grimyreaper1 checks
+*** SHOW DOWN ***
+grimyreaper1 shows [7c Ac] two pair, Aces and Eights
+allie3911 shows [Qd As] two pair, Aces and Eights
+allie3911 wins the pot ($34.20) with two pair, Aces and Eights
+*** SUMMARY ***
+Total pot $36 | Rake $1.80
+Board: [9d Ah 8h 8c Jd]
+Seat 1: 1Incubator1 didn't bet (folded)
+Seat 2: grimyreaper1 (button) showed [7c Ac] and lost with two pair, Aces and Eights
+Seat 3: Kilij (small blind) folded on the Turn
+Seat 4: KiIIuminati (big blind) folded before the Flop
+Seat 5: allie3911 showed [Qd As] and won ($34.20) with two pair, Aces and Eights
+Seat 6: Hero didn't bet (folded)
+
+
+
