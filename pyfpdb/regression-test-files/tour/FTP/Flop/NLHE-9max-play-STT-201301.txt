@@ -1,35 +1,35 @@
 Full Tilt Poker Game #31875464274: 250 Play Money Sit & Go (247472173), Table 1 - 120/240 - No Limit Hold'em - 18:53:27 ET - 2013/01/12
-Seat 4: Player0 snake bit (10,140)
+Seat 4: Player0 (10,140)
 Seat 8: Hero (3,360)
 Hero posts the small blind of 120
-Player0 snake bit posts the big blind of 240
+Player0 posts the big blind of 240
 The button is in seat #8
 *** HOLE CARDS ***
 Dealt to Hero [7d 9d]
 Hero calls 120
-Player0 snake bit checks
+Player0 checks
 *** FLOP *** [Kc 5s 7h] (Total Pot: 480, 2 Players)
-Player0 snake bit checks
+Player0 checks
 Hero bets 480
-Player0 snake bit calls 480
+Player0 calls 480
 *** TURN *** [Kc 5s 7h] [6h] (Total Pot: 1,440, 2 Players)
-Player0 snake bit checks
+Player0 checks
 Hero bets 720
-Player0 snake bit raises to 1,440
+Player0 raises to 1,440
 Hero has 15 seconds left to act
 Hero calls 720
 *** RIVER *** [Kc 5s 7h 6h] [Qh] (Total Pot: 4,320, 2 Players)
-Player0 snake bit has 15 seconds left to act
-Player0 snake bit bets 1,200
+Player0 has 15 seconds left to act
+Player0 bets 1,200
 Hero calls 1,200, and is all in
 *** SHOW DOWN ***
-Player0 snake bit shows [Kd Qs] two pair, Kings and Queens
+Player0 shows [Kd Qs] two pair, Kings and Queens
 Hero mucks
-Player0 snake bit wins the pot (6,720) with two pair, Kings and Queens
+Player0 wins the pot (6,720) with two pair, Kings and Queens
 *** SUMMARY ***
 Total pot 6,720 | Rake 0
 Board: [Kc 5s 7h 6h Qh]
-Seat 4: Player0 snake bit (big blind) showed [Kd Qs] and won (6,720) with two pair, Kings and Queens
+Seat 4: Player0 (big blind) showed [Kd Qs] and won (6,720) with two pair, Kings and Queens
 Seat 8: Hero (small blind) mucked [7d 9d] - a pair of Sevens
 
 
