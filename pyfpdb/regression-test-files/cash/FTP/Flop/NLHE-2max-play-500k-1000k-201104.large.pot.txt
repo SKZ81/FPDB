@@ -1,0 +1,43 @@
+Full Tilt Poker Game #29937911949: Table King of the Hill (heads up, deep) - 500K/1000K - No Limit Hold'em - 21:40:27 ET - 2011/04/15
+Seat 1: Hero (119,556,500)
+Seat 2: Player0 (199,000,000)
+Player0 posts the small blind of 500,000
+Hero posts the big blind of 1,000,000
+The button is in seat #2
+*** HOLE CARDS ***
+Dealt to Hero [8h 7h]
+Player0 raises to 3,000,000
+Hero calls 2,000,000
+*** FLOP *** [8d 6c 7d]
+Hero bets 5,000,000
+Player0 raises to 21,000,000
+Hero raises to 116,556,500, and is all in
+Player0 calls 95,556,500
+Players agree to Run It Twice
+Hero shows [8h 7h]
+Player0 shows [5d Td]
+*** TURN 1 *** [8d 6c 7d] [Jd]
+*** RIVER 1 *** [8d 6c 7d Jd] [9d]
+*** TURN 2 *** [8d 6c 7d] [9s]
+*** RIVER 2 *** [8d 6c 7d 9s] [3s]
+*** SHOW DOWN 1 ***
+Hero shows two pair, Eights and Sevens
+Player0 shows a straight flush, Jack high
+*** SHOW DOWN 2 ***
+Hero shows two pair, Eights and Sevens
+Player0 shows a straight, Ten high
+Player0 wins pot 1 (119,556,500) with a straight flush, Jack high
+Player0 wins pot 2 (119,556,500) with a straight, Ten high
+*** SUMMARY ***
+Total pot 239,113,000 | Rake 0
+*** SUMMARY 1 ***
+Pot 1 119,556,500
+Board: [8d 6c 7d Jd 9d]
+Seat 1: Hero (big blind) showed [8h 7h] and lost with two pair, Eights and Sevens
+Seat 2: Player0 (small blind) showed [5d Td] and won (119,556,500) with a straight flush, Jack high
+*** SUMMARY 2 ***
+Pot 2 119,556,500
+Board: [8d 6c 7d 9s 3s]
+Seat 1: Hero (big blind) showed [8h 7h] and lost with two pair, Eights and Sevens
+Seat 2: Player0 (small blind) showed [5d Td] and won (119,556,500) with a straight, Ten high
+
