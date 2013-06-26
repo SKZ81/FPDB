@@ -1,0 +1,39 @@
+Full Tilt Poker Game #32641750796: $750 Guarantee (253683109), Table 86 - NL Hold'em - 120/240 Ante 25 - 18:51:19 UTC - 2013/05/12 [14:51:19 ET - 2013/05/12]
+Seat 1: Hero (3,000)
+Seat 2: Player0 (3,719)
+Seat 3: Player1 (7,389)
+Seat 4: Player2 (16,825)
+Seat 5: Player3 (4,893)
+Seat 6: Player4 (19,433)
+Seat 7: Player5 (7,436)
+Hero antes 25
+Player0 antes 25
+Player1 antes 25
+Player2 antes 25
+Player3 antes 25
+Player4 antes 25
+Player5 antes 25
+Hero posts the small blind of 120
+Player0 posts the big blind of 240
+nespejau sits down
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Hero [8s 5h]
+Player1 folds
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 folds
+Hero folds
+Uncalled bet of 120 returned to Player0
+Player0 mucks
+Player0 wins the pot (415)
+*** SUMMARY ***
+Total pot 415 | Rake 0
+Seat 1: Hero (small blind) folded before the Flop
+Seat 2: Player0 (big blind) collected (415), mucked
+Seat 3: Player1 folded before the Flop
+Seat 4: Player2 folded before the Flop
+Seat 5: Player3 folded before the Flop
+Seat 6: Player4 folded before the Flop
+Seat 7: Player5 folded before the Flop
