@@ -1,0 +1,42 @@
+Full Tilt Poker Game #31825210660: MiniFTOPS Event #1 (243423165), Table 964 - 10/20 - No Limit Hold'em - 12:14:59 CT - 2013/01/06 [13:14:59 ET - 2013/01/06]
+Seat 1: Player8 (5,000)
+Seat 2: Player9 (5,000)
+Seat 3: Hero (5,000)
+Seat 4: Player10 (5,000)
+Seat 5: Player11 (5,000)
+Seat 6: Player12 (5,000)
+Seat 7: Player13 (5,000)
+Seat 8: Player14 (5,000)
+Seat 9: Player15 (5,000)
+Player8 posts the small blind of 10
+Player9 posts the big blind of 20
+The button is in seat #9
+*** HOLE CARDS ***
+Dealt to Hero [6h 2h]
+Hero has 15 seconds left to act
+Hero has timed out
+Hero folds
+Hero is sitting out
+Player10 folds
+Player11 has 15 seconds left to act
+Hero has returned
+Player11 folds
+Player12 folds
+Player13 folds
+Player14 folds
+Player15 folds
+Player8 folds
+Uncalled bet of 10 returned to Player9
+Player9 mucks
+Player9 wins the pot (20)
+*** SUMMARY ***
+Total pot 20 | Rake 0
+Seat 1: Player8 (small blind) folded before the Flop
+Seat 2: Player9 (big blind) collected (20), mucked
+Seat 3: Hero didn't bet (folded)
+Seat 4: Player10 didn't bet (folded)
+Seat 5: Player11 didn't bet (folded)
+Seat 6: Player12 didn't bet (folded)
+Seat 7: Player13 didn't bet (folded)
+Seat 8: Player14 didn't bet (folded)
+Seat 9: Player15 (button) didn't bet (folded)

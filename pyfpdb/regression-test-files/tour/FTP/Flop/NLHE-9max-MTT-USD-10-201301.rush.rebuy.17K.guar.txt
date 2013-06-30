@@ -1,0 +1,42 @@
+Full Tilt Poker Game #31966532079: $17,500 Rush Guar (Rebuy) (248089208), Table 21 - 10/20 - No Limit Hold'em - 11:31:21 CT - 2013/01/25 [12:31:21 ET - 2013/01/25]
+Seats: 9
+Seat 1: Hero (1,500)
+Seat 2: Player0 (1,480)
+Seat 3: Player1 (3,000)
+Seat 4: Player2 (3,000)
+Seat 5: Player3 (1,500)
+Seat 6: Player4 (1,500)
+Seat 7: Player5 (3,000)
+Seat 8: Player6 (3,000)
+Seat 9: Player7 (3,000)
+Player0 posts the small blind of 10
+Player1 posts the big blind of 20
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to Hero [7d 6c]
+Player2 has 8 seconds left to act
+Player2 has timed out
+Player2 folds
+Player3 folds
+Player4 folds
+Player5 has 8 seconds left to act
+Player5 raises to 60
+Player6 folds
+Player7 folds
+Hero folds
+Player0 folds
+Player1 folds
+Uncalled bet of 40 returned to Player5
+Player5 mucks
+Player5 wins the pot (50)
+*** SUMMARY ***
+Total pot 50 | Rake 0
+Seat 1: Hero (button) didn't bet (folded)
+Seat 2: Player0 (small blind) folded before the Flop
+Seat 3: Player1 (big blind) folded before the Flop
+Seat 4: Player2 didn't bet (folded)
+Seat 5: Player3 didn't bet (folded)
+Seat 6: Player4 didn't bet (folded)
+Seat 7: Player5 collected (50), mucked
+Seat 8: Player6 didn't bet (folded)
+Seat 9: Player7 didn't bet (folded)
