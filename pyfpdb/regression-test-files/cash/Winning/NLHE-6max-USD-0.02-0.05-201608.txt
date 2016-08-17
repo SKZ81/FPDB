@@ -1,0 +1,35 @@
+Game started at: 2016/8/2 10:50:44
+Game ID: 693967308 0.02/0.05 (PRR) Cyclops - 6 (Hold'em)
+Seat 2 is the button
+Seat 2: 3rp3rp (5.05).
+Seat 3: tylerdurden211 (5.59).
+Seat 4: ChazDazzle (2).
+Seat 5: Pashila (2.47).
+Seat 6: puccini (5.34).
+Player tylerdurden211 has small blind (0.02)
+Player ChazDazzle has big blind (0.05)
+Player tylerdurden211 received a card.
+Player tylerdurden211 received a card.
+Player ChazDazzle received card: [5d]
+Player ChazDazzle received card: [Ac]
+Player Pashila received a card.
+Player Pashila received a card.
+Player puccini received a card.
+Player puccini received a card.
+Player 3rp3rp received a card.
+Player 3rp3rp received a card.
+Player Pashila folds
+Player puccini folds
+Player 3rp3rp folds
+Player tylerdurden211 folds
+Uncalled bet (0.03) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 0.04. Rake 0
+Player 3rp3rp does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player tylerdurden211 does not show cards.Bets: 0.02. Collects: 0. Loses: 0.02.
+*Player ChazDazzle mucks (does not show cards). Bets: 0.02. Collects: 0.04. Wins: 0.02.
+Player Pashila does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player puccini does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/2 10:51:4
+

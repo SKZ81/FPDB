@@ -1,0 +1,235 @@
+Game started at: 2016/8/4 14:8:1
+Game ID: 695373365 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: lessthanrocko (500).
+Seat 2: ChazDazzle (500).
+Player lessthanrocko has small blind (10)
+Player ChazDazzle has big blind (20)
+Player ChazDazzle received card: [7h]
+Player ChazDazzle received card: [3c]
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player lessthanrocko calls (10)
+Player ChazDazzle checks
+*** FLOP ***: [7s 8c 6c]
+Player ChazDazzle checks
+Player lessthanrocko checks
+*** TURN ***: [7s 8c 6c] [6d]
+Player ChazDazzle checks
+Player lessthanrocko bets (40)
+Player ChazDazzle calls (40)
+*** RIVER ***: [7s 8c 6c 6d] [Jh]
+Player ChazDazzle checks
+Player lessthanrocko bets (60)
+Player ChazDazzle calls (60)
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 240
+Board: [7s 8c 6c 6d Jh]
+*Player lessthanrocko shows: Three Of Kind of 6s [As 6h]. Bets: 120. Collects: 240. Wins: 120.
+Player ChazDazzle mucks (does not show: [7h 3c]). Bets: 120. Collects: 0. Loses: 120.
+Game ended at: 2016/8/4 14:8:38
+
+Game started at: 2016/8/4 14:8:43
+Game ID: 695373745 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: lessthanrocko (620).
+Seat 2: ChazDazzle (380).
+Player ChazDazzle has small blind (10)
+Player lessthanrocko has big blind (20)
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player ChazDazzle received card: [9d]
+Player ChazDazzle received card: [6s]
+Player ChazDazzle folds
+Uncalled bet (10) returned to lessthanrocko
+Player lessthanrocko mucks cards
+------ Summary ------
+Pot: 20
+*Player lessthanrocko mucks (does not show cards). Bets: 10. Collects: 20. Wins: 10.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/4 14:8:47
+
+Game started at: 2016/8/4 14:8:49
+Game ID: 695373799 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: lessthanrocko (630).
+Seat 2: ChazDazzle (370).
+Player lessthanrocko has small blind (10)
+Player ChazDazzle has big blind (20)
+Player ChazDazzle received card: [4h]
+Player ChazDazzle received card: [Ah]
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player lessthanrocko folds
+Uncalled bet (10) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 20
+Player lessthanrocko does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player ChazDazzle mucks (does not show cards). Bets: 10. Collects: 20. Wins: 10.
+Game ended at: 2016/8/4 14:8:53
+
+Game started at: 2016/8/4 14:8:56
+Game ID: 695373851 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: lessthanrocko (620).
+Seat 2: ChazDazzle (380).
+Player ChazDazzle has small blind (10)
+Player lessthanrocko has big blind (20)
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player ChazDazzle received card: [4c]
+Player ChazDazzle received card: [Ah]
+Player ChazDazzle raises (30)
+Player lessthanrocko folds
+Uncalled bet (20) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 40
+Player lessthanrocko does not show cards.Bets: 20. Collects: 0. Loses: 20.
+*Player ChazDazzle mucks (does not show cards). Bets: 20. Collects: 40. Wins: 20.
+Game ended at: 2016/8/4 14:9:12
+
+Game started at: 2016/8/4 14:9:14
+Game ID: 695374033 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: lessthanrocko (600).
+Seat 2: ChazDazzle (400).
+Player lessthanrocko has small blind (10)
+Player ChazDazzle has big blind (20)
+Player ChazDazzle received card: [10d]
+Player ChazDazzle received card: [7c]
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player lessthanrocko folds
+Uncalled bet (10) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 20
+Player lessthanrocko does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player ChazDazzle mucks (does not show cards). Bets: 10. Collects: 20. Wins: 10.
+Game ended at: 2016/8/4 14:9:24
+
+Game started at: 2016/8/4 14:9:26
+Game ID: 695374137 10/20 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: lessthanrocko (590).
+Seat 2: ChazDazzle (410).
+Player ChazDazzle has small blind (10)
+Player lessthanrocko has big blind (20)
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player ChazDazzle received card: [8d]
+Player ChazDazzle received card: [Js]
+Player ChazDazzle calls (10)
+Player lessthanrocko checks
+*** FLOP ***: [7c 2h 2s]
+Player lessthanrocko checks
+Player ChazDazzle checks
+*** TURN ***: [7c 2h 2s] [3h]
+Player lessthanrocko checks
+Player ChazDazzle checks
+*** RIVER ***: [7c 2h 2s 3h] [Kd]
+Player lessthanrocko bets (40)
+Player ChazDazzle folds
+Uncalled bet (40) returned to lessthanrocko
+Player lessthanrocko mucks cards
+------ Summary ------
+Pot: 40
+Board: [7c 2h 2s 3h Kd]
+*Player lessthanrocko mucks (does not show cards). Bets: 20. Collects: 40. Wins: 20.
+Player ChazDazzle does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Game ended at: 2016/8/4 14:10:17
+
+Game started at: 2016/8/4 14:10:20
+Game ID: 695374643 15/30 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: lessthanrocko (610).
+Seat 2: ChazDazzle (390).
+Player lessthanrocko has small blind (15)
+Player ChazDazzle has big blind (30)
+Player ChazDazzle received card: [Jh]
+Player ChazDazzle received card: [Kc]
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player lessthanrocko calls (15)
+Player ChazDazzle raises (30)
+Player lessthanrocko folds
+Uncalled bet (30) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 60
+Player lessthanrocko does not show cards.Bets: 30. Collects: 0. Loses: 30.
+*Player ChazDazzle mucks (does not show cards). Bets: 30. Collects: 60. Wins: 30.
+Game ended at: 2016/8/4 14:10:29
+
+Game started at: 2016/8/4 14:10:32
+Game ID: 695374741 15/30 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: lessthanrocko (580).
+Seat 2: ChazDazzle (420).
+Player ChazDazzle has small blind (15)
+Player lessthanrocko has big blind (30)
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player ChazDazzle received card: [7s]
+Player ChazDazzle received card: [5s]
+Player ChazDazzle calls (15)
+Player lessthanrocko allin (550)
+Player ChazDazzle allin (390)
+Uncalled bet (160) returned to lessthanrocko
+*** FLOP ***: [6d 5h 5c]
+*** TURN ***: [6d 5h 5c] [8c]
+*** RIVER ***: [6d 5h 5c 8c] [8h]
+------ Summary ------
+Pot: 840
+Board: [6d 5h 5c 8c 8h]
+Player lessthanrocko shows: Two pairs. 8s and 5s [3s 3h]. Bets: 420. Collects: 0. Loses: 420.
+*Player ChazDazzle shows: Full House (5/8) [7s 5s]. Bets: 420. Collects: 840. Wins: 420.
+Game ended at: 2016/8/4 14:11:7
+
+Game started at: 2016/8/4 14:11:12
+Game ID: 695375120 15/30 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: lessthanrocko (160).
+Seat 2: ChazDazzle (840).
+Player lessthanrocko has small blind (15)
+Player ChazDazzle has big blind (30)
+Player ChazDazzle received card: [5s]
+Player ChazDazzle received card: [6s]
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player lessthanrocko folds
+Uncalled bet (15) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 30
+Player lessthanrocko does not show cards.Bets: 15. Collects: 0. Loses: 15.
+*Player ChazDazzle mucks (does not show cards). Bets: 15. Collects: 30. Wins: 15.
+Game ended at: 2016/8/4 14:11:22
+
+Game started at: 2016/8/4 14:11:25
+Game ID: 695375235 15/30 $2.40 Hyper Turbo Heads-up, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: lessthanrocko (145).
+Seat 2: ChazDazzle (855).
+Player ChazDazzle has small blind (15)
+Player lessthanrocko has big blind (30)
+Player lessthanrocko received a card.
+Player lessthanrocko received a card.
+Player ChazDazzle received card: [Ks]
+Player ChazDazzle received card: [Kh]
+Player ChazDazzle calls (15)
+Player lessthanrocko allin (115)
+Player ChazDazzle calls (115)
+*** FLOP ***: [3d Jc 4c]
+*** TURN ***: [3d Jc 4c] [Ac]
+*** RIVER ***: [3d Jc 4c Ac] [2d]
+------ Summary ------
+Pot: 290
+Board: [3d Jc 4c Ac 2d]
+Player lessthanrocko shows: High card A [6s 10s]. Bets: 145. Collects: 0. Loses: 145.
+*Player ChazDazzle shows: One pair of Ks [Ks Kh]. Bets: 145. Collects: 290. Wins: 145.
+Game ended at: 2016/8/4 14:11:46
+

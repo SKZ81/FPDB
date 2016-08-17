@@ -1,0 +1,739 @@
+Game started at: 2016/8/8 15:57:55
+Game ID: 698319898 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 5 is the button
+Seat 1: cleareyesandsoda (430.49).
+Seat 2: ROYEBOY (990).
+Seat 4: AlwaysAdonkE (36.73).
+Seat 5: doyle129 (211).
+Seat 6: NUPDUDE (529.91).
+Seat 7: ChazDazzle (200).
+Seat 8: Samshark (470.75).
+Player NUPDUDE has small blind (5)
+Player ChazDazzle has big blind (10)
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [5c]
+Player ChazDazzle received card: [Kd]
+Player Samshark received a card.
+Player Samshark received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player ROYEBOY received a card.
+Player ROYEBOY received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player doyle129 received a card.
+Player doyle129 received a card.
+Player Samshark folds
+Player cleareyesandsoda folds
+Player ROYEBOY folds
+Player AlwaysAdonkE calls (10)
+Player doyle129 folds
+Player NUPDUDE calls (5)
+Player ChazDazzle checks
+*** FLOP ***: [10s 3h Qh]
+Player NUPDUDE bets (10)
+Player ChazDazzle folds
+Player AlwaysAdonkE calls (10)
+*** TURN ***: [10s 3h Qh] [5h]
+Player NUPDUDE bets (10)
+Player AlwaysAdonkE folds
+Uncalled bet (10) returned to NUPDUDE
+Player NUPDUDE mucks cards
+------ Summary ------
+Pot: 47.50. Rake 2.50
+Board: [10s 3h Qh 5h]
+Player cleareyesandsoda does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ROYEBOY does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player AlwaysAdonkE does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player doyle129 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player NUPDUDE mucks (does not show cards). Bets: 20. Collects: 47.50. Wins: 27.50.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player Samshark does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 15:58:44
+
+Game started at: 2016/8/8 15:58:46
+Game ID: 698320334 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 6 is the button
+Seat 1: cleareyesandsoda (430.49).
+Seat 2: ROYEBOY (990).
+Seat 4: AlwaysAdonkE (16.73).
+Seat 5: doyle129 (211).
+Seat 6: NUPDUDE (557.41).
+Seat 7: ChazDazzle (190).
+Seat 8: Samshark (470.75).
+Player ChazDazzle has small blind (5)
+Player Samshark has big blind (10)
+Player ChazDazzle received card: [Jc]
+Player ChazDazzle received card: [8c]
+Player Samshark received a card.
+Player Samshark received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player ROYEBOY received a card.
+Player ROYEBOY received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player doyle129 received a card.
+Player doyle129 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player cleareyesandsoda calls (10)
+Player ROYEBOY calls (10)
+Player AlwaysAdonkE allin (16.73)
+Player doyle129 folds
+Player NUPDUDE calls (16.73)
+Player ChazDazzle calls (11.73)
+Player Samshark calls (6.73)
+Player cleareyesandsoda calls (6.73)
+Player ROYEBOY folds
+*** FLOP ***: [5s 4s 4c]
+Player ChazDazzle checks
+Player Samshark checks
+Player cleareyesandsoda bets (60.43)
+Player NUPDUDE folds
+Player ChazDazzle folds
+Player Samshark folds
+Uncalled bet (60.43) returned to cleareyesandsoda
+*** TURN ***: [5s 4s 4c] [8d]
+*** RIVER ***: [5s 4s 4c 8d] [7c]
+------ Summary ------
+Pot: 90.65. Rake 3
+Board: [5s 4s 4c 8d 7c]
+*Player cleareyesandsoda shows: Two pairs. 10s and 4s [10c 10h]. Bets: 16.73. Collects: 90.65. Wins: 73.92.
+Player ROYEBOY does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player AlwaysAdonkE shows: Two pairs. 7s and 4s [Kc 7h]. Bets: 16.73. Collects: 0. Loses: 16.73.
+Player doyle129 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player NUPDUDE does not show cards.Bets: 16.73. Collects: 0. Loses: 16.73.
+Player ChazDazzle does not show cards.Bets: 16.73. Collects: 0. Loses: 16.73.
+Player Samshark does not show cards.Bets: 16.73. Collects: 0. Loses: 16.73.
+Game ended at: 2016/8/8 15:59:44
+
+Game started at: 2016/8/8 15:59:47
+Game ID: 698320846 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 7 is the button
+Seat 1: cleareyesandsoda (504.41).
+Seat 2: ROYEBOY (980).
+Seat 5: doyle129 (211).
+Seat 6: NUPDUDE (540.68).
+Seat 7: ChazDazzle (173.27).
+Seat 8: Samshark (454.02).
+Seat 9: barzop (200).
+Player Samshark has small blind (5)
+Player barzop has big blind (10)
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player ROYEBOY received a card.
+Player ROYEBOY received a card.
+Player doyle129 received a card.
+Player doyle129 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [5s]
+Player ChazDazzle received card: [Jd]
+Player cleareyesandsoda folds
+Player ROYEBOY folds
+Player doyle129 calls (10)
+Player NUPDUDE calls (10)
+Player ChazDazzle calls (10)
+Player Samshark calls (5)
+Player barzop checks
+*** FLOP ***: [4h 2d Kh]
+Player Samshark checks
+Player barzop checks
+Player doyle129 bets (31.66)
+Player NUPDUDE calls (31.66)
+Player ChazDazzle folds
+Player Samshark calls (31.66)
+Player barzop calls (31.66)
+*** TURN ***: [4h 2d Kh] [4s]
+Player Samshark bets (10)
+Player barzop calls (10)
+Player doyle129 raises (40)
+Player NUPDUDE calls (40)
+Player Samshark calls (30)
+Player barzop calls (30)
+*** RIVER ***: [4h 2d Kh 4s] [10s]
+Player Samshark bets (222.42)
+Player barzop allin (118.34)
+Player doyle129 allin (129.34)
+Player NUPDUDE folds
+Uncalled bet (93.08) returned to Samshark
+------ Summary ------
+Pot: 710.66. Rake 3
+Board: [4h 2d Kh 4s 10s]
+Player cleareyesandsoda does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ROYEBOY does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player doyle129 shows: Two pairs. Ks and 4s [2c Kc]. Bets: 211. Collects: 0. Loses: 211.
+Player NUPDUDE does not show cards.Bets: 81.66. Collects: 0. Loses: 81.66.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player Samshark shows: Three Of Kind of 4s [6h 4c]. Bets: 211. Collects: 710.66. Wins: 499.66.
+Player barzop shows: Two pairs. Ks and 4s [Ks Qs]. Bets: 200. Collects: 0. Loses: 200.
+Game ended at: 2016/8/8 16:1:21
+
+Game started at: 2016/8/8 16:1:24
+Game ID: 698321712 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 8 is the button
+Seat 1: cleareyesandsoda (504.41).
+Seat 2: ROYEBOY (980).
+Seat 6: NUPDUDE (459.02).
+Seat 7: ChazDazzle (163.27).
+Seat 8: Samshark (953.68).
+Player cleareyesandsoda has small blind (5)
+Player ROYEBOY has big blind (10)
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player ROYEBOY received a card.
+Player ROYEBOY received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [Jc]
+Player ChazDazzle received card: [Kc]
+Player Samshark received a card.
+Player Samshark received a card.
+Player NUPDUDE calls (10)
+Player ChazDazzle calls (10)
+Player Samshark calls (10)
+Player cleareyesandsoda calls (5)
+Player ROYEBOY checks
+*** FLOP ***: [8d 3s 2c]
+Player cleareyesandsoda checks
+Player ROYEBOY checks
+Player NUPDUDE checks
+Player ChazDazzle checks
+Player Samshark checks
+*** TURN ***: [8d 3s 2c] [5h]
+Player cleareyesandsoda checks
+Player ROYEBOY checks
+Player NUPDUDE checks
+Player ChazDazzle checks
+Player Samshark checks
+*** RIVER ***: [8d 3s 2c 5h] [Kh]
+Player cleareyesandsoda bets (31.66)
+Player ROYEBOY folds
+Player NUPDUDE folds
+Player ChazDazzle calls (31.66)
+Player Samshark folds
+------ Summary ------
+Pot: 110.32. Rake 3
+Board: [8d 3s 2c 5h Kh]
+Player cleareyesandsoda shows: One pair of Ks [Kd 6s]. Bets: 41.66. Collects: 0. Loses: 41.66.
+Player ROYEBOY does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player NUPDUDE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player ChazDazzle shows: One pair of Ks (kicker J) [Jc Kc]. Bets: 41.66. Collects: 110.32. Wins: 68.66.
+Player Samshark does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/8 16:2:23
+
+Game started at: 2016/8/8 16:2:26
+Game ID: 698322413 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 1 is the button
+Seat 1: cleareyesandsoda (462.75).
+Seat 6: NUPDUDE (449.02).
+Seat 7: ChazDazzle (231.93).
+Seat 8: Samshark (943.68).
+Seat 9: barzop (200).
+Player NUPDUDE has small blind (5)
+Player ChazDazzle has big blind (10)
+Player barzop posts (5)
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [2h]
+Player ChazDazzle received card: [Kd]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player Samshark calls (10)
+Player barzop calls (5)
+Player cleareyesandsoda folds
+Player NUPDUDE calls (5)
+Player ChazDazzle checks
+*** FLOP ***: [7c Kh Jh]
+Player NUPDUDE checks
+Player ChazDazzle checks
+Player Samshark checks
+Player barzop checks
+*** TURN ***: [7c Kh Jh] [Kc]
+Player NUPDUDE checks
+Player ChazDazzle checks
+Player Samshark checks
+Player barzop checks
+*** RIVER ***: [7c Kh Jh Kc] [6c]
+Player NUPDUDE checks
+Player ChazDazzle checks
+Player Samshark checks
+Player barzop checks
+Player NUPDUDE mucks cards
+Player Samshark mucks cards
+Player barzop mucks cards
+------ Summary ------
+Pot: 38. Rake 2
+Board: [7c Kh Jh Kc 6c]
+Player cleareyesandsoda does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player NUPDUDE mucks (does not show cards). Bets: 10. Collects: 0. Loses: 10.
+*Player ChazDazzle shows: Three Of Kind of Ks [2h Kd]. Bets: 10. Collects: 38. Wins: 28.
+Player Samshark mucks (does not show cards). Bets: 10. Collects: 0. Loses: 10.
+Player barzop mucks (does not show cards). Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/8 16:3:19
+
+Game started at: 2016/8/8 16:3:22
+Game ID: 698323033 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 6 is the button
+Seat 1: cleareyesandsoda (462.75).
+Seat 5: jerryc15 (200).
+Seat 6: NUPDUDE (439.02).
+Seat 7: ChazDazzle (259.93).
+Seat 8: Samshark (933.68).
+Seat 9: barzop (190).
+Player ChazDazzle has small blind (5)
+Player Samshark has big blind (10)
+Player jerryc15 posts (10)
+Player ChazDazzle received card: [7h]
+Player ChazDazzle received card: [5s]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player barzop calls (10)
+Player cleareyesandsoda folds
+Player jerryc15 checks
+Player NUPDUDE calls (10)
+Player ChazDazzle folds
+Player Samshark checks
+*** FLOP ***: [4h Ah 8c]
+Player Samshark checks
+Player barzop checks
+Player jerryc15 checks
+Player NUPDUDE checks
+*** TURN ***: [4h Ah 8c] [9c]
+Player Samshark checks
+Player barzop checks
+Player jerryc15 bets (28.50)
+Player NUPDUDE calls (28.50)
+Player Samshark folds
+Player barzop calls (28.50)
+*** RIVER ***: [4h Ah 8c 9c] [10s]
+Player barzop checks
+Player jerryc15 bets (63.75)
+Player NUPDUDE folds
+Player barzop calls (63.75)
+Player barzop mucks cards
+------ Summary ------
+Pot: 255. Rake 3
+Board: [4h Ah 8c 9c 10s]
+Player cleareyesandsoda does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player jerryc15 shows: Two pairs. 9s and 8s [9h 8s]. Bets: 102.25. Collects: 255. Wins: 152.75.
+Player NUPDUDE does not show cards.Bets: 38.50. Collects: 0. Loses: 38.50.
+Player ChazDazzle does not show cards.Bets: 5. Collects: 0. Loses: 5.
+Player Samshark does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player barzop mucks (does not show cards). Bets: 102.25. Collects: 0. Loses: 102.25.
+Game ended at: 2016/8/8 16:4:22
+
+Game started at: 2016/8/8 16:4:26
+Game ID: 698323774 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 7 is the button
+Seat 1: cleareyesandsoda (462.75).
+Seat 4: AlwaysAdonkE (519.62).
+Seat 5: jerryc15 (352.75).
+Seat 6: NUPDUDE (400.52).
+Seat 7: ChazDazzle (254.93).
+Seat 8: Samshark (923.68).
+Seat 9: barzop (87.75).
+Player Samshark has small blind (5)
+Player barzop has big blind (10)
+Player AlwaysAdonkE posts (10)
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [9d]
+Player ChazDazzle received card: [10s]
+Player cleareyesandsoda calls (10)
+Player AlwaysAdonkE checks
+Player jerryc15 calls (10)
+Player NUPDUDE calls (10)
+Player ChazDazzle calls (10)
+Player Samshark calls (5)
+Player barzop checks
+*** FLOP ***: [Ah 2h 3d]
+Player Samshark checks
+Player barzop checks
+Player cleareyesandsoda checks
+Player AlwaysAdonkE checks
+Player jerryc15 checks
+Player NUPDUDE bets (70)
+Player ChazDazzle folds
+Player Samshark folds
+Player barzop folds
+Player cleareyesandsoda folds
+Player AlwaysAdonkE folds
+Player jerryc15 folds
+Uncalled bet (70) returned to NUPDUDE
+Player NUPDUDE mucks cards
+------ Summary ------
+Pot: 67. Rake 3
+Board: [Ah 2h 3d]
+Player cleareyesandsoda does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player AlwaysAdonkE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player jerryc15 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player NUPDUDE mucks (does not show cards). Bets: 10. Collects: 67. Wins: 57.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player Samshark does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player barzop does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/8 16:5:25
+
+Game started at: 2016/8/8 16:5:28
+Game ID: 698324448 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 8 is the button
+Seat 1: cleareyesandsoda (452.75).
+Seat 4: AlwaysAdonkE (509.62).
+Seat 5: jerryc15 (342.75).
+Seat 6: NUPDUDE (457.52).
+Seat 7: ChazDazzle (244.93).
+Seat 8: Samshark (913.68).
+Seat 9: barzop (77.75).
+Player barzop has small blind (5)
+Player cleareyesandsoda has big blind (10)
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [4h]
+Player ChazDazzle received card: [10h]
+Player Samshark received a card.
+Player Samshark received a card.
+Player AlwaysAdonkE calls (10)
+Player jerryc15 calls (10)
+Player NUPDUDE calls (10)
+Player ChazDazzle folds
+Player Samshark calls (10)
+Player barzop calls (5)
+Player cleareyesandsoda checks
+*** FLOP ***: [Qh 2c 4s]
+Player barzop checks
+Player cleareyesandsoda bets (38)
+Player AlwaysAdonkE folds
+Player jerryc15 folds
+Player NUPDUDE folds
+Player Samshark folds
+Player barzop calls (38)
+*** TURN ***: [Qh 2c 4s] [4d]
+Player barzop checks
+Player cleareyesandsoda bets (66.50)
+Player barzop allin (29.75)
+Uncalled bet (36.75) returned to cleareyesandsoda
+*** RIVER ***: [Qh 2c 4s 4d] [10s]
+------ Summary ------
+Pot: 192.50. Rake 3
+Board: [Qh 2c 4s 4d 10s]
+Player cleareyesandsoda shows: Two pairs. Qs and 4s [Qs 3d]. Bets: 77.75. Collects: 0. Loses: 77.75.
+Player AlwaysAdonkE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player jerryc15 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player NUPDUDE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Samshark does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player barzop shows: Two pairs. Qs and 4s (kicker J) [Jh Qc]. Bets: 77.75. Collects: 192.50. Wins: 114.75.
+Game ended at: 2016/8/8 16:6:33
+
+Game started at: 2016/8/8 16:6:36
+Game ID: 698325252 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 9 is the button
+Seat 1: cleareyesandsoda (375).
+Seat 3: paperboy32 (1000).
+Seat 4: AlwaysAdonkE (499.62).
+Seat 5: jerryc15 (332.75).
+Seat 6: NUPDUDE (447.52).
+Seat 7: ChazDazzle (244.93).
+Seat 8: Samshark (903.68).
+Seat 9: barzop (192.50).
+Player cleareyesandsoda has small blind (5)
+Player paperboy32 has big blind (10)
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player paperboy32 received a card.
+Player paperboy32 received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [2d]
+Player ChazDazzle received card: [5s]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player AlwaysAdonkE calls (10)
+Player jerryc15 calls (10)
+Player NUPDUDE calls (10)
+Player ChazDazzle folds
+Player Samshark folds
+Player barzop calls (10)
+Player cleareyesandsoda calls (5)
+Player paperboy32 checks
+*** FLOP ***: [Ac Qd Ks]
+Player cleareyesandsoda checks
+Player paperboy32 checks
+Player AlwaysAdonkE checks
+Player jerryc15 bets (28.50)
+Player NUPDUDE folds
+Player barzop folds
+Player cleareyesandsoda calls (28.50)
+Player paperboy32 folds
+Player AlwaysAdonkE calls (28.50)
+*** TURN ***: [Ac Qd Ks] [Jc]
+Player cleareyesandsoda checks
+Player AlwaysAdonkE checks
+Player jerryc15 checks
+*** RIVER ***: [Ac Qd Ks Jc] [2h]
+Player cleareyesandsoda allin (336.50)
+Player AlwaysAdonkE folds
+Player jerryc15 folds
+Uncalled bet (336.50) returned to cleareyesandsoda
+Player cleareyesandsoda mucks cards
+------ Summary ------
+Pot: 142.50. Rake 3
+Board: [Ac Qd Ks Jc 2h]
+*Player cleareyesandsoda mucks (does not show cards). Bets: 38.50. Collects: 142.50. Wins: 104.
+Player paperboy32 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player AlwaysAdonkE does not show cards.Bets: 38.50. Collects: 0. Loses: 38.50.
+Player jerryc15 does not show cards.Bets: 38.50. Collects: 0. Loses: 38.50.
+Player NUPDUDE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Samshark does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player barzop does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/8 16:7:43
+
+Game started at: 2016/8/8 16:7:45
+Game ID: 698326064 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 1 is the button
+Seat 1: cleareyesandsoda (479).
+Seat 3: paperboy32 (990).
+Seat 4: AlwaysAdonkE (461.12).
+Seat 5: jerryc15 (294.25).
+Seat 6: NUPDUDE (437.52).
+Seat 7: ChazDazzle (244.93).
+Seat 8: Samshark (903.68).
+Seat 9: barzop (182.50).
+Player paperboy32 has small blind (5)
+Player AlwaysAdonkE has big blind (10)
+Player paperboy32 received a card.
+Player paperboy32 received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [Jh]
+Player ChazDazzle received card: [9c]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player jerryc15 folds
+Player NUPDUDE calls (10)
+Player ChazDazzle folds
+Player Samshark folds
+Player barzop folds
+Player cleareyesandsoda raises (50)
+Player paperboy32 raises (85)
+Player AlwaysAdonkE calls (80)
+Player NUPDUDE folds
+Player cleareyesandsoda calls (40)
+*** FLOP ***: [Qd Jd 7d]
+Player paperboy32 checks
+Player AlwaysAdonkE checks
+Player cleareyesandsoda checks
+*** TURN ***: [Qd Jd 7d] [8c]
+Player paperboy32 bets (10)
+Player AlwaysAdonkE calls (10)
+Player cleareyesandsoda calls (10)
+*** RIVER ***: [Qd Jd 7d 8c] [7h]
+Player paperboy32 checks
+Player AlwaysAdonkE checks
+Player cleareyesandsoda checks
+Player AlwaysAdonkE is timed out.
+Player AlwaysAdonkE mucks cards
+------ Summary ------
+Pot: 307. Rake 3
+Board: [Qd Jd 7d 8c 7h]
+*Player cleareyesandsoda shows: Two pairs. 7s and 5s [5s 5d]. Bets: 100. Collects: 307. Wins: 207.
+Player paperboy32 shows: One pair of 7s [5c 4c]. Bets: 100. Collects: 0. Loses: 100.
+Player AlwaysAdonkE mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+Player jerryc15 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player NUPDUDE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Samshark does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player barzop does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 16:8:42
+
+Game started at: 2016/8/8 16:8:47
+Game ID: 698326759 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 3 is the button
+Seat 1: cleareyesandsoda (686).
+Seat 3: paperboy32 (890).
+Seat 4: AlwaysAdonkE (361.12).
+Seat 5: jerryc15 (294.25).
+Seat 6: NUPDUDE (427.52).
+Seat 7: ChazDazzle (244.93).
+Seat 8: Samshark (903.68).
+Seat 9: barzop (182.50).
+Player AlwaysAdonkE has small blind (5)
+Player jerryc15 has big blind (10)
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [3s]
+Player ChazDazzle received card: [5c]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player paperboy32 received a card.
+Player paperboy32 received a card.
+Player NUPDUDE folds
+Player ChazDazzle calls (10)
+Player Samshark calls (10)
+Player barzop folds
+Player cleareyesandsoda calls (10)
+Player paperboy32 calls (10)
+Player AlwaysAdonkE calls (5)
+Player jerryc15 checks
+*** FLOP ***: [Ac 8h Ad]
+Player AlwaysAdonkE checks
+Player jerryc15 checks
+Player ChazDazzle checks
+Player Samshark checks
+Player cleareyesandsoda checks
+Player paperboy32 bets (10)
+Player AlwaysAdonkE folds
+Player jerryc15 folds
+Player ChazDazzle folds
+Player Samshark folds
+Player cleareyesandsoda calls (10)
+*** TURN ***: [Ac 8h Ad] [7c]
+Player cleareyesandsoda checks
+Player paperboy32 bets (10)
+Player cleareyesandsoda calls (10)
+*** RIVER ***: [Ac 8h Ad 7c] [10h]
+Player cleareyesandsoda checks
+Player paperboy32 checks
+------ Summary ------
+Pot: 97. Rake 3
+Board: [Ac 8h Ad 7c 10h]
+*Player cleareyesandsoda shows: Two pairs. As and 10s [Jd 10d]. Bets: 30. Collects: 97. Wins: 67.
+Player paperboy32 shows: Two pairs. As and 8s [2c 8c]. Bets: 30. Collects: 0. Loses: 30.
+Player AlwaysAdonkE does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player jerryc15 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player NUPDUDE does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player Samshark does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player barzop does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 16:9:55
+
+Game started at: 2016/8/8 16:9:59
+Game ID: 698327591 5/10 PM Hold`em 5/10 (Hold'em)
+Seat 4 is the button
+Seat 1: cleareyesandsoda (753).
+Seat 2: missfancy2020 (1000).
+Seat 3: paperboy32 (860).
+Seat 4: AlwaysAdonkE (351.12).
+Seat 5: jerryc15 (284.25).
+Seat 6: NUPDUDE (427.52).
+Seat 7: ChazDazzle (234.93).
+Seat 8: Samshark (893.68).
+Seat 9: barzop (182.50).
+Player jerryc15 has small blind (5)
+Player NUPDUDE has big blind (10)
+Player ChazDazzle straddle (20)
+Player missfancy2020 is timed out.
+Player missfancy2020 wait BB
+Player jerryc15 received a card.
+Player jerryc15 received a card.
+Player NUPDUDE received a card.
+Player NUPDUDE received a card.
+Player ChazDazzle received card: [10s]
+Player ChazDazzle received card: [9d]
+Player Samshark received a card.
+Player Samshark received a card.
+Player barzop received a card.
+Player barzop received a card.
+Player cleareyesandsoda received a card.
+Player cleareyesandsoda received a card.
+Player paperboy32 received a card.
+Player paperboy32 received a card.
+Player AlwaysAdonkE received a card.
+Player AlwaysAdonkE received a card.
+Player Samshark folds
+Player barzop folds
+Player cleareyesandsoda calls (20)
+Player paperboy32 calls (20)
+Player AlwaysAdonkE calls (20)
+Player jerryc15 calls (15)
+Player NUPDUDE calls (10)
+Player ChazDazzle checks
+*** FLOP ***: [4h 4c 9h]
+Player jerryc15 checks
+Player NUPDUDE bets (10)
+Player ChazDazzle calls (10)
+Player cleareyesandsoda calls (10)
+Player paperboy32 folds
+Player AlwaysAdonkE calls (10)
+Player jerryc15 calls (10)
+*** TURN ***: [4h 4c 9h] [2d]
+Player jerryc15 checks
+Player NUPDUDE allin (397.52)
+Player ChazDazzle allin (204.93)
+Player cleareyesandsoda calls (397.52)
+Player AlwaysAdonkE allin (321.12)
+Player jerryc15 folds
+*** RIVER ***: [4h 4c 9h 2d] [8h]
+------ Summary ------
+Pot: 1488.09. Rake 3
+Board: [4h 4c 9h 2d 8h]
+Player cleareyesandsoda shows: One pair of 4s [Ac 3d]. Bets: 427.52. Collects: 0. Loses: 427.52.
+Player missfancy2020 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player paperboy32 does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player AlwaysAdonkE shows: Two pairs. 9s and 4s [7c 9s]. Bets: 351.12. Collects: 0. Loses: 351.12.
+Player jerryc15 does not show cards.Bets: 30. Collects: 0. Loses: 30.
+*Player NUPDUDE shows: Three Of Kind of 4s [4d Js]. Bets: 427.52. Collects: 1488.09. Wins: 1060.57.
+Player ChazDazzle shows: Two pairs. 9s and 4s [10s 9d]. Bets: 234.93. Collects: 0. Loses: 234.93.
+Player Samshark does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player barzop does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 16:11:30
+

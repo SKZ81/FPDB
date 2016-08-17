@@ -1,0 +1,120 @@
+Game started at: 2016/8/8 16:26:41
+Game ID: 698338917 0.01/0.02 (PRR) Bahamut (Cap) - 5 (Hold'em)
+Seat 3 is the button
+Seat 1: shadex47 (2).
+Seat 2: busmanstc (2.02).
+Seat 3: unregpre (2.12).
+Seat 5: rt1501 (0.80).
+Seat 6: ChazDazzle (0.80).
+Player rt1501 has small blind (0.01)
+Player ChazDazzle has big blind (0.02)
+Player rt1501 received a card.
+Player rt1501 received a card.
+Player ChazDazzle received card: [Ad]
+Player ChazDazzle received card: [8s]
+Player shadex47 received a card.
+Player shadex47 received a card.
+Player busmanstc received a card.
+Player busmanstc received a card.
+Player unregpre received a card.
+Player unregpre received a card.
+Player shadex47 folds
+Player busmanstc raises (0.04)
+Player unregpre folds
+Player rt1501 folds
+Player ChazDazzle calls (0.02)
+*** FLOP ***: [Ks 2d 7c]
+Player ChazDazzle checks
+Player busmanstc bets (0.06)
+Player ChazDazzle folds
+Uncalled bet (0.06) returned to busmanstc
+Player busmanstc is timed out.
+Player busmanstc mucks cards
+------ Summary ------
+Pot: 0.09. Rake 0
+Board: [Ks 2d 7c]
+Player shadex47 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player busmanstc mucks (does not show cards). Bets: 0.04. Collects: 0.09. Wins: 0.05.
+Player unregpre does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player rt1501 does not show cards.Bets: 0.01. Collects: 0. Loses: 0.01.
+Player ChazDazzle does not show cards.Bets: 0.04. Collects: 0. Loses: 0.04.
+Game ended at: 2016/8/8 16:27:29
+
+Game started at: 2016/8/8 16:27:30
+Game ID: 698339423 0.01/0.02 (PRR) Bahamut (Cap) - 5 (Hold'em)
+Seat 5 is the button
+Seat 1: shadex47 (2).
+Seat 2: busmanstc (2.07).
+Seat 3: unregpre (2.12).
+Seat 5: rt1501 (0.79).
+Seat 6: ChazDazzle (0.76).
+Player ChazDazzle has small blind (0.01)
+Player shadex47 has big blind (0.02)
+Player ChazDazzle received card: [5h]
+Player ChazDazzle received card: [3c]
+Player shadex47 received a card.
+Player shadex47 received a card.
+Player busmanstc received a card.
+Player busmanstc received a card.
+Player unregpre received a card.
+Player unregpre received a card.
+Player rt1501 received a card.
+Player rt1501 received a card.
+Player busmanstc folds
+Player unregpre folds
+Player rt1501 folds
+Player ChazDazzle folds
+Uncalled bet (0.01) returned to shadex47
+Player shadex47 mucks cards
+------ Summary ------
+Pot: 0.02. Rake 0
+*Player shadex47 mucks (does not show cards). Bets: 0.01. Collects: 0.02. Wins: 0.01.
+Player busmanstc does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player unregpre does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player rt1501 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0.01. Collects: 0. Loses: 0.01.
+Game ended at: 2016/8/8 16:27:47
+
+Game started at: 2016/8/8 16:27:50
+Game ID: 698339630 0.01/0.02 (PRR) Bahamut (Cap) - 5 (Hold'em)
+Seat 6 is the button
+Seat 1: shadex47 (2.01).
+Seat 2: busmanstc (2.07).
+Seat 3: unregpre (2.12).
+Seat 5: rt1501 (0.79).
+Seat 6: ChazDazzle (0.75).
+Player shadex47 has small blind (0.01)
+Player busmanstc has big blind (0.02)
+Player shadex47 received a card.
+Player shadex47 received a card.
+Player busmanstc received a card.
+Player busmanstc received a card.
+Player unregpre received a card.
+Player unregpre received a card.
+Player rt1501 received a card.
+Player rt1501 received a card.
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [Ks]
+Player unregpre folds
+Player rt1501 raises (0.06)
+Player ChazDazzle folds
+Player shadex47 calls (0.05)
+Player busmanstc calls (0.04)
+*** FLOP ***: [8c 8d Ac]
+Player shadex47 checks
+Player busmanstc bets (0.02)
+Player rt1501 folds
+Player shadex47 folds
+Uncalled bet (0.02) returned to busmanstc
+Player busmanstc is timed out.
+Player busmanstc mucks cards
+------ Summary ------
+Pot: 0.18. Rake 0
+Board: [8c 8d Ac]
+Player shadex47 does not show cards.Bets: 0.06. Collects: 0. Loses: 0.06.
+*Player busmanstc mucks (does not show cards). Bets: 0.06. Collects: 0.18. Wins: 0.12.
+Player unregpre does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player rt1501 does not show cards.Bets: 0.06. Collects: 0. Loses: 0.06.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 16:28:58
+

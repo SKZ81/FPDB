@@ -1,0 +1,117 @@
+Game started at: 2016/8/2 11:24:23
+Game ID: 693980441 0.01/0.02 (PRR) Bannik (Short) (Omaha)
+Seat 2 is the button
+Seat 1: emchaze (2.68).
+Seat 2: Judyd (0.45).
+Seat 3: bigchetpatty (1.14).
+Seat 4: ChazDazzle (0.40).
+Seat 5: posheco (0.64).
+Player bigchetpatty has small blind (0.01)
+Player ChazDazzle has big blind (0.02)
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [3h]
+Player ChazDazzle received card: [6c]
+Player ChazDazzle received card: [Jh]
+Player posheco received a card.
+Player posheco received a card.
+Player posheco received a card.
+Player posheco received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player posheco folds
+Player emchaze folds
+Player Judyd calls (0.02)
+Player bigchetpatty calls (0.01)
+Player ChazDazzle checks
+*** FLOP ***: [As Ks 10s]
+Player bigchetpatty bets (0.02)
+Player ChazDazzle folds
+Player Judyd folds
+Uncalled bet (0.02) returned to bigchetpatty
+Player bigchetpatty mucks cards
+------ Summary ------
+Pot: 0.06. Rake 0
+Board: [As Ks 10s]
+Player emchaze does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Judyd does not show cards.Bets: 0.02. Collects: 0. Loses: 0.02.
+*Player bigchetpatty mucks (does not show cards). Bets: 0.02. Collects: 0.06. Wins: 0.04.
+Player ChazDazzle does not show cards.Bets: 0.02. Collects: 0. Loses: 0.02.
+Player posheco does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/2 11:24:43
+
+Game started at: 2016/8/2 11:24:45
+Game ID: 693980591 0.01/0.02 (PRR) Bannik (Short) (Omaha)
+Seat 3 is the button
+Seat 1: emchaze (2.68).
+Seat 2: Judyd (0.43).
+Seat 3: bigchetpatty (1.18).
+Seat 4: ChazDazzle (0.38).
+Seat 5: posheco (0.64).
+Player ChazDazzle has small blind (0.01)
+Player posheco has big blind (0.02)
+Player ChazDazzle received card: [5c]
+Player ChazDazzle received card: [7s]
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [4c]
+Player posheco received a card.
+Player posheco received a card.
+Player posheco received a card.
+Player posheco received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player emchaze received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player Judyd received a card.
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player bigchetpatty received a card.
+Player emchaze calls (0.02)
+Player Judyd calls (0.02)
+Player bigchetpatty calls (0.02)
+Player ChazDazzle calls (0.01)
+Player posheco checks
+*** FLOP ***: [10s 2d 5h]
+Player ChazDazzle checks
+Player posheco checks
+Player emchaze checks
+Player Judyd checks
+Player bigchetpatty checks
+*** TURN ***: [10s 2d 5h] [Qc]
+Player ChazDazzle checks
+Player posheco checks
+Player emchaze checks
+Player Judyd bets (0.02)
+Player bigchetpatty folds
+Player ChazDazzle folds
+Player posheco calls (0.02)
+Player emchaze calls (0.02)
+*** RIVER ***: [10s 2d 5h Qc] [3s]
+Player posheco checks
+Player emchaze checks
+Player Judyd checks
+Player posheco mucks cards
+Player emchaze mucks cards
+------ Summary ------
+Pot: 0.16. Rake 0
+Board: [10s 2d 5h Qc 3s]
+Player emchaze mucks (does not show cards). Bets: 0.04. Collects: 0. Loses: 0.04.
+*Player Judyd shows: Two pairs. Qs and 3s [2s Kc Qh 3c]. Bets: 0.04. Collects: 0.16. Wins: 0.12.
+Player bigchetpatty does not show cards.Bets: 0.02. Collects: 0. Loses: 0.02.
+Player ChazDazzle does not show cards.Bets: 0.02. Collects: 0. Loses: 0.02.
+Player posheco mucks (does not show cards). Bets: 0.04. Collects: 0. Loses: 0.04.
+Game ended at: 2016/8/2 11:25:56
+

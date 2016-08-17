@@ -1,0 +1,85 @@
+Game started at: 2016/8/8 16:39:21
+Game ID: 698347374 0.01/0.02 (PRR) Bahamut (Short) - 2 (Hold'em)
+Seat 2 is the button
+Seat 1: STACKS5143 (0.92).
+Seat 2: armyvisayan (0.51).
+Seat 4: MosarP73 (1.10).
+Seat 5: ChazDazzle (0.40).
+Player MosarP73 has small blind (0.01)
+Player ChazDazzle has big blind (0.02)
+Player MosarP73 received a card.
+Player MosarP73 received a card.
+Player ChazDazzle received card: [2c]
+Player ChazDazzle received card: [2h]
+Player STACKS5143 received a card.
+Player STACKS5143 received a card.
+Player armyvisayan received a card.
+Player armyvisayan received a card.
+Player STACKS5143 folds
+Player armyvisayan raises (0.06)
+Player MosarP73 folds
+Player ChazDazzle calls (0.04)
+*** FLOP ***: [5s Jd 2d]
+Player ChazDazzle checks
+Player armyvisayan checks
+*** TURN ***: [5s Jd 2d] [Kd]
+Player ChazDazzle bets (0.02)
+Player armyvisayan calls (0.02)
+*** RIVER ***: [5s Jd 2d Kd] [9c]
+Player ChazDazzle bets (0.20)
+Player armyvisayan folds
+Uncalled bet (0.20) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 0.17. Rake 0
+Board: [5s Jd 2d Kd 9c]
+Player STACKS5143 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player armyvisayan does not show cards.Bets: 0.08. Collects: 0. Loses: 0.08.
+Player MosarP73 does not show cards.Bets: 0.01. Collects: 0. Loses: 0.01.
+*Player ChazDazzle mucks (does not show cards). Bets: 0.08. Collects: 0.17. Wins: 0.09.
+Game ended at: 2016/8/8 16:39:52
+
+Game started at: 2016/8/8 16:39:55
+Game ID: 698347770 0.01/0.02 (PRR) Bahamut (Short) - 2 (Hold'em)
+Seat 4 is the button
+Seat 1: STACKS5143 (0.92).
+Seat 2: armyvisayan (0.43).
+Seat 4: MosarP73 (1.09).
+Seat 5: ChazDazzle (0.49).
+Seat 6: MEG1203 (0.40).
+Player ChazDazzle has small blind (0.01)
+Player MEG1203 has big blind (0.02)
+Player ChazDazzle received card: [Jd]
+Player ChazDazzle received card: [2s]
+Player MEG1203 received a card.
+Player MEG1203 received a card.
+Player STACKS5143 received a card.
+Player STACKS5143 received a card.
+Player armyvisayan received a card.
+Player armyvisayan received a card.
+Player MosarP73 received a card.
+Player MosarP73 received a card.
+Player STACKS5143 folds
+Player armyvisayan folds
+Player MosarP73 folds
+Player ChazDazzle calls (0.01)
+Player MEG1203 checks
+*** FLOP ***: [7h 7s 10h]
+Player ChazDazzle checks
+Player MEG1203 checks
+*** TURN ***: [7h 7s 10h] [8h]
+Player ChazDazzle checks
+Player MEG1203 checks
+*** RIVER ***: [7h 7s 10h 8h] [Qs]
+Player ChazDazzle checks
+Player MEG1203 checks
+------ Summary ------
+Pot: 0.04. Rake 0
+Board: [7h 7s 10h 8h Qs]
+Player STACKS5143 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player armyvisayan does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MosarP73 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle shows: One pair of 7s [Jd 2s]. Bets: 0.02. Collects: 0.02. Wins: 0.
+*Player MEG1203 shows: One pair of 7s [Jh 3s]. Bets: 0.02. Collects: 0.02. Wins: 0.
+Game ended at: 2016/8/8 16:40:45
+

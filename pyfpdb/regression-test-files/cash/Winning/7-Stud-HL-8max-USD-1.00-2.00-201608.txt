@@ -1,0 +1,51 @@
+Game started at: 2016/8/2 11:13:2
+Game ID: 693975843 1/2 (PRR) La Llorona - 3 (Seven Cards Stud HiLow)
+Seat 2: Diamonds4ever (18.20).
+Seat 5: ChazDazzle (10).
+Seat 8: KickAzzJohnny (26.44).
+Player Diamonds4ever ante (0.15)
+Player ChazDazzle ante (0.15)
+Player KickAzzJohnny ante (0.15)
+Player Diamonds4ever received a card.
+Player Diamonds4ever received a card.
+Player ChazDazzle received card: [6h]
+Player ChazDazzle received card: [10d]
+Player KickAzzJohnny received a card.
+Player KickAzzJohnny received a card.
+Player Diamonds4ever received card: [7h]
+Player ChazDazzle received card: [2c]
+Player KickAzzJohnny received card: [3s]
+Player ChazDazzle bring in (0.40)
+Player KickAzzJohnny calls (0.40)
+Player Diamonds4ever folds
+*** Third street ***
+Player ChazDazzle received card: [As]
+Player KickAzzJohnny received card: [6s]
+Player ChazDazzle bets (1)
+Player KickAzzJohnny calls (1)
+*** Fourth street ***
+Player ChazDazzle received card: [7d]
+Player KickAzzJohnny received card: [8s]
+Player ChazDazzle checks
+Player KickAzzJohnny checks
+*** Fifth street ***
+Player ChazDazzle received card: [4d]
+Player KickAzzJohnny received card: [8h]
+Player KickAzzJohnny checks
+Player ChazDazzle checks
+*** Sixth street ***
+Player ChazDazzle received card: [9s]
+Player KickAzzJohnny received a card.
+Player KickAzzJohnny bets (2)
+Player ChazDazzle calls (2)
+------ Summary ------
+Pot: 7.05. Rake 0.14. JP fee 0.06
+Player Diamonds4ever does not show cards.Bets: 0.15. Collects: 0. Loses: 0.15.
+*Player ChazDazzle shows: High card A [6h 10d 2c As 7d 4d 9s] Low hand (A A 2 4 6 7 ).Bets: 3.55. Collects: 3.53. Loses: 0.02.
+*Player KickAzzJohnny shows: Two pairs. 8s and 3s [5d 3d 3s 6s 8s 8h Ad]. Bets: 3.55. Collects: 3.52. Loses: 0.03.
+Game ended at: 2016/8/2 11:13:46
+
+Game started at: 2016/8/2 11:13:51
+Game ID: 693976187 1/2 (PRR) La Llorona - 3 (Seven Cards Stud HiLow)
+Seat 2: Diamonds4ever (18.05).
+Seat 8: KickAzzJohnny (26.41).
