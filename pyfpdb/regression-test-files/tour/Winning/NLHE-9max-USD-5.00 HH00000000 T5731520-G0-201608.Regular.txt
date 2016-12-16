@@ -1,0 +1,2653 @@
+Game started at: 2016/8/4 11:25:33
+Game ID: 695300472 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (1500).
+Seat 2: Gameover44 (1500).
+Seat 3: ChazDazzle (1500).
+Seat 4: Gyrb (1500).
+Seat 5: Clepdog (1500).
+Seat 6: MaxxPower (1500).
+Seat 7: batka (1500).
+Seat 8: PocketRockets0011 (1500).
+Seat 9: Finz (1500).
+Player Gameover44 has small blind (10)
+Player ChazDazzle has big blind (20)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [5c]
+Player ChazDazzle received card: [8c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gyrb raises (60)
+Player Clepdog is timed out.
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 calls (60)
+Player Finz folds
+Player LaikeAbebe calls (60)
+Player Gameover44 folds
+Player ChazDazzle calls (40)
+*** FLOP ***: [4h Js 6s]
+Player ChazDazzle checks
+Player Gyrb checks
+Player PocketRockets0011 bets (84)
+Player LaikeAbebe folds
+Player ChazDazzle folds
+Player Gyrb folds
+Uncalled bet (84) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 250
+Board: [4h Js 6s]
+Player LaikeAbebe does not show cards.Bets: 60. Collects: 0. Loses: 60.
+Player Gameover44 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player ChazDazzle does not show cards.Bets: 60. Collects: 0. Loses: 60.
+Player Gyrb does not show cards.Bets: 60. Collects: 0. Loses: 60.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 60. Collects: 250. Wins: 190.
+Player Finz does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:27:3
+
+Game started at: 2016/8/4 11:27:5
+Game ID: 695301082 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (1440).
+Seat 2: Gameover44 (1490).
+Seat 3: ChazDazzle (1440).
+Seat 4: Gyrb (1440).
+Seat 5: Clepdog (1500).
+Seat 6: MaxxPower (1500).
+Seat 7: batka (1500).
+Seat 8: PocketRockets0011 (1690).
+Seat 9: Finz (1500).
+Player ChazDazzle has small blind (10)
+Player Gyrb has big blind (20)
+Player ChazDazzle received card: [8h]
+Player ChazDazzle received card: [Jd]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player Finz folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (10) returned to Gyrb
+Player Gyrb mucks cards
+------ Summary ------
+Pot: 20
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player Gyrb mucks (does not show cards). Bets: 10. Collects: 20. Wins: 10.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Finz does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:27:23
+
+Game started at: 2016/8/4 11:27:25
+Game ID: 695301240 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (1440).
+Seat 2: Gameover44 (1490).
+Seat 3: ChazDazzle (1430).
+Seat 4: Gyrb (1450).
+Seat 5: Clepdog (1500).
+Seat 6: MaxxPower (1500).
+Seat 7: batka (1500).
+Seat 8: PocketRockets0011 (1690).
+Seat 9: Finz (1500).
+Player Gyrb has small blind (10)
+Player Clepdog has big blind (20)
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [9c]
+Player ChazDazzle received card: [2c]
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player Finz folds
+Player LaikeAbebe folds
+Player Gameover44 raises (60)
+Player ChazDazzle folds
+Player Gyrb raises (130)
+Player Clepdog folds
+Player Gameover44 calls (80)
+*** FLOP ***: [2d Kc 6h]
+Player Gyrb bets (160)
+Player Gameover44 folds
+Uncalled bet (160) returned to Gyrb
+Player Gyrb mucks cards
+------ Summary ------
+Pot: 300
+Board: [2d Kc 6h]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 140. Collects: 0. Loses: 140.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Gyrb mucks (does not show cards). Bets: 140. Collects: 300. Wins: 160.
+Player Clepdog does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Finz does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:28:30
+
+Game started at: 2016/8/4 11:28:32
+Game ID: 695301672 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 4 is the button
+Seat 1: LaikeAbebe (1440).
+Seat 2: Gameover44 (1350).
+Seat 3: ChazDazzle (1430).
+Seat 4: Gyrb (1610).
+Seat 5: Clepdog (1480).
+Seat 6: MaxxPower (1500).
+Seat 7: batka (1500).
+Seat 8: PocketRockets0011 (1690).
+Seat 9: Finz (1500).
+Player Clepdog has small blind (10)
+Player MaxxPower has big blind (20)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8s]
+Player ChazDazzle received card: [Jc]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player batka folds
+Player PocketRockets0011 folds
+Player Finz folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb folds
+Player Clepdog raises (70)
+Player MaxxPower calls (60)
+*** FLOP ***: [4s 2s 5h]
+Player Clepdog bets (80)
+Player MaxxPower folds
+Uncalled bet (80) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 160
+Board: [4s 2s 5h]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Clepdog mucks (does not show cards). Bets: 80. Collects: 160. Wins: 80.
+Player MaxxPower does not show cards.Bets: 80. Collects: 0. Loses: 80.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Finz does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:29:3
+
+Game started at: 2016/8/4 11:29:6
+Game ID: 695301885 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (1440).
+Seat 2: Gameover44 (1350).
+Seat 3: ChazDazzle (1430).
+Seat 4: Gyrb (1610).
+Seat 5: Clepdog (1560).
+Seat 6: MaxxPower (1420).
+Seat 7: batka (1500).
+Seat 8: PocketRockets0011 (1690).
+Seat 9: Finz (1500).
+Player MaxxPower has small blind (10)
+Player batka has big blind (20)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Kc]
+Player ChazDazzle received card: [Qh]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 folds
+Player Finz folds
+Player LaikeAbebe raises (60)
+Player Gameover44 folds
+Player ChazDazzle calls (60)
+Player Gyrb folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+*** FLOP ***: [2d 5h 7c]
+Player LaikeAbebe checks
+Player ChazDazzle bets (20)
+Player LaikeAbebe calls (20)
+*** TURN ***: [2d 5h 7c] [Ah]
+Player LaikeAbebe checks
+Player ChazDazzle bets (120)
+Player LaikeAbebe calls (120)
+*** RIVER ***: [2d 5h 7c Ah] [7h]
+Player LaikeAbebe bets (220)
+Player ChazDazzle folds
+Uncalled bet (220) returned to LaikeAbebe
+Player LaikeAbebe mucks cards
+------ Summary ------
+Pot: 430
+Board: [2d 5h 7c Ah 7h]
+*Player LaikeAbebe mucks (does not show cards). Bets: 200. Collects: 430. Wins: 230.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 200. Collects: 0. Loses: 200.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player batka does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Finz does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:30:13
+
+Game started at: 2016/8/4 11:30:15
+Game ID: 695302353 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (1670).
+Seat 2: Gameover44 (1350).
+Seat 3: ChazDazzle (1230).
+Seat 4: Gyrb (1610).
+Seat 5: Clepdog (1560).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1480).
+Seat 8: PocketRockets0011 (1690).
+Seat 9: Finz (1500).
+Player batka has small blind (10)
+Player PocketRockets0011 has big blind (20)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Finz received a card.
+Player Finz received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [7c]
+Player ChazDazzle received card: [Jc]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player Finz raises (55)
+Player LaikeAbebe calls (55)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb folds
+Player Clepdog calls (55)
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 calls (35)
+*** FLOP ***: [7h 5c 4c]
+Player PocketRockets0011 checks
+Player Finz bets (190)
+Player LaikeAbebe folds
+Player Clepdog folds
+Player PocketRockets0011 calls (190)
+*** TURN ***: [7h 5c 4c] [4s]
+Player PocketRockets0011 checks
+Player Finz bets (600)
+Player PocketRockets0011 allin (1445)
+Player Finz allin (655)
+Uncalled bet (190) returned to PocketRockets0011
+*** RIVER ***: [7h 5c 4c 4s] [8d]
+------ Summary ------
+Pot: 3120
+Board: [7h 5c 4c 4s 8d]
+Player LaikeAbebe does not show cards.Bets: 55. Collects: 0. Loses: 55.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 55. Collects: 0. Loses: 55.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 10. Collects: 0. Loses: 10.
+*Player PocketRockets0011 shows: Straight to 8 [6h 4h]. Bets: 1500. Collects: 3120. Wins: 1620.
+Player Finz shows: Two pairs. Ks and 4s [Kh Ks]. Bets: 1500. Collects: 0. Loses: 1500.
+Game ended at: 2016/8/4 11:31:45
+
+Game started at: 2016/8/4 11:31:49
+Game ID: 695302981 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (1615).
+Seat 2: Gameover44 (1350).
+Seat 3: ChazDazzle (1230).
+Seat 4: Gyrb (1610).
+Seat 5: Clepdog (1505).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1470).
+Seat 8: PocketRockets0011 (3310).
+Player PocketRockets0011 has small blind (10)
+Player LaikeAbebe has big blind (20)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Jd]
+Player ChazDazzle received card: [5s]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb raises (80)
+Player Clepdog raises (200)
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gyrb folds
+Uncalled bet (120) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 190
+Player LaikeAbebe does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 80. Collects: 0. Loses: 80.
+*Player Clepdog mucks (does not show cards). Bets: 80. Collects: 190. Wins: 110.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Game ended at: 2016/8/4 11:32:36
+
+Game started at: 2016/8/4 11:32:38
+Game ID: 695303336 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (1595).
+Seat 2: Gameover44 (1350).
+Seat 3: ChazDazzle (1230).
+Seat 4: Gyrb (1530).
+Seat 5: Clepdog (1615).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1470).
+Seat 8: PocketRockets0011 (3300).
+Player LaikeAbebe has small blind (10)
+Player Gameover44 has big blind (20)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [6s]
+Player ChazDazzle received card: [5c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Gyrb folds
+Player Clepdog raises (60)
+Player MaxxPower folds
+Player batka raises (210)
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player Clepdog calls (150)
+*** FLOP ***: [10s 9c Kh]
+Player Clepdog bets (225)
+Player batka folds
+Uncalled bet (225) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 450
+Board: [10s 9c Kh]
+Player LaikeAbebe does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player Gameover44 does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Clepdog mucks (does not show cards). Bets: 210. Collects: 450. Wins: 240.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 210. Collects: 0. Loses: 210.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:33:25
+
+Game started at: 2016/8/4 11:33:28
+Game ID: 695303735 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (1585).
+Seat 2: Gameover44 (1330).
+Seat 3: ChazDazzle (1230).
+Seat 4: Gyrb (1530).
+Seat 5: Clepdog (1855).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1260).
+Seat 8: PocketRockets0011 (3300).
+Player Gameover44 has small blind (10)
+Player ChazDazzle has big blind (20)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [9s]
+Player ChazDazzle received card: [2d]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gyrb raises (80)
+Player Clepdog calls (80)
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (80)
+Player Gameover44 folds
+Player ChazDazzle folds
+*** FLOP ***: [6h 10c Qh]
+Player Gyrb checks
+Player Clepdog checks
+Player LaikeAbebe checks
+*** TURN ***: [6h 10c Qh] [5d]
+Player Gyrb checks
+Player Clepdog bets (135)
+Player LaikeAbebe calls (135)
+Player Gyrb folds
+*** RIVER ***: [6h 10c Qh 5d] [6d]
+Player Clepdog checks
+Player LaikeAbebe checks
+------ Summary ------
+Pot: 540
+Board: [6h 10c Qh 5d 6d]
+*Player LaikeAbebe shows: Two pairs. 10s and 6s [Ac 10h]. Bets: 215. Collects: 540. Wins: 325.
+Player Gameover44 does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player ChazDazzle does not show cards.Bets: 20. Collects: 0. Loses: 20.
+Player Gyrb does not show cards.Bets: 80. Collects: 0. Loses: 80.
+Player Clepdog shows: One pair of 6s [Kd Js]. Bets: 215. Collects: 0. Loses: 215.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:34:45
+
+Game started at: 2016/8/4 11:34:50
+Game ID: 695304339 10/20 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (1910).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1210).
+Seat 4: Gyrb (1450).
+Seat 5: Clepdog (1640).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1260).
+Seat 8: PocketRockets0011 (3300).
+Player ChazDazzle has small blind (10)
+Player Gyrb has big blind (20)
+Player ChazDazzle received card: [Js]
+Player ChazDazzle received card: [Ad]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player Clepdog raises (40)
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle calls (30)
+Player Gyrb raises (100)
+Player Clepdog calls (80)
+Player ChazDazzle calls (80)
+*** FLOP ***: [2h 5h 10c]
+Player ChazDazzle checks
+Player Gyrb bets (120)
+Player Clepdog calls (120)
+Player ChazDazzle folds
+*** TURN ***: [2h 5h 10c] [9c]
+Player Gyrb bets (180)
+Player Clepdog calls (180)
+*** RIVER ***: [2h 5h 10c 9c] [3s]
+Player Gyrb bets (220)
+Player Clepdog folds
+Uncalled bet (220) returned to Gyrb
+Player Gyrb mucks cards
+------ Summary ------
+Pot: 960
+Board: [2h 5h 10c 9c 3s]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 120. Collects: 0. Loses: 120.
+*Player Gyrb mucks (does not show cards). Bets: 420. Collects: 960. Wins: 540.
+Player Clepdog does not show cards.Bets: 420. Collects: 0. Loses: 420.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:35:31
+
+Game started at: 2016/8/4 11:35:33
+Game ID: 695304664 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (1910).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1090).
+Seat 4: Gyrb (1990).
+Seat 5: Clepdog (1220).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1260).
+Seat 8: PocketRockets0011 (3300).
+Player Gyrb has small blind (15)
+Player Clepdog has big blind (30)
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [10d]
+Player ChazDazzle received card: [Kd]
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle raises (90)
+Player Gyrb folds
+Player Clepdog folds
+Uncalled bet (60) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 75
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 30. Collects: 75. Wins: 45.
+Player Gyrb does not show cards.Bets: 15. Collects: 0. Loses: 15.
+Player Clepdog does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:36:4
+
+Game started at: 2016/8/4 11:36:7
+Game ID: 695304909 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 4 is the button
+Seat 1: LaikeAbebe (1910).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1135).
+Seat 4: Gyrb (1975).
+Seat 5: Clepdog (1190).
+Seat 6: MaxxPower (1410).
+Seat 7: batka (1260).
+Seat 8: PocketRockets0011 (3300).
+Player Clepdog has small blind (15)
+Player MaxxPower has big blind (30)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [6h]
+Player ChazDazzle received card: [4c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb calls (30)
+Player Clepdog calls (15)
+Player MaxxPower checks
+*** FLOP ***: [7s 3s Jd]
+Player Clepdog checks
+Player MaxxPower bets (60)
+Player Gyrb folds
+Player Clepdog calls (60)
+*** TURN ***: [7s 3s Jd] [Qc]
+Player Clepdog checks
+Player MaxxPower checks
+*** RIVER ***: [7s 3s Jd Qc] [Ad]
+Player Clepdog checks
+Player MaxxPower checks
+Player MaxxPower mucks cards
+------ Summary ------
+Pot: 210
+Board: [7s 3s Jd Qc Ad]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 30. Collects: 0. Loses: 30.
+*Player Clepdog shows: One pair of Qs [Qs 9h]. Bets: 90. Collects: 210. Wins: 120.
+Player MaxxPower mucks (does not show cards). Bets: 90. Collects: 0. Loses: 90.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:37:17
+
+Game started at: 2016/8/4 11:37:21
+Game ID: 695305457 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (1910).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1135).
+Seat 4: Gyrb (1945).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1320).
+Seat 7: batka (1260).
+Seat 8: PocketRockets0011 (3300).
+Player MaxxPower has small blind (15)
+Player batka has big blind (30)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [9h]
+Player ChazDazzle received card: [8c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb is timed out.
+Player Gyrb folds
+Player Clepdog folds
+Player MaxxPower folds
+Uncalled bet (15) returned to batka
+Player batka mucks cards
+------ Summary ------
+Pot: 30
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 15. Collects: 0. Loses: 15.
+*Player batka mucks (does not show cards). Bets: 15. Collects: 30. Wins: 15.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:38:5
+
+Game started at: 2016/8/4 11:38:7
+Game ID: 695305796 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (1910).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1135).
+Seat 4: Gyrb (1945).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1275).
+Seat 8: PocketRockets0011 (3300).
+Player batka has small blind (15)
+Player PocketRockets0011 has big blind (30)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Js]
+Player ChazDazzle received card: [Qd]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player LaikeAbebe calls (30)
+Player Gameover44 folds
+Player ChazDazzle calls (30)
+Player Gyrb folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka calls (15)
+Player PocketRockets0011 checks
+*** FLOP ***: [Jd Kc 8h]
+Player batka checks
+Player PocketRockets0011 bets (80)
+Player LaikeAbebe calls (80)
+Player ChazDazzle calls (80)
+Player batka folds
+*** TURN ***: [Jd Kc 8h] [Ac]
+Player PocketRockets0011 checks
+Player LaikeAbebe checks
+Player ChazDazzle bets (240)
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (240)
+*** RIVER ***: [Jd Kc 8h Ac] [6c]
+Player LaikeAbebe checks
+Player ChazDazzle allin (785)
+Player LaikeAbebe folds
+Uncalled bet (785) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 840
+Board: [Jd Kc 8h Ac 6c]
+Player LaikeAbebe does not show cards.Bets: 350. Collects: 0. Loses: 350.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 350. Collects: 840. Wins: 490.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player PocketRockets0011 does not show cards.Bets: 110. Collects: 0. Loses: 110.
+Game ended at: 2016/8/4 11:39:45
+
+Game started at: 2016/8/4 11:39:47
+Game ID: 695306488 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (1560).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1625).
+Seat 4: Gyrb (1945).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1245).
+Seat 8: PocketRockets0011 (3190).
+Player PocketRockets0011 has small blind (15)
+Player LaikeAbebe has big blind (30)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [As]
+Player ChazDazzle received card: [2c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 raises (75)
+Player LaikeAbebe folds
+Uncalled bet (60) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 60
+Player LaikeAbebe does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 30. Collects: 60. Wins: 30.
+Game ended at: 2016/8/4 11:40:17
+
+Game started at: 2016/8/4 11:40:19
+Game ID: 695306719 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (1530).
+Seat 2: Gameover44 (1320).
+Seat 3: ChazDazzle (1625).
+Seat 4: Gyrb (1945).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1245).
+Seat 8: PocketRockets0011 (3220).
+Player LaikeAbebe has small blind (15)
+Player Gameover44 has big blind (30)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Ad]
+Player ChazDazzle received card: [5c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Gyrb calls (30)
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (15)
+Player Gameover44 checks
+*** FLOP ***: [Ah 3d 10s]
+Player LaikeAbebe checks
+Player Gameover44 checks
+Player Gyrb checks
+*** TURN ***: [Ah 3d 10s] [6d]
+Player LaikeAbebe bets (60)
+Player Gameover44 folds
+Player Gyrb folds
+Uncalled bet (60) returned to LaikeAbebe
+Player LaikeAbebe mucks cards
+------ Summary ------
+Pot: 90
+Board: [Ah 3d 10s 6d]
+*Player LaikeAbebe mucks (does not show cards). Bets: 30. Collects: 90. Wins: 60.
+Player Gameover44 does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:41:28
+
+Game started at: 2016/8/4 11:41:30
+Game ID: 695307239 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (1590).
+Seat 2: Gameover44 (1290).
+Seat 3: ChazDazzle (1625).
+Seat 4: Gyrb (1915).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1245).
+Seat 8: PocketRockets0011 (3220).
+Player Gameover44 has small blind (15)
+Player ChazDazzle has big blind (30)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [9c]
+Player ChazDazzle received card: [Jd]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gyrb raises (120)
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (120)
+Player Gameover44 folds
+Player ChazDazzle folds
+*** FLOP ***: [10d 7h Qd]
+Player Gyrb checks
+Player LaikeAbebe checks
+*** TURN ***: [10d 7h Qd] [5s]
+Player Gyrb checks
+Player LaikeAbebe checks
+*** RIVER ***: [10d 7h Qd 5s] [6s]
+Player Gyrb bets (30)
+Player LaikeAbebe calls (30)
+------ Summary ------
+Pot: 345
+Board: [10d 7h Qd 5s 6s]
+*Player LaikeAbebe shows: One pair of 10s [10c Jc]. Bets: 150. Collects: 345. Wins: 195.
+Player Gameover44 does not show cards.Bets: 15. Collects: 0. Loses: 15.
+Player ChazDazzle does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player Gyrb shows: High card A [Js Ac]. Bets: 150. Collects: 0. Loses: 150.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:42:17
+
+Game started at: 2016/8/4 11:42:22
+Game ID: 695307637 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (1785).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1595).
+Seat 4: Gyrb (1765).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1245).
+Seat 8: PocketRockets0011 (3220).
+Player ChazDazzle has small blind (15)
+Player Gyrb has big blind (30)
+Player ChazDazzle received card: [8d]
+Player ChazDazzle received card: [Qs]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player Clepdog folds
+Player MaxxPower folds
+Player batka raises (90)
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb raises (210)
+Player batka folds
+Uncalled bet (150) returned to Gyrb
+Player Gyrb mucks cards
+------ Summary ------
+Pot: 195
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 15. Collects: 0. Loses: 15.
+*Player Gyrb mucks (does not show cards). Bets: 90. Collects: 195. Wins: 105.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 90. Collects: 0. Loses: 90.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:42:56
+
+Game started at: 2016/8/4 11:42:58
+Game ID: 695307912 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (1785).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 4: Gyrb (1870).
+Seat 5: Clepdog (1310).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (1155).
+Seat 8: PocketRockets0011 (3220).
+Player Gyrb has small blind (15)
+Player Clepdog has big blind (30)
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8d]
+Player ChazDazzle received card: [Qc]
+Player MaxxPower folds
+Player batka raises (90)
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (90)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb folds
+Player Clepdog calls (60)
+*** FLOP ***: [2c 4h 9s]
+Player Clepdog checks
+Player batka bets (210)
+Player LaikeAbebe calls (210)
+Player Clepdog folds
+*** TURN ***: [2c 4h 9s] [Qs]
+Player batka checks
+Player LaikeAbebe allin (1485)
+Player batka folds
+Uncalled bet (1485) returned to LaikeAbebe
+Player LaikeAbebe mucks cards
+------ Summary ------
+Pot: 705
+Board: [2c 4h 9s Qs]
+*Player LaikeAbebe mucks (does not show cards). Bets: 300. Collects: 705. Wins: 405.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb does not show cards.Bets: 15. Collects: 0. Loses: 15.
+Player Clepdog does not show cards.Bets: 90. Collects: 0. Loses: 90.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 300. Collects: 0. Loses: 300.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:44:42
+
+Game started at: 2016/8/4 11:44:44
+Game ID: 695308682 15/30 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 4 is the button
+Seat 1: LaikeAbebe (2190).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 4: Gyrb (1855).
+Seat 5: Clepdog (1220).
+Seat 6: MaxxPower (1305).
+Seat 7: batka (855).
+Seat 8: PocketRockets0011 (3220).
+Player Clepdog has small blind (15)
+Player MaxxPower has big blind (30)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [4h]
+Player ChazDazzle received card: [8c]
+Player Gyrb received a card.
+Player Gyrb received a card.
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe raises (90)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Gyrb raises (270)
+Player Clepdog folds
+Player MaxxPower folds
+Player LaikeAbebe raises (510)
+Player Gyrb calls (330)
+*** FLOP ***: [Qc 7c 2s]
+Player LaikeAbebe allin (1590)
+Player Gyrb allin (1255)
+Uncalled bet (335) returned to LaikeAbebe
+*** TURN ***: [Qc 7c 2s] [10d]
+*** RIVER ***: [Qc 7c 2s 10d] [3c]
+------ Summary ------
+Pot: 3755
+Board: [Qc 7c 2s 10d 3c]
+*Player LaikeAbebe shows: One pair of As [As Ah]. Bets: 1855. Collects: 3755. Wins: 1900.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gyrb shows: One pair of 9s [9d 9h]. Bets: 1855. Collects: 0. Loses: 1855.
+Player Clepdog does not show cards.Bets: 15. Collects: 0. Loses: 15.
+Player MaxxPower does not show cards.Bets: 30. Collects: 0. Loses: 30.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:45:43
+
+Game started at: 2016/8/4 11:45:47
+Game ID: 695309131 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1275).
+Seat 7: batka (855).
+Seat 8: PocketRockets0011 (3220).
+Player MaxxPower has small blind (25)
+Player batka has big blind (50)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Qc]
+Player ChazDazzle received card: [10s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 calls (50)
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka checks
+*** FLOP ***: [Qh 5s 7s]
+Player batka checks
+Player PocketRockets0011 checks
+*** TURN ***: [Qh 5s 7s] [8h]
+Player batka checks
+Player PocketRockets0011 bets (63)
+Player batka folds
+Uncalled bet (63) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 125
+Board: [Qh 5s 7s 8h]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player batka does not show cards.Bets: 50. Collects: 0. Loses: 50.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Game ended at: 2016/8/4 11:46:48
+
+Game started at: 2016/8/4 11:46:50
+Game ID: 695309620 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (805).
+Seat 8: PocketRockets0011 (3295).
+Player batka has small blind (25)
+Player PocketRockets0011 has big blind (50)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8d]
+Player ChazDazzle received card: [9c]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Uncalled bet (25) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 50
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 25. Collects: 0. Loses: 25.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 25. Collects: 50. Wins: 25.
+Game ended at: 2016/8/4 11:47:11
+
+Game started at: 2016/8/4 11:47:13
+Game ID: 695309788 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3320).
+Player PocketRockets0011 has small blind (25)
+Player LaikeAbebe has big blind (50)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [10h]
+Player ChazDazzle received card: [7s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka raises (100)
+Player PocketRockets0011 calls (75)
+Player LaikeAbebe calls (50)
+*** FLOP ***: [Ah Ad 6c]
+Player PocketRockets0011 checks
+Player LaikeAbebe checks
+Player batka checks
+*** TURN ***: [Ah Ad 6c] [Ks]
+Player PocketRockets0011 checks
+Player LaikeAbebe is timed out.
+Player LaikeAbebe checks
+Player batka checks
+*** RIVER ***: [Ah Ad 6c Ks] [Ac]
+Player PocketRockets0011 checks
+Player LaikeAbebe checks
+Player batka checks
+Player LaikeAbebe mucks cards
+Player batka mucks cards
+------ Summary ------
+Pot: 300
+Board: [Ah Ad 6c Ks Ac]
+Player LaikeAbebe mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+*Player PocketRockets0011 shows: Three Of Kind of As [Qh Jd]. Bets: 100. Collects: 300. Wins: 200.
+Game ended at: 2016/8/4 11:48:57
+
+Game started at: 2016/8/4 11:49:1
+Game ID: 695310571 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (3990).
+Seat 2: Gameover44 (1275).
+Seat 3: ChazDazzle (1580).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3520).
+Player LaikeAbebe has small blind (25)
+Player Gameover44 has big blind (50)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [6h]
+Player ChazDazzle received card: [Js]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower raises (125)
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Uncalled bet (75) returned to MaxxPower
+Player MaxxPower mucks cards
+------ Summary ------
+Pot: 125
+Player LaikeAbebe does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player Gameover44 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player MaxxPower mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:49:18
+
+Game started at: 2016/8/4 11:49:20
+Game ID: 695310714 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (3965).
+Seat 2: Gameover44 (1225).
+Seat 3: ChazDazzle (1580).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1325).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3520).
+Player Gameover44 has small blind (25)
+Player ChazDazzle has big blind (50)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8c]
+Player ChazDazzle received card: [6s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 raises (150)
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (100) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 125
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player ChazDazzle does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Game ended at: 2016/8/4 11:49:56
+
+Game started at: 2016/8/4 11:49:58
+Game ID: 695310976 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (3965).
+Seat 2: Gameover44 (1200).
+Seat 3: ChazDazzle (1530).
+Seat 5: Clepdog (1205).
+Seat 6: MaxxPower (1325).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3595).
+Player ChazDazzle has small blind (25)
+Player Clepdog has big blind (50)
+Player ChazDazzle received card: [10s]
+Player ChazDazzle received card: [9h]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (25) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 50
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 25. Collects: 0. Loses: 25.
+*Player Clepdog mucks (does not show cards). Bets: 25. Collects: 50. Wins: 25.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:50:7
+
+Game started at: 2016/8/4 11:50:9
+Game ID: 695311061 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (3965).
+Seat 2: Gameover44 (1200).
+Seat 3: ChazDazzle (1505).
+Seat 5: Clepdog (1230).
+Seat 6: MaxxPower (1325).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3595).
+Player Clepdog has small blind (25)
+Player MaxxPower has big blind (50)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [3s]
+Player ChazDazzle received card: [3h]
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 raises (150)
+Player ChazDazzle calls (150)
+Player Clepdog calls (125)
+Player MaxxPower folds
+*** FLOP ***: [5s 8c 6c]
+Player Clepdog checks
+Player Gameover44 checks
+Player ChazDazzle checks
+*** TURN ***: [5s 8c 6c] [2s]
+Player Clepdog checks
+Player Gameover44 bets (334)
+Player ChazDazzle folds
+Player Clepdog folds
+Uncalled bet (334) returned to Gameover44
+Player Gameover44 mucks cards
+------ Summary ------
+Pot: 500
+Board: [5s 8c 6c 2s]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Gameover44 mucks (does not show cards). Bets: 150. Collects: 500. Wins: 350.
+Player ChazDazzle does not show cards.Bets: 150. Collects: 0. Loses: 150.
+Player Clepdog does not show cards.Bets: 150. Collects: 0. Loses: 150.
+Player MaxxPower does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:51:22
+
+Game started at: 2016/8/4 11:51:25
+Game ID: 695311608 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (3965).
+Seat 2: Gameover44 (1550).
+Seat 3: ChazDazzle (1355).
+Seat 5: Clepdog (1080).
+Seat 6: MaxxPower (1275).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3595).
+Player MaxxPower has small blind (25)
+Player batka has big blind (50)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [4s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog raises (100)
+Player MaxxPower folds
+Player batka allin (630)
+Player Clepdog folds
+Uncalled bet (580) returned to batka
+Player batka mucks cards
+------ Summary ------
+Pot: 225
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player MaxxPower does not show cards.Bets: 25. Collects: 0. Loses: 25.
+*Player batka mucks (does not show cards). Bets: 100. Collects: 225. Wins: 125.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:51:59
+
+Game started at: 2016/8/4 11:52:3
+Game ID: 695311885 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (3965).
+Seat 2: Gameover44 (1550).
+Seat 3: ChazDazzle (1355).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (805).
+Seat 8: PocketRockets0011 (3595).
+Player batka has small blind (25)
+Player PocketRockets0011 has big blind (50)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [5d]
+Player ChazDazzle received card: [6d]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player LaikeAbebe raises (150)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 calls (100)
+*** FLOP ***: [Ah 4d 9s]
+Player PocketRockets0011 checks
+Player LaikeAbebe bets (200)
+Player PocketRockets0011 folds
+Uncalled bet (200) returned to LaikeAbebe
+Player LaikeAbebe mucks cards
+------ Summary ------
+Pot: 325
+Board: [Ah 4d 9s]
+*Player LaikeAbebe mucks (does not show cards). Bets: 150. Collects: 325. Wins: 175.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player PocketRockets0011 does not show cards.Bets: 150. Collects: 0. Loses: 150.
+Game ended at: 2016/8/4 11:52:37
+
+Game started at: 2016/8/4 11:52:39
+Game ID: 695312143 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (4140).
+Seat 2: Gameover44 (1550).
+Seat 3: ChazDazzle (1355).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3445).
+Player PocketRockets0011 has small blind (25)
+Player LaikeAbebe has big blind (50)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Jh]
+Player ChazDazzle received card: [As]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle raises (100)
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (50)
+*** FLOP ***: [Jd 3d 4c]
+Player LaikeAbebe checks
+Player ChazDazzle bets (300)
+Player LaikeAbebe folds
+Uncalled bet (300) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 225
+Board: [Jd 3d 4c]
+Player LaikeAbebe does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 100. Collects: 225. Wins: 125.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Game ended at: 2016/8/4 11:53:44
+
+Game started at: 2016/8/4 11:53:46
+Game ID: 695312653 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (4040).
+Seat 2: Gameover44 (1550).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3420).
+Player LaikeAbebe has small blind (25)
+Player Gameover44 has big blind (50)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [3c]
+Player ChazDazzle received card: [5d]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 raises (100)
+Player LaikeAbebe folds
+Player Gameover44 folds
+Uncalled bet (50) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 125
+Player LaikeAbebe does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player Gameover44 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Game ended at: 2016/8/4 11:54:12
+
+Game started at: 2016/8/4 11:54:14
+Game ID: 695312847 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (4015).
+Seat 2: Gameover44 (1500).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3495).
+Player Gameover44 has small blind (25)
+Player ChazDazzle has big blind (50)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [5c]
+Player ChazDazzle received card: [8c]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe raises (150)
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (100) returned to LaikeAbebe
+Player LaikeAbebe mucks cards
+------ Summary ------
+Pot: 125
+*Player LaikeAbebe mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Player Gameover44 does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player ChazDazzle does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:54:38
+
+Game started at: 2016/8/4 11:54:40
+Game ID: 695313028 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1430).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3495).
+Player ChazDazzle has small blind (25)
+Player Clepdog has big blind (50)
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [Kd]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (25) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 50
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 25. Collects: 0. Loses: 25.
+*Player Clepdog mucks (does not show cards). Bets: 25. Collects: 50. Wins: 25.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:54:49
+
+Game started at: 2016/8/4 11:54:53
+Game ID: 695313119 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1405).
+Seat 5: Clepdog (1005).
+Seat 6: MaxxPower (1250).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3495).
+Player Clepdog has small blind (25)
+Player MaxxPower has big blind (50)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [10c]
+Player ChazDazzle received card: [10h]
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle raises (200)
+Player Clepdog folds
+Player MaxxPower folds
+Uncalled bet (150) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 125
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 50. Collects: 125. Wins: 75.
+Player Clepdog does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player MaxxPower does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:55:13
+
+Game started at: 2016/8/4 11:55:16
+Game ID: 695313219 25/50 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (4090).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1200).
+Seat 7: batka (780).
+Seat 8: PocketRockets0011 (3495).
+Player MaxxPower has small blind (25)
+Player batka has big blind (50)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [5d]
+Player ChazDazzle received card: [10s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 calls (50)
+Player LaikeAbebe calls (50)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka checks
+*** FLOP ***: [4h 4d 7c]
+Player batka checks
+Player PocketRockets0011 checks
+Player LaikeAbebe checks
+*** TURN ***: [4h 4d 7c] [5s]
+Player batka checks
+Player PocketRockets0011 bets (50)
+Player LaikeAbebe calls (50)
+Player batka calls (50)
+*** RIVER ***: [4h 4d 7c 5s] [8c]
+Player batka checks
+Player PocketRockets0011 checks
+Player LaikeAbebe checks
+Player LaikeAbebe mucks cards
+Player batka mucks cards
+------ Summary ------
+Pot: 325
+Board: [4h 4d 7c 5s 8c]
+Player LaikeAbebe mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 25. Collects: 0. Loses: 25.
+Player batka mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+*Player PocketRockets0011 shows: Three Of Kind of 4s [4s As]. Bets: 100. Collects: 325. Wins: 225.
+Game ended at: 2016/8/4 11:56:38
+
+Game started at: 2016/8/4 11:56:44
+Game ID: 695313620 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (3990).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (680).
+Seat 8: PocketRockets0011 (3720).
+Player batka has small blind (50)
+Player PocketRockets0011 has big blind (100)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8d]
+Player ChazDazzle received card: [9h]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Uncalled bet (50) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 100
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 50. Collects: 0. Loses: 50.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 50. Collects: 100. Wins: 50.
+Game ended at: 2016/8/4 11:57:0
+
+Game started at: 2016/8/4 11:57:3
+Game ID: 695313719 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (3990).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (980).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3770).
+Player PocketRockets0011 has small blind (50)
+Player LaikeAbebe has big blind (100)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Qh]
+Player ChazDazzle received card: [9c]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog raises (200)
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe allin (3890)
+Player Clepdog allin (780)
+Uncalled bet (3010) returned to LaikeAbebe
+*** FLOP ***: [4s 3d 4c]
+*** TURN ***: [4s 3d 4c] [8h]
+*** RIVER ***: [4s 3d 4c 8h] [Qd]
+------ Summary ------
+Pot: 2010
+Board: [4s 3d 4c 8h Qd]
+Player LaikeAbebe shows: One pair of 4s [Ah 7h]. Bets: 980. Collects: 0. Loses: 980.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Clepdog shows: Two pairs. Js and 4s [Jh Jd]. Bets: 980. Collects: 2010. Wins: 1030.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Game ended at: 2016/8/4 11:57:41
+
+Game started at: 2016/8/4 11:57:45
+Game ID: 695313910 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (3010).
+Seat 2: Gameover44 (1475).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3720).
+Player LaikeAbebe has small blind (50)
+Player Gameover44 has big blind (100)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [5c]
+Player ChazDazzle received card: [7h]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (50)
+Player Gameover44 checks
+*** FLOP ***: [Jc 4d 4h]
+Player LaikeAbebe checks
+Player Gameover44 checks
+*** TURN ***: [Jc 4d 4h] [9c]
+Player LaikeAbebe checks
+Player Gameover44 checks
+*** RIVER ***: [Jc 4d 4h 9c] [3h]
+Player LaikeAbebe checks
+Player Gameover44 checks
+Player Gameover44 mucks cards
+------ Summary ------
+Pot: 200
+Board: [Jc 4d 4h 9c 3h]
+*Player LaikeAbebe shows: One pair of 4s [As 8d]. Bets: 100. Collects: 200. Wins: 100.
+Player Gameover44 mucks (does not show cards). Bets: 100. Collects: 0. Loses: 100.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:58:55
+
+Game started at: 2016/8/4 11:58:59
+Game ID: 695314272 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (3110).
+Seat 2: Gameover44 (1375).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3720).
+Player Gameover44 has small blind (50)
+Player ChazDazzle has big blind (100)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [2h]
+Player ChazDazzle received card: [4c]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Clepdog folds
+Player MaxxPower allin (1175)
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Uncalled bet (1075) returned to MaxxPower
+Player MaxxPower mucks cards
+------ Summary ------
+Pot: 250
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player ChazDazzle does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player MaxxPower mucks (does not show cards). Bets: 100. Collects: 250. Wins: 150.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:59:33
+
+Game started at: 2016/8/4 11:59:36
+Game ID: 695314444 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 2 is the button
+Seat 1: LaikeAbebe (3110).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1380).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1325).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3720).
+Player ChazDazzle has small blind (50)
+Player Clepdog has big blind (100)
+Player ChazDazzle received card: [Jd]
+Player ChazDazzle received card: [Ah]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle raises (350)
+Player Clepdog folds
+Uncalled bet (300) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 200
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 100. Collects: 200. Wins: 100.
+Player Clepdog does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 11:59:59
+
+Game started at: 2016/8/4 12:0:2
+Game ID: 695314568 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (3110).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1480).
+Seat 5: Clepdog (1910).
+Seat 6: MaxxPower (1325).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3720).
+Player Clepdog has small blind (50)
+Player MaxxPower has big blind (100)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Ah]
+Player ChazDazzle received card: [10d]
+Player batka folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle raises (400)
+Player Clepdog folds
+Player MaxxPower folds
+Uncalled bet (300) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 250
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player ChazDazzle mucks (does not show cards). Bets: 100. Collects: 250. Wins: 150.
+Player Clepdog does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player MaxxPower does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player batka does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 12:0:32
+
+Game started at: 2016/8/4 12:0:34
+Game ID: 695314737 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (3110).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1630).
+Seat 5: Clepdog (1860).
+Seat 6: MaxxPower (1225).
+Seat 7: batka (630).
+Seat 8: PocketRockets0011 (3720).
+Player MaxxPower has small blind (50)
+Player batka has big blind (100)
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [4d]
+Player ChazDazzle received card: [5c]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog raises (200)
+Player MaxxPower folds
+Player batka folds
+Uncalled bet (100) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 250
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player Clepdog mucks (does not show cards). Bets: 100. Collects: 250. Wins: 150.
+Player MaxxPower does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player batka does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 12:1:7
+
+Game started at: 2016/8/4 12:1:9
+Game ID: 695314938 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 6 is the button
+Seat 1: LaikeAbebe (3110).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1630).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (530).
+Seat 8: PocketRockets0011 (3720).
+Player batka has small blind (50)
+Player PocketRockets0011 has big blind (100)
+Player batka received a card.
+Player batka received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [8c]
+Player ChazDazzle received card: [8h]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player LaikeAbebe calls (100)
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka folds
+Player PocketRockets0011 checks
+*** FLOP ***: [2c 2s 6h]
+Player PocketRockets0011 bets (125)
+Player LaikeAbebe folds
+Uncalled bet (125) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 250
+Board: [2c 2s 6h]
+Player LaikeAbebe does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka does not show cards.Bets: 50. Collects: 0. Loses: 50.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 100. Collects: 250. Wins: 150.
+Game ended at: 2016/8/4 12:1:41
+
+Game started at: 2016/8/4 12:1:45
+Game ID: 695315228 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 7 is the button
+Seat 1: LaikeAbebe (3010).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1630).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 7: batka (480).
+Seat 8: PocketRockets0011 (3870).
+Player PocketRockets0011 has small blind (50)
+Player LaikeAbebe has big blind (100)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [Kd]
+Player ChazDazzle received card: [6d]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player batka received a card.
+Player batka received a card.
+Player Gameover44 folds
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player batka allin (480)
+Player PocketRockets0011 folds
+Player LaikeAbebe calls (380)
+*** FLOP ***: [Qc 3c 3s]
+*** TURN ***: [Qc 3c 3s] [Jd]
+*** RIVER ***: [Qc 3c 3s Jd] [5d]
+------ Summary ------
+Pot: 1010
+Board: [Qc 3c 3s Jd 5d]
+*Player LaikeAbebe shows: Two pairs. Js and 3s [9h Jc]. Bets: 480. Collects: 1010. Wins: 530.
+Player Gameover44 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player batka shows: One pair of 3s [9d 8d]. Bets: 480. Collects: 0. Loses: 480.
+Player PocketRockets0011 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Game ended at: 2016/8/4 12:2:11
+
+Game started at: 2016/8/4 12:2:16
+Game ID: 695315427 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (3540).
+Seat 2: Gameover44 (1325).
+Seat 3: ChazDazzle (1630).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 8: PocketRockets0011 (3820).
+Player LaikeAbebe has small blind (50)
+Player Gameover44 has big blind (100)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [6d]
+Player ChazDazzle received card: [Ad]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player ChazDazzle folds
+Player Clepdog folds
+Player MaxxPower folds
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Uncalled bet (50) returned to Gameover44
+Player Gameover44 mucks cards
+------ Summary ------
+Pot: 100
+Player LaikeAbebe does not show cards.Bets: 50. Collects: 0. Loses: 50.
+*Player Gameover44 mucks (does not show cards). Bets: 50. Collects: 100. Wins: 50.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 12:2:39
+
+Game started at: 2016/8/4 12:2:42
+Game ID: 695315628 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (3490).
+Seat 2: Gameover44 (1375).
+Seat 3: ChazDazzle (1630).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 8: PocketRockets0011 (3820).
+Player Gameover44 has small blind (50)
+Player ChazDazzle has big blind (100)
+Player Gameover44 received a card.
+Player Gameover44 received a card.
+Player ChazDazzle received card: [6c]
+Player ChazDazzle received card: [5d]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player Clepdog folds
+Player MaxxPower folds
+Player PocketRockets0011 raises (200)
+Player LaikeAbebe folds
+Player Gameover44 allin (1325)
+Player ChazDazzle folds
+Player PocketRockets0011 calls (1175)
+*** FLOP ***: [10d 4d As]
+*** TURN ***: [10d 4d As] [8s]
+*** RIVER ***: [10d 4d As 8s] [Ah]
+------ Summary ------
+Pot: 2850
+Board: [10d 4d As 8s Ah]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Gameover44 shows: One pair of As [Qs Kc]. Bets: 1375. Collects: 0. Loses: 1375.
+Player ChazDazzle does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player MaxxPower does not show cards.Bets: 0. Collects: 0. Wins: 0.
+*Player PocketRockets0011 shows: Two pairs. As and 6s [6d 6s]. Bets: 1375. Collects: 2850. Wins: 1475.
+Game ended at: 2016/8/4 12:3:32
+
+Game started at: 2016/8/4 12:3:36
+Game ID: 695316059 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (3490).
+Seat 3: ChazDazzle (1530).
+Seat 5: Clepdog (2010).
+Seat 6: MaxxPower (1175).
+Seat 8: PocketRockets0011 (5295).
+Player Clepdog has small blind (50)
+Player MaxxPower has big blind (100)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player MaxxPower received a card.
+Player MaxxPower received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player ChazDazzle received card: [7d]
+Player ChazDazzle received card: [7h]
+Player PocketRockets0011 folds
+Player LaikeAbebe raises (300)
+Player ChazDazzle calls (300)
+Player Clepdog folds
+Player MaxxPower allin (1075)
+Player LaikeAbebe allin (3190)
+Player ChazDazzle folds
+Uncalled bet (2315) returned to LaikeAbebe
+*** FLOP ***: [2c Qd Jd]
+*** TURN ***: [2c Qd Jd] [8c]
+*** RIVER ***: [2c Qd Jd 8c] [Jc]
+------ Summary ------
+Pot: 2700
+Board: [2c Qd Jd 8c Jc]
+*Player LaikeAbebe shows: Two pairs. Js and 9s [9c 9h]. Bets: 1175. Collects: 2700. Wins: 1525.
+Player ChazDazzle does not show cards.Bets: 300. Collects: 0. Loses: 300.
+Player Clepdog does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player MaxxPower shows: One pair of Js [As Kc]. Bets: 1175. Collects: 0. Loses: 1175.
+Player PocketRockets0011 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/4 12:4:14
+
+Game started at: 2016/8/4 12:4:18
+Game ID: 695316358 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (5015).
+Seat 3: ChazDazzle (1230).
+Seat 5: Clepdog (1960).
+Seat 8: PocketRockets0011 (5295).
+Player PocketRockets0011 has small blind (50)
+Player LaikeAbebe has big blind (100)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player ChazDazzle received card: [Ah]
+Player ChazDazzle received card: [8s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player ChazDazzle raises (200)
+Player Clepdog raises (1230)
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+Player ChazDazzle folds
+Uncalled bet (1030) returned to Clepdog
+Player Clepdog mucks cards
+------ Summary ------
+Pot: 550
+Player LaikeAbebe does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player ChazDazzle does not show cards.Bets: 200. Collects: 0. Loses: 200.
+*Player Clepdog mucks (does not show cards). Bets: 200. Collects: 550. Wins: 350.
+Player PocketRockets0011 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Game ended at: 2016/8/4 12:4:47
+
+Game started at: 2016/8/4 12:4:51
+Game ID: 695316590 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 8 is the button
+Seat 1: LaikeAbebe (4915).
+Seat 3: ChazDazzle (1030).
+Seat 5: Clepdog (2310).
+Seat 8: PocketRockets0011 (5245).
+Player LaikeAbebe has small blind (50)
+Player ChazDazzle has big blind (100)
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player ChazDazzle received card: [2s]
+Player ChazDazzle received card: [Ac]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player Clepdog folds
+Player PocketRockets0011 raises (200)
+Player LaikeAbebe folds
+Player ChazDazzle allin (930)
+Player PocketRockets0011 folds
+Uncalled bet (830) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 450
+Player LaikeAbebe does not show cards.Bets: 50. Collects: 0. Loses: 50.
+*Player ChazDazzle mucks (does not show cards). Bets: 200. Collects: 450. Wins: 250.
+Player Clepdog does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player PocketRockets0011 does not show cards.Bets: 200. Collects: 0. Loses: 200.
+Game ended at: 2016/8/4 12:5:12
+
+Game started at: 2016/8/4 12:5:15
+Game ID: 695316760 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: LaikeAbebe (4865).
+Seat 3: ChazDazzle (1280).
+Seat 5: Clepdog (2310).
+Seat 8: PocketRockets0011 (5045).
+Player ChazDazzle has small blind (50)
+Player Clepdog has big blind (100)
+Player ChazDazzle received card: [4h]
+Player ChazDazzle received card: [10s]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player PocketRockets0011 raises (200)
+Player LaikeAbebe folds
+Player ChazDazzle folds
+Player Clepdog folds
+Uncalled bet (100) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 250
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Player Clepdog does not show cards.Bets: 100. Collects: 0. Loses: 100.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 100. Collects: 250. Wins: 150.
+Game ended at: 2016/8/4 12:5:31
+
+Game started at: 2016/8/4 12:5:34
+Game ID: 695316865 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 3 is the button
+Seat 1: LaikeAbebe (4865).
+Seat 3: ChazDazzle (1230).
+Seat 5: Clepdog (2210).
+Seat 8: PocketRockets0011 (5195).
+Player Clepdog has small blind (50)
+Player PocketRockets0011 has big blind (100)
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player ChazDazzle received card: [Qc]
+Player ChazDazzle received card: [4c]
+Player LaikeAbebe folds
+Player ChazDazzle folds
+Player Clepdog raises (150)
+Player PocketRockets0011 calls (100)
+*** FLOP ***: [5c Ac 8d]
+Player Clepdog bets (100)
+Player PocketRockets0011 calls (100)
+*** TURN ***: [5c Ac 8d] [5s]
+Player Clepdog checks
+Player PocketRockets0011 bets (300)
+Player Clepdog folds
+Uncalled bet (300) returned to PocketRockets0011
+Player PocketRockets0011 mucks cards
+------ Summary ------
+Pot: 600
+Board: [5c Ac 8d 5s]
+Player LaikeAbebe does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Clepdog does not show cards.Bets: 300. Collects: 0. Loses: 300.
+*Player PocketRockets0011 mucks (does not show cards). Bets: 300. Collects: 600. Wins: 300.
+Game ended at: 2016/8/4 12:6:31
+
+Game started at: 2016/8/4 12:6:33
+Game ID: 695317268 50/100 $5 Regular 9-Max, Table 1 (Hold'em)
+Seat 5 is the button
+Seat 1: LaikeAbebe (4865).
+Seat 3: ChazDazzle (1230).
+Seat 5: Clepdog (1910).
+Seat 8: PocketRockets0011 (5495).
+Player PocketRockets0011 has small blind (50)
+Player LaikeAbebe has big blind (100)
+Player PocketRockets0011 received a card.
+Player PocketRockets0011 received a card.
+Player LaikeAbebe received a card.
+Player LaikeAbebe received a card.
+Player ChazDazzle received card: [Kc]
+Player ChazDazzle received card: [9h]
+Player Clepdog received a card.
+Player Clepdog received a card.
+Player ChazDazzle allin (1230)
+Player Clepdog calls (1230)
+Player PocketRockets0011 folds
+Player LaikeAbebe folds
+*** FLOP ***: [4s As 6s]
+*** TURN ***: [4s As 6s] [8s]
+*** RIVER ***: [4s As 6s 8s] [6c]
+------ Summary ------
+Pot: 2610
+Board: [4s As 6s 8s 6c]
+Player LaikeAbebe does not show cards.Bets: 100. Collects: 0. Loses: 100.
+Player ChazDazzle shows: One pair of 6s [Kc 9h]. Bets: 1230. Collects: 0. Loses: 1230.
+*Player Clepdog shows: Two pairs. As and 6s [Kd Ah]. Bets: 1230. Collects: 2610. Wins: 1380.
+Player PocketRockets0011 does not show cards.Bets: 50. Collects: 0. Loses: 50.
+Game ended at: 2016/8/4 12:7:0
+

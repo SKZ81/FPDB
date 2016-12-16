@@ -1,0 +1,26 @@
+Game started at: 2016/8/2 10:53:49
+Game ID: 693968595 2/4 Airavata 2 (Hold'em)
+Seat 2 is the button
+Seat 1: ChazDazzle (20).
+Seat 2: only_luck (80).
+Player only_luck has small blind (1)
+Player ChazDazzle has big blind (2)
+Player ChazDazzle received card: [5h]
+Player ChazDazzle received card: [9s]
+Player only_luck received a card.
+Player only_luck received a card.
+Player only_luck raises (3)
+Player ChazDazzle calls (2)
+*** FLOP ***: [Qc 2s 4c]
+Player ChazDazzle checks
+Player only_luck bets (2)
+Player ChazDazzle folds
+Uncalled bet (2) returned to only_luck
+Player only_luck mucks cards
+------ Summary ------
+Pot: 7.85. Rake 0.15
+Board: [Qc 2s 4c]
+Player ChazDazzle does not show cards.Bets: 4. Collects: 0. Loses: 4.
+*Player only_luck mucks (does not show cards). Bets: 4. Collects: 7.85. Wins: 3.85.
+Game ended at: 2016/8/2 10:54:10
+

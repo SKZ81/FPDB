@@ -1,0 +1,32 @@
+Game started at: 2016/8/4 13:56:8
+Game ID: 695367612 10/20 $2.20 Turbo Heads-up, Table 1 (Hold'em)
+Seat 1 is the button
+Seat 1: NEVERSLICE (1500).
+Seat 2: ChazDazzle (1500).
+Player NEVERSLICE has small blind (10)
+Player ChazDazzle has big blind (20)
+Player ChazDazzle received card: [Kc]
+Player ChazDazzle received card: [Qs]
+Player NEVERSLICE received a card.
+Player NEVERSLICE received a card.
+Player NEVERSLICE raises (30)
+Player ChazDazzle raises (40)
+Player NEVERSLICE calls (20)
+*** FLOP ***: [3h 4s 3d]
+Player ChazDazzle bets (20)
+Player NEVERSLICE calls (20)
+*** TURN ***: [3h 4s 3d] [8s]
+Player ChazDazzle bets (100)
+Player NEVERSLICE calls (100)
+*** RIVER ***: [3h 4s 3d 8s] [Jc]
+Player ChazDazzle bets (200)
+Player NEVERSLICE raises (475)
+Player ChazDazzle allin (1120)
+Player NEVERSLICE allin (845)
+------ Summary ------
+Pot: 3000
+Board: [3h 4s 3d 8s Jc]
+*Player NEVERSLICE shows: Full House (3/8) [8c 3c]. Bets: 1500. Collects: 3000. Wins: 1500.
+Player ChazDazzle shows: One pair of 3s [Kc Qs]. Bets: 1500. Collects: 0. Loses: 1500.
+Game ended at: 2016/8/4 13:57:33
+

@@ -1,0 +1,39 @@
+Game started at: 2015/5/1 16:37:50
+Game ID: 10005881 2.50/5 Jordan (Omaha)
+Seat 2 is the button
+Seat 1: Player0 (288.25).
+Seat 2: Player1 (236.79).
+Seat 5: Player2 (333.81).
+Seat 6: Player3 (419.72).
+Player Player2 is timed out.
+Player Player2 sitting out
+Player Player0 has small blind (2.50)
+Player Player1 has big blind (5)
+Player Player0 received a card.
+Player Player0 received a card.
+Player Player0 received a card.
+Player Player0 received a card.
+Player Player1 received a card.
+Player Player1 received a card.
+Player Player1 received a card.
+Player Player1 received a card.
+Player Player0 calls (2.50)
+Player Player1 checks
+*** FLOP ***: [6h Kc Jc]
+Player Player0 checks
+Player Player1 checks
+*** TURN ***: [6h Kc Jc] [Js]
+Player Player0 checks
+Player Player1 bets (10)
+Player Player0 folds
+Uncalled bet (10) returned to Player1
+Player Player1 mucks cards
+------ Summary ------
+Pot: 9.70. Rake 0.30
+Board: [6h Kc Jc Js]
+Player Player0 does not show cards.Bets: 5. Collects: 0. Loses: 5.
+*Player Player1 mucks (does not show cards). Bets: 5. Collects: 9.70. Wins: 4.70.
+Player Player2 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player Player3 does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2015/5/1 16:38:26
+

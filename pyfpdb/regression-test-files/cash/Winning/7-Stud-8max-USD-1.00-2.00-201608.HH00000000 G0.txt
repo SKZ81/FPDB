@@ -1,0 +1,135 @@
+Game started at: 2016/8/2 11:17:19
+Game ID: 693977667 1/2 (PRR) Leyak (Seven Cards Stud)
+Seat 1: ChazDazzle (10).
+Seat 5: Nee (50).
+Player ChazDazzle ante (0.15)
+Player Nee ante (0.15)
+Player ChazDazzle received card: [5d]
+Player ChazDazzle received card: [Ah]
+Player Nee received a card.
+Player Nee received a card.
+Player ChazDazzle received card: [Jh]
+Player Nee received card: [2d]
+Player Nee bring in (0.40)
+Player ChazDazzle calls (0.40)
+*** Third street ***
+Player ChazDazzle received card: [10d]
+Player Nee received card: [5c]
+Player ChazDazzle bets (1)
+Player Nee folds
+Uncalled bet (1) returned to ChazDazzle
+Player ChazDazzle mucks cards
+------ Summary ------
+Pot: 1.10. Rake 0
+*Player ChazDazzle mucks (does not show cards). Bets: 0.55. Collects: 1.10. Wins: 0.55.
+Player Nee does not show cards.Bets: 0.55. Collects: 0. Loses: 0.55.
+Game ended at: 2016/8/2 11:17:41
+
+Game started at: 2016/8/2 11:17:44
+Game ID: 693977839 1/2 (PRR) Leyak (Seven Cards Stud)
+Seat 1: ChazDazzle (10.55).
+Seat 5: Nee (49.45).
+Player ChazDazzle ante (0.15)
+Player Nee ante (0.15)
+Player ChazDazzle received card: [Js]
+Player ChazDazzle received card: [5s]
+Player Nee received a card.
+Player Nee received a card.
+Player ChazDazzle received card: [Ac]
+Player Nee received card: [8d]
+Player Nee bring in (0.40)
+Player ChazDazzle raises (1)
+Player Nee calls (0.60)
+*** Third street ***
+Player ChazDazzle received card: [9h]
+Player Nee received card: [Qd]
+Player ChazDazzle bets (1)
+Player Nee calls (1)
+*** Fourth street ***
+Player ChazDazzle received card: [5d]
+Player Nee received card: [As]
+Player Nee bets (2)
+Player ChazDazzle calls (2)
+*** Fifth street ***
+Player ChazDazzle received card: [3h]
+Player Nee received card: [5h]
+Player Nee bets (2)
+Player ChazDazzle folds
+Uncalled bet (2) returned to Nee
+Player Nee mucks cards
+------ Summary ------
+Pot: 8.15. Rake 0.11. JP fee 0.04
+Player ChazDazzle does not show cards.Bets: 4.15. Collects: 0. Loses: 4.15.
+*Player Nee mucks (does not show cards). Bets: 4.15. Collects: 8.15. Wins: 4.
+Game ended at: 2016/8/2 11:18:15
+
+Game started at: 2016/8/2 11:18:18
+Game ID: 693978063 1/2 (PRR) Leyak (Seven Cards Stud)
+Seat 1: ChazDazzle (6.40).
+Seat 5: Nee (53.45).
+Player ChazDazzle ante (0.15)
+Player Nee ante (0.15)
+Player ChazDazzle received card: [Qc]
+Player ChazDazzle received card: [10s]
+Player Nee received a card.
+Player Nee received a card.
+Player ChazDazzle received card: [7d]
+Player Nee received card: [3c]
+Player Nee bring in (0.40)
+Player ChazDazzle calls (0.40)
+*** Third street ***
+Player ChazDazzle received card: [9c]
+Player Nee received card: [4h]
+Player ChazDazzle checks
+Player Nee checks
+*** Fourth street ***
+Player ChazDazzle received card: [6c]
+Player Nee received card: [5d]
+Player ChazDazzle bets (2)
+Player Nee raises (4)
+Player ChazDazzle calls (2)
+*** Fifth street ***
+Player ChazDazzle received card: [Qd]
+Player Nee received card: [10c]
+Player ChazDazzle checks
+Player Nee checks
+*** Sixth street ***
+Player ChazDazzle received card: [7h]
+Player Nee received a card.
+Player ChazDazzle checks
+Player Nee checks
+Player Nee mucks cards
+------ Summary ------
+Pot: 8.95. Rake 0.11. JP fee 0.04
+*Player ChazDazzle shows: Two pairs. Qs and 7s [Qc 10s 7d 9c 6c Qd 7h]. Bets: 4.55. Collects: 8.95. Wins: 4.40.
+Player Nee mucks (does not show cards). Bets: 4.55. Collects: 0. Loses: 4.55.
+Game ended at: 2016/8/2 11:19:4
+
+Game started at: 2016/8/2 11:19:9
+Game ID: 693978378 1/2 (PRR) Leyak (Seven Cards Stud)
+Seat 1: ChazDazzle (10.80).
+Seat 5: Nee (48.90).
+Player ChazDazzle ante (0.15)
+Player Nee ante (0.15)
+Player ChazDazzle received card: [8h]
+Player ChazDazzle received card: [7d]
+Player Nee received a card.
+Player Nee received a card.
+Player ChazDazzle received card: [4d]
+Player Nee received card: [6d]
+Player ChazDazzle bring in (0.40)
+Player Nee raises (1)
+Player ChazDazzle calls (0.60)
+*** Third street ***
+Player ChazDazzle received card: [Jc]
+Player Nee received card: [Qh]
+Player Nee bets (1)
+Player ChazDazzle folds
+Uncalled bet (1) returned to Nee
+Player Nee mucks cards
+------ Summary ------
+Pot: 2.30. Rake 0
+Player ChazDazzle does not show cards.Bets: 1.15. Collects: 0. Loses: 1.15.
+*Player Nee mucks (does not show cards). Bets: 1.15. Collects: 2.30. Wins: 1.15.
+Game ended at: 2016/8/2 11:19:31
+

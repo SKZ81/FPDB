@@ -1,0 +1,30 @@
+Game started at: 2016/8/8 16:19:14
+Game ID: 698333926 5/10 PM Hold`em 5/10 6-max - 2 (Hold'em)
+Seat 5 is the button
+Seat 2: jayz0204 (1061.41).
+Seat 4: ChazDazzle (200).
+Seat 5: Sean LeBlanc (1128.50).
+Player jayz0204 has small blind (5)
+Player ChazDazzle has big blind (10)
+Player jayz0204 received a card.
+Player jayz0204 received a card.
+Player ChazDazzle received card: [8h]
+Player ChazDazzle received card: [7d]
+Player Sean LeBlanc received a card.
+Player Sean LeBlanc received a card.
+Player Sean LeBlanc folds
+Player jayz0204 calls (5)
+Player ChazDazzle checks
+*** FLOP ***: [Qs 5d Kc]
+Player jayz0204 bets (30)
+Player ChazDazzle folds
+Uncalled bet (30) returned to jayz0204
+Player jayz0204 mucks cards
+------ Summary ------
+Pot: 19. Rake 1
+Board: [Qs 5d Kc]
+*Player jayz0204 mucks (does not show cards). Bets: 10. Collects: 19. Wins: 9.
+Player ChazDazzle does not show cards.Bets: 10. Collects: 0. Loses: 10.
+Player Sean LeBlanc does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Game ended at: 2016/8/8 16:19:42
+

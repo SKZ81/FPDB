@@ -1,0 +1,201 @@
+Game started at: 2016/8/2 11:16:59
+Game ID: 693977531 0.10/0.25 (PRR) Elepaio (Omaha HiLow)
+Seat 4 is the button
+Seat 1: fullstacker (37.15).
+Seat 3: ChazDazzle (10).
+Seat 4: ramair7 (15.30).
+Player fullstacker has small blind (0.10)
+Player ChazDazzle has big blind (0.25)
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player ChazDazzle received card: [10h]
+Player ChazDazzle received card: [Jc]
+Player ChazDazzle received card: [8s]
+Player ChazDazzle received card: [4d]
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 calls (0.25)
+Player fullstacker folds
+Player ChazDazzle checks
+*** FLOP ***: [5d 3s 3h]
+Player ChazDazzle checks
+Player ramair7 bets (0.25)
+Player ChazDazzle folds
+Uncalled bet (0.25) returned to ramair7
+Player ramair7 mucks cards
+------ Summary ------
+Pot: 0.57. Rake 0.03
+Board: [5d 3s 3h]
+Player fullstacker does not show cards.Bets: 0.10. Collects: 0. Loses: 0.10.
+Player ChazDazzle does not show cards.Bets: 0.25. Collects: 0. Loses: 0.25.
+*Player ramair7 mucks (does not show cards). Bets: 0.25. Collects: 0.57. Wins: 0.32.
+Game ended at: 2016/8/2 11:17:14
+
+Game started at: 2016/8/2 11:17:56
+Game ID: 693977937 0.10/0.25 (PRR) Elepaio (Omaha HiLow)
+Seat 4 is the button
+Seat 1: fullstacker (36.29).
+Seat 3: ChazDazzle (9.75).
+Seat 4: ramair7 (16.24).
+Player fullstacker has small blind (0.10)
+Player ChazDazzle has big blind (0.25)
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player ChazDazzle received card: [Qd]
+Player ChazDazzle received card: [Kc]
+Player ChazDazzle received card: [Kh]
+Player ChazDazzle received card: [5d]
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 calls (0.25)
+Player fullstacker folds
+Player ChazDazzle checks
+*** FLOP ***: [5s 2c 9h]
+Player ChazDazzle checks
+Player ramair7 bets (0.28)
+Player ChazDazzle folds
+Uncalled bet (0.28) returned to ramair7
+Player ramair7 mucks cards
+------ Summary ------
+Pot: 0.57. Rake 0.03
+Board: [5s 2c 9h]
+Player fullstacker does not show cards.Bets: 0.10. Collects: 0. Loses: 0.10.
+Player ChazDazzle does not show cards.Bets: 0.25. Collects: 0. Loses: 0.25.
+*Player ramair7 mucks (does not show cards). Bets: 0.25. Collects: 0.57. Wins: 0.32.
+Game ended at: 2016/8/2 11:18:27
+
+Game started at: 2016/8/2 11:18:29
+Game ID: 693978138 0.10/0.25 (PRR) Elepaio (Omaha HiLow)
+Seat 1 is the button
+Seat 1: fullstacker (36.19).
+Seat 3: ChazDazzle (9.50).
+Seat 4: ramair7 (16.56).
+Player ChazDazzle has small blind (0.10)
+Player ramair7 has big blind (0.25)
+Player ChazDazzle received card: [8h]
+Player ChazDazzle received card: [9d]
+Player ChazDazzle received card: [Kd]
+Player ChazDazzle received card: [Kc]
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker raises (0.85)
+Player ChazDazzle folds
+Player ramair7 calls (0.60)
+*** FLOP ***: [Js 4c 5s]
+Player ramair7 checks
+Player fullstacker bets (1.20)
+Player ramair7 calls (1.20)
+*** TURN ***: [Js 4c 5s] [3s]
+Player ramair7 checks
+Player fullstacker bets (2.90)
+Player ramair7 folds
+Uncalled bet (2.90) returned to fullstacker
+Player fullstacker mucks cards
+------ Summary ------
+Pot: 3.99. Rake 0.15. JP fee 0.06
+Board: [Js 4c 5s 3s]
+*Player fullstacker mucks (does not show cards). Bets: 2.05. Collects: 3.99. Wins: 1.94.
+Player ChazDazzle does not show cards.Bets: 0.10. Collects: 0. Loses: 0.10.
+Player ramair7 does not show cards.Bets: 2.05. Collects: 0. Loses: 2.05.
+Game ended at: 2016/8/2 11:19:3
+
+Game started at: 2016/8/2 11:19:5
+Game ID: 693978351 0.10/0.25 (PRR) Elepaio (Omaha HiLow)
+Seat 3 is the button
+Seat 1: fullstacker (38.13).
+Seat 3: ChazDazzle (9.40).
+Seat 4: ramair7 (14.51).
+Player ramair7 has small blind (0.10)
+Player fullstacker has big blind (0.25)
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player ChazDazzle received card: [4h]
+Player ChazDazzle received card: [Js]
+Player ChazDazzle received card: [3s]
+Player ChazDazzle received card: [9h]
+Player ChazDazzle folds
+Player ramair7 calls (0.15)
+Player fullstacker checks
+*** FLOP ***: [5s 7h 4d]
+Player ramair7 checks
+Player fullstacker bets (0.25)
+Player ramair7 calls (0.25)
+*** TURN ***: [5s 7h 4d] [3h]
+Player ramair7 checks
+Player fullstacker checks
+*** RIVER ***: [5s 7h 4d 3h] [Ah]
+Player ramair7 checks
+Player fullstacker checks
+Player ramair7 mucks cards
+------ Summary ------
+Pot: 0.95. Rake 0.05
+Board: [5s 7h 4d 3h Ah]
+*Player fullstacker shows: Flush, A high [2s 8h 2h Jd] Low hand (A A 2 3 4 8 ).Bets: 0.50. Collects: 0.95. Wins: 0.45.
+Player ChazDazzle does not show cards.Bets: 0. Collects: 0. Wins: 0.
+Player ramair7 mucks (does not show cards). Bets: 0.50. Collects: 0. Loses: 0.50.
+Game ended at: 2016/8/2 11:19:41
+
+Game started at: 2016/8/2 11:19:45
+Game ID: 693978609 0.10/0.25 (PRR) Elepaio (Omaha HiLow)
+Seat 4 is the button
+Seat 1: fullstacker (38.58).
+Seat 3: ChazDazzle (9.40).
+Seat 4: ramair7 (14.01).
+Player fullstacker has small blind (0.10)
+Player ChazDazzle has big blind (0.25)
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player fullstacker received a card.
+Player ChazDazzle received card: [Qc]
+Player ChazDazzle received card: [9c]
+Player ChazDazzle received card: [5h]
+Player ChazDazzle received card: [6h]
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 received a card.
+Player ramair7 calls (0.25)
+Player fullstacker folds
+Player ChazDazzle checks
+*** FLOP ***: [Jh 10d 10h]
+Player ChazDazzle bets (0.25)
+Player ramair7 calls (0.25)
+*** TURN ***: [Jh 10d 10h] [10c]
+Player ChazDazzle checks
+Player ramair7 bets (0.52)
+Player ChazDazzle calls (0.52)
+*** RIVER ***: [Jh 10d 10h 10c] [2c]
+Player ChazDazzle checks
+Player ramair7 bets (1.02)
+Player ChazDazzle folds
+Uncalled bet (1.02) returned to ramair7
+Player ramair7 mucks cards
+------ Summary ------
+Pot: 2.04. Rake 0.08. JP fee 0.02
+Board: [Jh 10d 10h 10c 2c]
+Player fullstacker does not show cards.Bets: 0.10. Collects: 0. Loses: 0.10.
+Player ChazDazzle does not show cards.Bets: 1.02. Collects: 0. Loses: 1.02.
+*Player ramair7 mucks (does not show cards). Bets: 1.02. Collects: 2.04. Wins: 1.02.
+Game ended at: 2016/8/2 11:20:30
+
