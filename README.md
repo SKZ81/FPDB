@@ -1,3 +1,5 @@
+Edit: forked from philroberts/FPDB-for-OSX on 06/11/2023 (branch [qtfork](philroberts/FPDB-for-OSX) )
+
 Qt branch notes
 ===============
 
