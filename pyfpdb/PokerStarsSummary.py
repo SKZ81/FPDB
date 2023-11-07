@@ -97,34 +97,35 @@ class PokerStarsSummary(TourneySummary):
                         Tournament\sstarted\s+(-\s)?
                         (?P<DATETIME>.*$)
                         """ % substitutions ,re.VERBOSE|re.MULTILINE)
-    
-    re_HTMLTourneyInfo = re.compile(ur'<td align="right">(?P<DATETIME>.*)</td>' \
-                        ur'<td align="center">(?P<TOURNO>[0-9]+)</td>' \
-                        ur'(<td>(?P<TOURNAME>.*)</td>)?' \
-                        ur'<td align="right">' \
-                            ur'(?P<LIMIT>[ a-zA-Z\-]+)\s' \
-                            ur'(?P<GAME>Hold\'em|Razz|RAZZ|7\sCard\sStud|7\sCard\sStud\sH/L|Omaha|Omaha\sH/L|Badugi|Triple\sDraw\s2\-7(\sLowball)?|Single\sDraw\s2\-7(\sLowball)?|5\sCard\sDraw|5\sCard\sOmaha(\sH/L)?|Courchevel(\sH/L)?|HORSE|Horse|8\-Game|HOSE|Hose|Omaha\sH/L\sMixed|Hold\'em\sMixed|PLH/PLO\sMixed|NLH/PLO\sMixed|Triple\sStud|NLH/NLO\sMixed|Mixed\sNLH/NLO|Mixed\sOmaha\sH/L|Mixed\sHold\'em|Mixed\sPLH/PLO|Mixed\sNLH/PLO)</td>' \
-                        ur'<td.*?>(?P<CURRENCY>(%(LEGAL_ISO)s)?)(&nbsp;)?</td>' \
-                        ur'<td.*?>(?P<BUYIN>([,.0-9 ]+|Freeroll))(?P<FPPBUYIN>(\s|&nbsp;)(FPP|SC|StarsCoin))?</td>' \
-                        ur'<td.*?>(?P<REBUYADDON>[,.0-9 ]+)</td>' \
-                        ur'<td.*?>(?P<FEE>[,.0-9 ]+)</td>' \
-                        ur'<td align="?right"?>(?P<RANK>[,.0-9]+)</td>' \
-                        ur'<td align="right">(?P<ENTRIES>[,.0-9]+)</td>' \
-                        ur'(<td.*?>[,.0-9]+</td>)?' \
-                        ur'<td.*?>(?P<WINNINGS>[,.0-9]+)(?P<FPPWINNINGS>\s\+\s[,.0-9]+(\s|&nbsp;)(FPP|SC|StarsCoin))?</td>' \
-                        ur'<td.*?>(?P<KOS>[,.0-9]+)</td>' \
-                        ur'<td.*?>((?P<TARGET>[,.0-9]+)|(&nbsp;))</td>' \
-                        ur'<td.*?>((?P<WONTICKET>\*\\\/\*)|(&nbsp;))</td>' 
+
+    re_HTMLTourneyInfo = re.compile(r'<td align="right">(?P<DATETIME>.*)</td>' \
+                                    r'<td align="center">(?P<TOURNO>[0-9]+)</td>' \
+                                    r'(<td>(?P<TOURNAME>.*)</td>)?' \
+                                    r'<td align="right">' \
+                                    r'(?P<LIMIT>[ a-zA-Z\-]+)\s' \
+                                    r'(?P<GAME>Hold\'em|Razz|RAZZ|7\sCard\sStud|7\sCard\sStud\sH/L|Omaha|Omaha\sH/L|Badugi|Triple\sDraw\s2\-7(\sLowball)?|Single\sDraw\s2\-7(\sLowball)?|5\sCard\sDraw|5\sCard\sOmaha(\sH/L)?|Courchevel(\sH/L)?|HORSE|Horse|8\-Game|HOSE|Hose|Omaha\sH/L\sMixed|Hold\'em\sMixed|PLH/PLO\sMixed|NLH/PLO\sMixed|Triple\sStud|NLH/NLO\sMixed|Mixed\sNLH/NLO|Mixed\sOmaha\sH/L|Mixed\sHold\'em|Mixed\sPLH/PLO|Mixed\sNLH/PLO)</td>' \
+                                    r'<td.*?>(?P<CURRENCY>(%(LEGAL_ISO)s)?)(&nbsp;)?</td>' \
+                                    r'<td.*?>(?P<BUYIN>([,.0-9 ]+|Freeroll))(?P<FPPBUYIN>(\s|&nbsp;)(FPP|SC|StarsCoin))?</td>' \
+                                    r'<td.*?>(?P<REBUYADDON>[,.0-9 ]+)</td>' \
+                                    r'<td.*?>(?P<FEE>[,.0-9 ]+)</td>' \
+                                    r'<td align="?right"?>(?P<RANK>[,.0-9]+)</td>' \
+                                    r'<td align="right">(?P<ENTRIES>[,.0-9]+)</td>' \
+                                    r'(<td.*?>[,.0-9]+</td>)?' \
+                                    r'<td.*?>(?P<WINNINGS>[,.0-9]+)(?P<FPPWINNINGS>\s\+\s[,.0-9]+(\s|&nbsp;)(FPP|SC|StarsCoin))?</td>' \
+                                    r'<td.*?>(?P<KOS>[,.0-9]+)</td>' \
+                                    r'<td.*?>((?P<TARGET>[,.0-9]+)|(&nbsp;))</td>' \
+                                    r'<td.*?>((?P<WONTICKET>\*\\\/\*)|(&nbsp;))</td>'
                         % substitutions, re.IGNORECASE)
     
     re_XLSTourneyInfo = {}
     re_XLSTourneyInfo['Date/Time'] = re.compile(r'(?P<DATETIME>.*)')
     re_XLSTourneyInfo['Tourney'] = re.compile(r'(?P<TOURNO>[0-9]+)')
-    re_XLSTourneyInfo['Name'] = re.compile(ur'(?P<TOURNAME>.*)')
-    re_XLSTourneyInfo['Game'] = re.compile(ur'(?P<LIMIT>[ a-zA-Z\-]+)\s' \
-                                           ur'(?P<GAME>Hold\'em|Razz|RAZZ|7\sCard\sStud|7\sCard\sStud\sH/L|Omaha|Omaha\sH/L|Badugi|Triple\sDraw\s2\-7(\sLowball)?|Single\sDraw\s2\-7(\sLowball)?|5\sCard\sDraw|5\sCard\sOmaha(\sH/L)?|Courchevel(\sH/L)?|HORSE|Horse|8\-Game|HOSE|Hose|Omaha\sH/L\sMixed|Hold\'em\sMixed|PLH/PLO\sMixed|NLH/PLO\sMixed|Triple\sStud|NLH/NLO\sMixed|Mixed\sNLH/NLO|Mixed\sOmaha\sH/L|Mixed\sHold\'em|Mixed\sPLH/PLO|Mixed\sNLH/PLO)')
-    re_XLSTourneyInfo['Currency'] = re.compile(ur'(?P<CURRENCY>(%(LEGAL_ISO)s)?)' % substitutions)
-    re_XLSTourneyInfo['Buy-In'] = re.compile(ur'(?P<BUYIN>([,.0-9]+|Freeroll))(?P<FPPBUYIN>\s(FPP|SC|StarsCoin))?')
+
+    re_XLSTourneyInfo['Name'] = re.compile(r'(?P<TOURNAME>.*)')
+    re_XLSTourneyInfo['Game'] = re.compile(r'(?P<LIMIT>[ a-zA-Z\-]+)\s' \
+                                           '(?P<GAME>Hold\'em|Razz|RAZZ|7\sCard\sStud|7\sCard\sStud\sH/L|Omaha|Omaha\sH/L|Badugi|Triple\sDraw\s2\-7(\sLowball)?|Single\sDraw\s2\-7(\sLowball)?|5\sCard\sDraw|5\sCard\sOmaha(\sH/L)?|Courchevel(\sH/L)?|HORSE|Horse|8\-Game|HOSE|Hose|Omaha\sH/L\sMixed|Hold\'em\sMixed|PLH/PLO\sMixed|NLH/PLO\sMixed|Triple\sStud|NLH/NLO\sMixed|Mixed\sNLH/NLO|Mixed\sOmaha\sH/L|Mixed\sHold\'em|Mixed\sPLH/PLO|Mixed\sNLH/PLO)')
+    re_XLSTourneyInfo['Currency'] = re.compile(r'(?P<CURRENCY>(%(LEGAL_ISO)s)?)' % substitutions)
+    re_XLSTourneyInfo['Buy-In'] = re.compile(r'(?P<BUYIN>([,.0-9]+|Freeroll))(?P<FPPBUYIN>\s(FPP|SC|StarsCoin))?')
     re_XLSTourneyInfo['ReBuys'] = re.compile(r'(?P<REBUYADDON>[,.0-9]+)')
     re_XLSTourneyInfo['Rake'] =  re.compile(r'(?P<FEE>[,.0-9]+)')
     re_XLSTourneyInfo['Place'] = re.compile(r'(?P<RANK>[,.0-9]+)')

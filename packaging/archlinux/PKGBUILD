@@ -1,0 +1,35 @@
+# Maintainer: SKZ81 <>
+
+pkgname=zFPDB
+pkgver=0.41.0
+pkgrel=1
+pkgdesc='port (and refurbushing) of FPDB by SKZ81'
+arch=(any)
+url='https://github.com/SKZ81/zFPDB'
+license=('LGPL3') # NOTE : to be checked : compat with forked repo license
+depends=('python' 'python-pyqt5' 'python-mathplotlib')
+optdepends=('python-beautifulsoup: Winamax and Merge parser support'
+            'python-pypoker-eval: pypoker eval support')
+makedepends=('git' 'make')
+source=('git+https://github.com/SKZ81/zFPDB.git')
+sha256sums=('SKIP')
+
+# pkgver() {
+    # TO BE DONE
+# }
+
+build() {
+  cd srcdir/$pkgname
+  python setup.py build
+}
+
+# check() {
+#   cd $srcdir/$pkgname
+#   pytest
+# }
+
+package() {
+  cd srcdir/$pkgname
+  python setup.py install --root="$pkgdir" --optimize=1 --skip-build
+#   install -Dm644 -t "$pkgdir"/usr/share/licenses/$pkgname LICENSE
+}

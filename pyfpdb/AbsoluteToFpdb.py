@@ -72,7 +72,7 @@ class Absolute(HandHistoryConverter):
     #Seat 6 - FETS63 ($0.75 in chips)
     #Board [10s 5d Kh Qh 8c]
 
-    re_GameInfo = re.compile( ur"""
+    re_GameInfo = re.compile(r"""
               ^Stage\s+\#C?(?P<HID>[0-9]+):?\s+
               (?:Tourney\ ID\ (?P<TRNY_ID>\d+)\s+)?
               (?P<GAME>Holdem|HOLDEM|Seven\ Card\ Hi\/Lo|HORSE|Omaha|Omaha\ Hi\/Lo|OMAHA)\s+
@@ -91,7 +91,7 @@ class Absolute(HandHistoryConverter):
         """, re.MULTILINE|re.VERBOSE|re.DOTALL)
 
     re_HorseGameInfo = re.compile(
-            ur"^Game Type: (?P<LIMIT>Limit) (?P<GAME>Holdem)",
+            r"^Game Type: (?P<LIMIT>Limit) (?P<GAME>Holdem)",
             re.MULTILINE)
 
     re_HandInfo = re_GameInfo
@@ -100,8 +100,8 @@ class Absolute(HandHistoryConverter):
     re_Button = re.compile(ur"Seat #(?P<BUTTON>[0-9]) is the ?[dead]* dealer$", re.MULTILINE)
 
     re_PlayerInfo = re.compile(
-            ur"^Seat (?P<SEAT>[0-9]) - (?P<PNAME>.*) "\
-            ur"\((?:\$| €|)(?P<CASH>[0-9]*[.,0-9]+) in chips\)",
+            r"^Seat (?P<SEAT>[0-9]) - (?P<PNAME>.*) "\
+            r"\((?:\$| €|)(?P<CASH>[0-9]*[.,0-9]+) in chips\)",
             re.MULTILINE)
 
     re_Board = re.compile(ur"\[(?P<CARDS>[^\]]*)\]? *$", re.MULTILINE)
