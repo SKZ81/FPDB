@@ -27,6 +27,7 @@ Handles fpdb/fpdb-hud configuration files.
 
 #    Standard Library modules
 from __future__ import with_statement
+from __future__ import print_function
 
 import L10n
 _ = L10n.get_translation()
@@ -95,7 +96,7 @@ if sysPlatform[0:5] == 'Linux':
 elif sysPlatform == 'Darwin':
     OS_FAMILY = 'Mac'
 elif sysPlatform == 'Windows':
-    if platform.release() <> 'XP':
+    if platform.release() != 'XP':
         OS_FAMILY = 'Win7' #Vista and win7
     else:
         OS_FAMILY = 'XP'
@@ -196,7 +197,7 @@ def get_config(file_name, fallback = True):
                      + " " + _("Config file has been created at %r.") % (config_path+"\n") )
 
         except:
-            print(_("Error copying .example config file, cannot fall back. Exiting."), "\n")
+            print((_("Error copying .example config file, cannot fall back. Exiting."), "\n"))
             sys.stderr.write(_("Error copying .example config file, cannot fall back. Exiting.")+"\n")
             sys.stderr.write( str(sys.exc_info()) )
             sys.exit()
@@ -261,7 +262,7 @@ LOCALE_ENCODING = locale.getpreferredencoding()
 if LOCALE_ENCODING in ("US-ASCII", "", None):
     LOCALE_ENCODING = "cp1252"
     if (os.uname()[0]!="Darwin"):
-        print(_("Default encoding set to US-ASCII, defaulting to CP1252 instead."), _("Please report this problem."))
+        print((_("Default encoding set to US-ASCII, defaulting to CP1252 instead."), _("Please report this problem.")))
     
 # needs LOCALE_ENCODING (above), imported for sqlite setup in Config class below
 import Charset
@@ -1199,7 +1200,7 @@ class Config:
     def save_layout_set(self, ls, max, locations, width=None, height=None):
         #wid/height normally not specified when saving common from the mucked display
         
-        print "saving layout =", ls.name, " ", str(max), "Max ", str(locations), "size:", str(width), "x", str(height)
+        print("saving layout =", ls.name, " ", str(max), "Max ", str(locations), "size:", str(width), "x", str(height))
         ls_node = self.get_layout_set_node(ls.name)
         layout_node = self.get_layout_node(ls_node, max)
         if width: layout_node.setAttribute("width", str(width))
@@ -1274,7 +1275,7 @@ class Config:
                         dbn.removeAttribute("default")
             elif db_node.hasAttribute("default"): 
                 db_node.removeAttribute("default")
-        if self.supported_databases.has_key(db_name):
+        if db_name in self.supported_databases:
             if db_desc   is not None: self.supported_databases[db_name].dp_desc   = db_desc
             if db_ip     is not None: self.supported_databases[db_name].dp_ip     = db_ip
             if db_user   is not None: self.supported_databases[db_name].dp_user   = db_user
@@ -1328,7 +1329,7 @@ class Config:
             elif db_node.hasAttribute("default"): 
                                       db_node.removeAttribute("default")
 
-        if self.supported_databases.has_key(db_name):
+        if db_name in self.supported_databases:
             if db_desc   is not None: self.supported_databases[db_name].dp_desc   = db_desc
             if db_ip     is not None: self.supported_databases[db_name].dp_ip     = db_ip
             if db_user   is not None: self.supported_databases[db_name].dp_user   = db_user
@@ -1570,9 +1571,9 @@ class Config:
         
         site_layouts = self.get_site_parameters(site)["layout_set"]
         
-        if site_layouts.has_key(game_type):
+        if game_type in site_layouts:
             return self.layout_sets[site_layouts[game_type]]
-        elif site_layouts.has_key("all"):
+        elif "all" in site_layouts:
             return self.layout_sets[site_layouts["all"]]
         else:
             return None
@@ -1618,7 +1619,7 @@ class Config:
     def get_aux_parameters(self, name):
         """Gets a dict of mucked window parameters from the named mw."""
         param = {}
-        if self.aux_windows.has_key(name):
+        if name in self.aux_windows:
             for key in dir(self.aux_windows[name]):
                 if key.startswith('__'): continue
                 value = getattr(self.aux_windows[name], key)
@@ -1639,7 +1640,7 @@ class Config:
     def get_layout_set_parameters(self, name):
         """Gets a dict of parameters from the named ls."""
         param = {}
-        if self.layout_sets.has_key(name):
+        if name in self.layout_sets:
             for key in dir(self.layout_sets[name]):
                 if key.startswith('__'): continue
                 value = getattr(self.layout_sets[name], key)
@@ -1659,7 +1660,7 @@ class Config:
     def get_supported_games_parameters(self, name, game_type):
         """Gets a dict of parameters from the named gametype."""
         param = {}
-        if self.supported_games.has_key(name):
+        if name in self.supported_games:
             for key in dir(self.supported_games[name]):
                 if key.startswith('__'): continue
                 if key == ('game_stat_set'): continue
@@ -1672,9 +1673,9 @@ class Config:
             
             game_stat_set = getattr(self.supported_games[name], 'game_stat_set')
                 
-            if game_stat_set.has_key(game_type):
+            if game_type in game_stat_set:
                 param['game_stat_set'] = self.stat_sets[game_stat_set[game_type].stat_set]
-            elif game_stat_set.has_key("all"):
+            elif "all" in game_stat_set:
                 param['game_stat_set'] = self.stat_sets[game_stat_set["all"].stat_set]
             else:
                 return None
@@ -1697,67 +1698,67 @@ if __name__== "__main__":
     set_logfile(u"fpdb-log.txt")
     c = Config()
     
-    print "\n----------- GENERAL -----------"
-    print c.general
+    print("\n----------- GENERAL -----------")
+    print(c.general)
 
-    print "\n----------- SUPPORTED SITES -----------"
+    print("\n----------- SUPPORTED SITES -----------")
     for s in c.supported_sites.keys():
-        print c.supported_sites[s]
+        print(c.supported_sites[s])
 
-    print "\n----------- SUPPORTED GAMES -----------"
+    print("\n----------- SUPPORTED GAMES -----------")
     for game in c.supported_games.keys():
-        print c.supported_games[game]
+        print(c.supported_games[game])
 
-    print "\n----------- SUPPORTED DATABASES -----------"
+    print("\n----------- SUPPORTED DATABASES -----------")
     for db in c.supported_databases.keys():
-        print c.supported_databases[db]
+        print(c.supported_databases[db])
 
-    print "\n----------- AUX WINDOW FORMATS -----------"
+    print("\n----------- AUX WINDOW FORMATS -----------")
     for w in c.aux_windows.keys():
-        print c.aux_windows[w]
+        print(c.aux_windows[w])
     
-    print "\n----------- LAYOUT SETS FORMATS -----------"
+    print("\n----------- LAYOUT SETS FORMATS -----------")
     for w in c.layout_sets.keys():
-        print c.layout_sets[w]
+        print(c.layout_sets[w])
     
-    print "\n----------- STAT SETS FORMATS -----------"
+    print("\n----------- STAT SETS FORMATS -----------")
     for w in c.stat_sets.keys():
-        print c.stat_sets[w]
+        print(c.stat_sets[w])
 
-    print "\n----------- HAND HISTORY CONVERTERS -----------"
+    print("\n----------- HAND HISTORY CONVERTERS -----------")
     for w in c.hhcs.keys():
-        print c.hhcs[w]
+        print(c.hhcs[w])
 
-    print "\n----------- POPUP WINDOW FORMATS -----------"
+    print("\n----------- POPUP WINDOW FORMATS -----------")
     for w in c.popup_windows.keys():
-        print c.popup_windows[w]
+        print(c.popup_windows[w])
         
-    print "\n-----------  DATABASE PARAMS -----------"
-    print "db    = ", c.get_db_parameters()
+    print("\n-----------  DATABASE PARAMS -----------")
+    print("db    = ", c.get_db_parameters())
     
-    print "\n-----------  HUD PARAMS -----------"
-    print "hud params ="
+    print("\n-----------  HUD PARAMS -----------")
+    print("hud params =")
     for hud_param, value in c.get_hud_ui_parameters().iteritems():
-        print " %s = %s" % (hud_param, value)
+        print(" %s = %s" % (hud_param, value))
         
-    print "\n-----------  STARTUP PATH -----------"
-    print "start up path = ", c.execution_path("")
+    print("\n-----------  STARTUP PATH -----------")
+    print("start up path = ", c.execution_path(""))
     
-    print "\n-----------  GUI CASH STATS -----------"
-    print "gui_cash_stats =", c.gui_cash_stats
+    print("\n-----------  GUI CASH STATS -----------")
+    print("gui_cash_stats =", c.gui_cash_stats)
 
-    print "\n----------- ENVIRONMENT CONSTANTS -----------"
-    print "Configuration.install_method {source,exe,app} =", INSTALL_METHOD
-    print "Configuration.fpdb_root_path =", FPDB_ROOT_PATH, type(FPDB_ROOT_PATH)
-    print "Configuration.graphics_path =", GRAPHICS_PATH, type(GRAPHICS_PATH)
-    print "Configuration.appdata_path =", APPDATA_PATH, type(APPDATA_PATH)
-    print "Configuration.config_path =", CONFIG_PATH, type(CONFIG_PATH)
-    print "Configuration.pyfpdb_path =", PYFPDB_PATH, type(PYFPDB_PATH)
-    print "Configuration.os_family {Linux,Mac,XP,Win7} =", OS_FAMILY
-    print "Configuration.posix {True/False} =", POSIX
-    print "Configuration.python_version =", PYTHON_VERSION
-    print "\n\n----------- END OF CONFIG REPORT -----------"
+    print("\n----------- ENVIRONMENT CONSTANTS -----------")
+    print("Configuration.install_method {source,exe,app} =", INSTALL_METHOD)
+    print("Configuration.fpdb_root_path =", FPDB_ROOT_PATH, type(FPDB_ROOT_PATH))
+    print("Configuration.graphics_path =", GRAPHICS_PATH, type(GRAPHICS_PATH))
+    print("Configuration.appdata_path =", APPDATA_PATH, type(APPDATA_PATH))
+    print("Configuration.config_path =", CONFIG_PATH, type(CONFIG_PATH))
+    print("Configuration.pyfpdb_path =", PYFPDB_PATH, type(PYFPDB_PATH))
+    print("Configuration.os_family {Linux,Mac,XP,Win7} =", OS_FAMILY)
+    print("Configuration.posix {True/False} =", POSIX)
+    print("Configuration.python_version =", PYTHON_VERSION)
+    print("\n\n----------- END OF CONFIG REPORT -----------")
 
-    print "press enter to end"
+    print("press enter to end")
     sys.stdin.readline()
 

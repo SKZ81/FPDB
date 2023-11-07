@@ -4,6 +4,7 @@
 
 Mucked cards display for FreePokerTools HUD.
 """
+from __future__ import print_function
 #    Copyright 2008-2012,  Ray E. Barker
 #    
 #    This program is free software; you can redistribute it and/or modify
@@ -188,7 +189,7 @@ class Stud_cards:
     def update_data(self, new_hand_id, db_connection):
         self.tips = []
         action = db_connection.get_action_from_hand(new_hand_id)
-        print action
+        print(action)
         for street in action:
             temp = ''
             for act in street:

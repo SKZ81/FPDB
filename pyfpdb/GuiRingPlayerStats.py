@@ -15,6 +15,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 # In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -174,12 +175,12 @@ class GuiRingPlayerStats(QSplitter):
         self.setStretchFactor(1, 1)
 
         # Make sure Hand column is not displayed.
-        hand_column = (x for x in self.columns if x[0] == 'hand').next()
+        hand_column = next((x for x in self.columns if x[0] == 'hand'))
         hand_column[colshowsumm] = hand_column[colshowposn] = False
 
         # If rfi and steal both on for summaries, turn rfi off.
-        rfi_column = (x for x in self.columns if x[0] == 'rfi').next()
-        steals_column = (x for x in self.columns if x[0] == 'steals').next()
+        rfi_column = next((x for x in self.columns if x[0] == 'rfi'))
+        steals_column = next((x for x in self.columns if x[0] == 'steals'))
         if rfi_column[colshowsumm] and steals_column[colshowsumm]:
             rfi_column[colshowsumm] = False
 
@@ -225,13 +226,13 @@ class GuiRingPlayerStats(QSplitter):
 
         if not sitenos:
             #Should probably pop up here.
-            print _("No sites selected - defaulting to PokerStars")
+            print(_("No sites selected - defaulting to PokerStars"))
             sitenos = [2]
         if not playerids:
-            print _("No player ids found")
+            print(_("No player ids found"))
             return
         if not limits:
-            print _("No limits found")
+            print(_("No limits found"))
             return
 
         self.createStatsTable(vbox, playerids, sitenos, limits, seats, groups, dates, games, currencies)
@@ -390,7 +391,7 @@ class GuiRingPlayerStats(QSplitter):
         colshow = colshowsumm
         if 'posn' in groups:  colshow = colshowposn
 
-        pname_column = (x for x in self.columns if x[0] == 'pname').next()
+        pname_column = next((x for x in self.columns if x[0] == 'pname'))
         if 'allplayers' in groups:
             nametest = "(hp.playerId)"
             if holecards or 'posn' in groups:
@@ -510,7 +511,7 @@ class GuiRingPlayerStats(QSplitter):
         query = query.replace("<datestest>", " between '" + dates[0] + "' and '" + dates[1] + "'")
 
         # Group by position?
-        plposition_column = (x for x in self.columns if x[0] == 'plposition').next()
+        plposition_column = next((x for x in self.columns if x[0] == 'plposition'))
         if 'posn' in groups:
             query = query.replace("<position>", "hp.position")
             plposition_column[colshow] = True

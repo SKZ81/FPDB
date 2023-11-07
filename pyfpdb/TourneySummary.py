@@ -16,6 +16,7 @@
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
 """parses and stores summary sections from e.g. eMail or summary files"""
+from __future__ import print_function
 
 import L10n
 _ = L10n.get_translation()
@@ -312,7 +313,7 @@ winnings    (int) the money the player ended the tourney with (can be 0, or -1 i
     #end def addPlayer
 
     def writeSummary(self, fh=sys.__stdout__):
-        print >> fh, "Override me"
+        print("Override me", file=fh)
 
     def printSummary(self):
         self.writeSummary(sys.stdout)
@@ -349,9 +350,9 @@ winnings    (int) the money the player ended the tourney with (can be 0, or -1 i
                 whole_file = in_fh.read()
                 in_fh.close()
                 break
-            except UnicodeDecodeError, e:
+            except UnicodeDecodeError as e:
                 log.warning("TS.readFile: '%s' : '%s'" % (filename, e))
-            except UnicodeError, e:
+            except UnicodeError as e:
                 log.warning("TS.readFile: '%s' : '%s'" % (filename, e))
 
         return whole_file

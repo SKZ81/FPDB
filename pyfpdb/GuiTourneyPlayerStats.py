@@ -15,6 +15,7 @@
 #along with this program. If not, see <http://www.gnu.org/licenses/>.
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -176,7 +177,7 @@ class GuiTourneyPlayerStats(QSplitter):
         numTourneys = self.filters.getNumTourneys()
         self.addGrid(vbox, 'tourneyPlayerDetailedStats', numTourneys, tourneyTypes, playerids, sitenos, seats)
 
-        print _("Stats page displayed in %4.2f seconds") % (time() - startTime)
+        print(_("Stats page displayed in %4.2f seconds") % (time() - startTime))
 
     def fillStatsFrame(self, vbox):
         tourneyTypes = self.filters.getTourneyTypes()
@@ -199,10 +200,10 @@ class GuiTourneyPlayerStats(QSplitter):
 
         if not sitenos:
             #Should probably pop up here.
-            print _("No sites selected - defaulting to PokerStars")
+            print(_("No sites selected - defaulting to PokerStars"))
             sitenos = [2]
         if not playerids:
-            print _("No player ids found")
+            print(_("No player ids found"))
             return
         
         self.createStatsTable(vbox, tourneyTypes, playerids, sitenos, seats)

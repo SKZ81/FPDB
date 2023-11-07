@@ -15,6 +15,7 @@
 #along with this program. If not, see <http://www.gnu.org/licenses/>.
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -290,7 +291,7 @@ class IdentifySite:
                 try: #TODO: this is a dirty hack. Borrowed from fpdb_import
                     name = unicode(name, "utf8", "replace")
                 except TypeError:
-                    print TypeError
+                    print(TypeError)
                 mod = __import__(f.site.hhc_fname)
                 obj = getattr(mod, f.site.filter_name, None)
                 hhc = obj(self.config, in_path = name, sitename = f.site.hhc_fname, autostart = False)
@@ -307,14 +308,14 @@ def main(argv=None):
     IdSite = IdentifySite(config)
     start = time()
     IdSite.scan(in_path)
-    print 'duration', time() - start
+    print('duration', time() - start)
 
-    print "\n----------- SITE LIST -----------"
+    print("\n----------- SITE LIST -----------")
     for sid, site in IdSite.sitelist.iteritems():
-        print "%2d: Name: %s HHC: %s Summary: %s" %(sid, site.name, site.filter_name, site.summary)
-    print "----------- END SITE LIST -----------"
+        print("%2d: Name: %s HHC: %s Summary: %s" %(sid, site.name, site.filter_name, site.summary))
+    print("----------- END SITE LIST -----------")
 
-    print "\n----------- ID REGRESSION FILES -----------"
+    print("\n----------- ID REGRESSION FILES -----------")
     count = 0
     for f, ffile in IdSite.filelist.iteritems():
         tmp = ""
@@ -324,13 +325,13 @@ def main(argv=None):
             tmp += "Conv: %s" % ffile.site.hhc_fname
         elif ffile.ftype == "summary":
             tmp += "Conv: %s" % ffile.site.summary
-        print f, tmp
-    print count, 'files identified'
-    print "----------- END ID REGRESSION FILES -----------"
+        print(f, tmp)
+    print(count, 'files identified')
+    print("----------- END ID REGRESSION FILES -----------")
 
-    print "----------- RETRIEVE FOR SINGLE SITE -----------"
+    print("----------- RETRIEVE FOR SINGLE SITE -----------")
     IdSite.getFilesForSite("PokerStars", "hh")
-    print "----------- END RETRIEVE FOR SINGLE SITE -----------"
+    print("----------- END RETRIEVE FOR SINGLE SITE -----------")
 
 if __name__ == '__main__':
     sys.exit(main())

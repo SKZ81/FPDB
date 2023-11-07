@@ -18,6 +18,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 ########################################################################
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -581,7 +582,7 @@ class Fulltilt(HandHistoryConverter):
     def readButton(self, hand):
         try:
             hand.buttonpos = int(self.re_Button.search(hand.handText).group('BUTTON'))
-        except AttributeError, e:
+        except AttributeError as e:
             # FTP has no indication that a hand is cancelled.
             raise FpdbHandPartial(_("%s Failed to detect button (hand #%s cancelled?)") % ("readButton:", hand.handid))
 

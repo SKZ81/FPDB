@@ -17,6 +17,7 @@
 
 ########################################################################
 
+from __future__ import print_function
 failure_list = []
 success_list = []
 verbose = False
@@ -77,12 +78,12 @@ def try_import(modulename):
 
 def success(message):
     if verbose:
-        print message
+        print(message)
     success_list.append(message)
 
 def failure(message):
     if verbose:
-        print _("Error:"), message
+        print(_("Error:"), message)
     failure_list.append(message)
 
 

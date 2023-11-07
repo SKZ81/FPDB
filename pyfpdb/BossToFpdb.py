@@ -18,6 +18,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 ########################################################################
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -430,7 +431,7 @@ class Boss(HandHistoryConverter):
                 lastbet = committed[-1][0] - committed[-2][0]
                 if lastbet > 0: # uncalled
                     contributed -= lastbet
-            except IndexError, e:
+            except IndexError as e:
                 log.error(_("BossToFpdb.calculateAntes(): '%s': Major failure while calculating pot: '%s'") % (self.handid, e))
                 raise FpdbParseError
             if street=='DEAL':

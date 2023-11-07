@@ -16,6 +16,7 @@
 #along with this program. If not, see <http://www.gnu.org/licenses/>.
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import urllib, htmllib, formatter
 
 class AppURLopener(urllib.FancyURLopener):
@@ -176,11 +177,11 @@ class EverleafSummary:
         file = urllib.urlopen("http://www.poker4ever.com/en.tournaments.tournament-statistics?tid="+id)
         self.parser = SummaryParser(formatter.NullFormatter())
         self.parser.feed(file.read())
-        print "site=",self.parser.SiteName, "tourneyname=", self.parser.TourneyName, "tourneyid=", self.parser.TourneyId
-        print "start time=",self.parser.TourneyStartTime, "end time=",self.parser.TourneyEndTime
-        print "structure=", self.parser.TourneyStructure, "game type=",self.parser.TourneyGameType
-        print "buy-in=", self.parser.TourneyBuyIn, "rebuys=", self.parser.TourneyRebuys, "total players=", self.parser.TourneysPlayers, "pool=", self.parser.TourneyPool
-        print "results=", self.parser.Results
+        print("site=",self.parser.SiteName, "tourneyname=", self.parser.TourneyName, "tourneyid=", self.parser.TourneyId)
+        print("start time=",self.parser.TourneyStartTime, "end time=",self.parser.TourneyEndTime)
+        print("structure=", self.parser.TourneyStructure, "game type=",self.parser.TourneyGameType)
+        print("buy-in=", self.parser.TourneyBuyIn, "rebuys=", self.parser.TourneyRebuys, "total players=", self.parser.TourneysPlayers, "pool=", self.parser.TourneyPool)
+        print("results=", self.parser.Results)
     
     
 if __name__ == "__main__":

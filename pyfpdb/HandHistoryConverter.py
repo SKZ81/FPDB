@@ -15,6 +15,7 @@
 #along with this program. If not, see <http://www.gnu.org/licenses/>.
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -142,11 +143,11 @@ HandHistoryConverter: '%(sitename)s'
                 try:
                     self.processedHands.append(self.processHand(handText))
                     lastParsed = 'stored'
-                except FpdbHandPartial, e:
+                except FpdbHandPartial as e:
                     self.numPartial += 1
                     lastParsed = 'partial'
                     log.debug("%s" % e)
-                except FpdbHandSkipped, e:
+                except FpdbHandSkipped as e:
                     self.numSkipped += 1
                     lastParsed = 'skipped'
                 except FpdbParseError:
@@ -467,7 +468,7 @@ or None if we fail to get the info """
                 except:
                     pass
             else:
-                print _("unable to read file with any codec in list!"), self.in_path
+                print(_("unable to read file with any codec in list!"), self.in_path)
                 self.obs = ""
                 return False
         elif self.filetype == "xml":

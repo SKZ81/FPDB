@@ -16,6 +16,7 @@
 #In the "official" distribution you can find the license in agpl-3.0.txt
 
 """A script for fetching Winamax tourney results"""
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -31,8 +32,8 @@ def fetch_results_page(tourney_id):
     try:
         data = urllib2.urlopen(url).read()
         return data
-    except urllib2.HTTPError, e:
-        print e, tourney_id
+    except urllib2.HTTPError as e:
+        print(e, tourney_id)
         return None
 
 def write_file(filename, data):
@@ -55,25 +56,25 @@ def main():
     results_dir = config.get_import_parameters().get("ResultsDirectory")
     results_dir = os.path.expanduser(results_dir)
     site_dir = os.path.join(results_dir, "Merge")
-    print "DEBUG: site_dir: %s" % site_dir
+    print("DEBUG: site_dir: %s" % site_dir)
     filelist = [file for file in os.listdir(site_dir) if not file in [".",".."]]
-    print "DEBUG: filelist : %s" % filelist
-    print "DEBUG: tids     : %s" % tids
+    print("DEBUG: filelist : %s" % filelist)
+    print("DEBUG: tids     : %s" % tids)
 
     for f in filelist:
         try:
             tids.remove(f)
         except ValueError:
-            print "Warning: '%s' is not a known tourney_id" % f
+            print("Warning: '%s' is not a known tourney_id" % f)
 
     if len(tids) == 0:
-        print "No tourney results files to fetch"
+        print("No tourney results files to fetch")
     else:
         for tid in tids:
             filename = os.path.join(site_dir, tid)
             data = fetch_results_page(tid)
             if data != None:
-                print u"DEBUG: write_file(%s)" %(filename)
+                print(u"DEBUG: write_file(%s)" %(filename))
                 write_file(filename, data)
 
 if __name__ == '__main__':

@@ -15,6 +15,7 @@
 #along with this program. If not, see <http://www.gnu.org/licenses/>.
 #In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -164,13 +165,13 @@ class GuiPositionalStats:
 
         if not sitenos:
             #Should probably pop up here.
-            print _("No sites selected - defaulting to PokerStars")
+            print(_("No sites selected - defaulting to PokerStars"))
             sitenos = [2]
         if not playerids:
-            print _("No player ids found")
+            print(_("No player ids found"))
             return
         if not limits:
-            print _("No limits found")
+            print(_("No limits found"))
             return
 
         self.createStatsTable(vbox, playerids, sitenos, limits, seats, dates)
@@ -321,7 +322,7 @@ class GuiPositionalStats:
         vbox.show_all()
 
         self.db.rollback()
-        print _("Positional Stats page displayed in %4.2f seconds") % (time() - starttime)
+        print(_("Positional Stats page displayed in %4.2f seconds") % (time() - starttime))
     #end def fillStatsFrame(self, vbox):
 
     def refineQuery(self, query, playerids, sitenos, limits, seats, dates):

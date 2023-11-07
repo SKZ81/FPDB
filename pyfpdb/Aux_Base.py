@@ -197,7 +197,7 @@ class Aux_Seats(Aux_Window):
                 self.m_windows[i].move(self.positions[i][0] + self.hud.table.x,
                                 self.positions[i][1] + self.hud.table.y)
                 self.hud.layout.location[self.adj[i]] = self.positions[i]
-                if self.params.has_key('opacity'):
+                if 'opacity' in self.params:
                     self.m_windows[i].setWindowOpacity(float(self.params['opacity']))
 
             # main action below - fill the created window with content

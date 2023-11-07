@@ -17,6 +17,7 @@
 
 # Note that this now contains the replayer only! The list of hands has been moved to GuiHandViewer by zarturo.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -413,7 +414,7 @@ class TableState:
             player.chips += action[2]
             player.stack -= action[2]
         else:
-            print "unhandled action: " + str(action)
+            print("unhandled action: " + str(action))
 
         if player.stack == 0:
             self.allinThisStreet = True

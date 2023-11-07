@@ -18,6 +18,7 @@
 #    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307 USA
 ########################################################################
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -232,7 +233,7 @@ class Pkr(HandHistoryConverter):
                      # The hash is to cache the player names, and ignore
                      # The second round
         for a in m:
-            if players.has_key(a.group('PNAME')):
+            if a.group('PNAME') in players:
                 pass # Ignore
             else:
                 #print "DEBUG: addPlayer(%s, %s, %s)" % (a.group('SEAT'), a.group('PNAME'), a.group('CASH'))

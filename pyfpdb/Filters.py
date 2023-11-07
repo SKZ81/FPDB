@@ -15,6 +15,7 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 # In the "official" distribution you can find the license in agpl-3.0.txt.
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -443,7 +444,7 @@ class Filters(QWidget):
                 vbox1.addLayout(hbox)
                 self.createTourneyTypeLine(hbox, line[0])
         else:
-            print _("INFO: No tourney types returned from database")
+            print(_("INFO: No tourney types returned from database"))
             log.info(_("No tourney types returned from database"))
 
     def fillGamesFrame(self, frame):
@@ -476,7 +477,7 @@ class Filters(QWidget):
                 hbox.addWidget(btnNone)
                 hbox.addStretch()
         else:
-            print _("INFO: No games returned from database")
+            print(_("INFO: No games returned from database"))
             log.info(_("No games returned from database"))
     
     def fillPositionsFrame(self, frame, display):
@@ -649,7 +650,7 @@ class Filters(QWidget):
 
                 hbox.addStretch()
         else:
-            print _("INFO: No games returned from database")
+            print(_("INFO: No games returned from database"))
             log.info(_("No games returned from database"))
 
         if "Type" in display and display["Type"] and 'ring' in types_found and 'tour' in types_found:

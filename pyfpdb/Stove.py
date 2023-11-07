@@ -11,6 +11,7 @@
 #
 # TODO gettextify usage print
 
+from __future__ import print_function
 import L10n
 _ = L10n.get_translation()
 
@@ -161,7 +162,7 @@ Equity       Win         Lose         Tie
 %5.2f%%    %5.2f%%    %5.2f%%    %5.2f%%
 """ % (self.n_hands, hand.c1, hand.c2, cards_from_range(h_range), equity, win_pct, lose_pct, tie_pct)
 
-        print self.output
+        print(self.output)
 
 
 # Expands hand abbreviations such as JJ and AK to full hand ranges.
@@ -304,7 +305,7 @@ def odds_for_range(holder):
         b.append("__")
 
     if monte_carlo:
-        print _('No board given. Using Monte-Carlo simulation...')
+        print(_('No board given. Using Monte-Carlo simulation...'))
         iters = random.randint(25000, 125000)
     else:
         iters = -1
@@ -321,14 +322,14 @@ def odds_for_range(holder):
     return sev
 
 def usage(me):
-    print """Texas Hold'Em odds calculator
+    print("""Texas Hold'Em odds calculator
 Calculates odds against a range of hands.
 
 To use: %s '<board cards>' '<your hand>' '<opponent's range>' [...]
 
 Separate cards with space.
 Separate hands in range with commas.
-""" % me
+""" % me)
 
 def cards_from_range(h_range):
     s = '{'

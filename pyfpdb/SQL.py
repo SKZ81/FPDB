@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """Returns a dict of SQL statements used in fpdb.
 """
+from __future__ import print_function
 #    Copyright 2008-2011, Ray E. Barker
 #   
 #    This program is free software; you can redistribute it and/or modify
@@ -9226,5 +9227,5 @@ if __name__ == "__main__":
 #    just print the default queries and exit
     s = Sql()
     for key in s.query:
-        print "For query " + key + ", sql ="
-        print s.query[key]
+        print("For query " + key + ", sql =")
+        print(s.query[key])
