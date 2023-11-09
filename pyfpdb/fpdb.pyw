@@ -21,7 +21,7 @@ _ = L10n.init_translation()
 import os
 import sys
 import re
-import Queue
+import queue
 
 if os.name == 'nt':
     import win32api
@@ -34,7 +34,7 @@ import traceback
 import Options
 import string
 from functools import partial
-cl_options = string.join(sys.argv[1:])
+cl_options = str(" ").join(sys.argv[1:])
 (options, argv) = Options.fpdb_options()
 
 import logging
@@ -777,7 +777,7 @@ class fpdb(QMainWindow):
                         # thread has ended so remove from list:
                         del self.threads[i]
                         break
-        except Queue.Empty:
+        except queue.Empty:
             # no close messages on queue, do nothing
             pass
 
@@ -1119,7 +1119,7 @@ You can find the full license texts in agpl-3.0.txt, gpl-2.0.txt, gpl-3.0.txt an
         self.quitting = False
         self.visible = False
         self.threads = []     # objects used by tabs - no need for threads, gtk handles it
-        self.closeq = Queue.Queue(20)  # used to signal ending of a thread (only logviewer for now)
+        self.closeq = queue.Queue(20)  # used to signal ending of a thread (only logviewer for now)
 
         if options.initialRun:
             self.display_config_created_dialogue = True
