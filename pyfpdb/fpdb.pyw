@@ -853,7 +853,8 @@ class fpdb(QMainWindow):
 
         tournamentMenu.addAction(makeAction(_('Tourney Graphs'), self.tabTourneyGraphViewer))
         tournamentMenu.addAction(makeAction(_('Tourney Stats'), self.tab_tourney_player_stats, 'Ctrl+T'))
-        #tournamentMenu.addAction(makeAction(_('Tourney Viewer'), self.tab_tourney_viewer_stats))
+        # tournamentMenu.addAction(makeAction(_('Hand Viewer'), self.tab_tourney_hand_viewer))
+        tournamentMenu.addAction(makeAction(_('Tourney Viewer'), self.tab_tourney_viewer_stats))
 
         maintenanceMenu.addAction(makeAction(_('Statistics'), self.dia_database_stats, 'View Database Statistics'))
         maintenanceMenu.addAction(makeAction(_('Create or Recreate Tables'), self.dia_recreate_tables))
